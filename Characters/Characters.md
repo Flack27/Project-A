@@ -17,8 +17,7 @@ Current races and their natural leanings:
 - Elves lean toward wind, piercing weapons, support and ranged archetypes
 - Dwarves lean toward earth, bludgeoning weapons, tank and warrior archetypes  
 - Beastmen lean toward fire, slashing weapons, aggressive combat archetypes
-- Other races to be defined, will fill gaps in the affinity spread and cover 
-  light and dark tendencies for LD awakening probability
+- Humans even spread towards all elements and weapons
 
 Race determines the probability of elemental awakening at 2 star and influences 
 which archetypes are more likely to emerge at 3 star. Nothing is guaranteed, 
@@ -63,10 +62,6 @@ character develops physical archetypes only. An awakened character gains access
 to elemental archetype paths — mage, elementalist, and other awakening-exclusive 
 classes that use their element actively in skills rather than just as a matchup tag.
 
-Mages are exclusively an awakened path. You cannot develop into a mage without 
-an elemental awakening at 2 star, which keeps mages naturally rare and exciting 
-without a separate system to enforce it.
-
 ---
 
 ## Stats
@@ -94,13 +89,6 @@ archetypes scale with them through passives — an assassin archetype might have
 a passive converting ATK into crit damage, a debuffer archetype might have a 
 passive linking effect hit to SPD. This means these stats matter for specific 
 builds without cluttering the base character sheet.
-
-**Hidden growth rate** underlies all stat development. It determines how 
-generously a character benefits at the level thresholds. Hidden on purpose — 
-visible growth rate means instant culling of low rolls before attachment forms. 
-Growth rate can increase through bonding with other characters and completing 
-specific missions. Occasionally a player discovers they have been raising a 
-hidden gem which feels great.
 
 ---
 
