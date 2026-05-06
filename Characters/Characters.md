@@ -1,4 +1,4 @@
-
+%% WAYPOINT %%
 Characters are the core of the game. Everything — the tower, the gear grind, the 
 auto-battle system — exists to develop them. A character is defined by four things 
 that build on each other: race, stats, archetype and skills. These unlock and 
@@ -90,6 +90,8 @@ a passive converting ATK into crit damage, a debuffer archetype might have a
 passive linking effect hit to SPD. This means these stats matter for specific 
 builds without cluttering the base character sheet.
 
+**Hidden growth rate** underlies all stat development. It determines how generously a character benefits at the level thresholds and how quickly weapon techniques develop. Hidden on purpose visible growth rate means instant culling of low rolls before attachment forms.
+
 ---
 
 ## Star Levels & Progression
@@ -116,69 +118,3 @@ is the primary moment of reveal — traits unlock, memory fragments become
 available, stat threshold bonuses apply, and skill slots open. All of this 
 is delivered in one satisfying moment rather than drip fed awkwardly.
 
-
----
-
-## Traits
-
-Every character has two traits. One is a disposition — a characteristic 
-that creates interesting situations and has both a positive expression 
-and a natural counterweight. One is a flaw — something with more bite 
-that can complicate team dynamics but always has a flip side that makes 
-it potentially valuable in the right context.
-
-Traits are not purely negative or positive. They define how a character 
-behaves and what situations they thrive or struggle in. A reckless character 
-occasionally acts outside of turn order but also pushes harder when the 
-situation calls for it. A stubborn character resists being buffed by allies 
-but also resists debuffs from enemies.
-
-Traits can evolve through play. A character with a prejudice against a 
-specific race placed into a successful team with that race over time may 
-see that trait shift. This is not guaranteed and should feel like a natural 
-development rather than a mechanical checklist.
-
-At 1 and 2 star both traits are hidden. At 3 star one trait becomes visible 
-alongside the archetype reveal. At 4 star the second trait becomes visible. 
-Higher star summons arrive with traits already revealed reflecting their 
-more developed starting state.
-
-Traits feed into auto-battle behavior. An aggressive trait character 
-prioritizes offensive skills, a protective trait character monitors 
-ally HP thresholds, a cautious character holds cooldowns for optimal 
-moments. Personality is not just flavor, it has mechanical expression.
-
----
-
-## Memory Fragments
-
-Characters wake up with almost nothing. All they know is that their world 
-froze and they ended up here. Memory returns gradually as they develop, 
-unlocking at star ascension moments as readable entries in their profile. 
-Entirely skippable — a notification appears, the player chooses whether 
-to engage with it or not.
-
-Fragment progression by star level:
-
-1 star — a single line of context. Daughter of a hunter. Former soldier. 
-Travelling merchant. Enough to imagine a life.
-
-2 star — elemental awakening if it occurs is reflected here narratively. 
-A second fragment hints at their life without explaining it. Vague, 
-evocative, incomplete.
-
-3 star — a fragment tied to the first visible trait. Not an explanation 
-of the trait but a snapshot of a moment that suggests its origin. The 
-player infers the connection rather than being told it.
-
-4 star — second trait becomes visible, second major fragment unlocks. 
-The character starts feeling like a person with history.
-
-5 and 6 star — final fragments, the most significant. For players who 
-invested from 1 star to 6 star these provide a genuinely satisfying 
-payoff. Still incomplete by design — the full picture is never given, 
-just enough pieces to form your own.
-
-Higher star summons arrive with earlier fragments already unlocked 
-reflecting their more developed starting state, giving players useful 
-context before committing to investment.

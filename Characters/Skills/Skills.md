@@ -121,14 +121,6 @@ here acts as a soft signal toward compatible archetypes at 3 star —
 the player can read it and start making weapon technique and gear 
 decisions to nudge their character in a direction before archetype locks.
 
-Basic pool options:
-- Small ATK bonus — points toward warrior, assassin
-- Small DEF bonus — points toward tank, guardian
-- Small HP bonus — points toward tank, bruiser, support
-- Small effect accuracy bonus — points toward debuffer, support
-- Small effect resistance bonus — points toward tank, support
-- Small crit chance bonus — points toward assassin, offensive builds
-
 ### 3 Star — Major, Archetype Pool
 The defining passive, unlocking at the same moment as the archetype. 
 Directly expresses combat role and provides the scaling foundation the 
@@ -136,40 +128,11 @@ rest of the character builds around. Every archetype has a curated pool
 of major passives to draw from — the specific one rolled adds individuality 
 within the archetype while always being coherent with the role.
 
-Examples by archetype:
-- Warrior — ATK increases by a percentage for each consecutive turn 
-  acting without taking damage
-- Tank — damage taken above a threshold triggers a stacking DEF buff, 
-  up to three stacks
-- Support — healing and buff skills have increased effect when the 
-  target is below 50% HP
-- Assassin — critical hits grant a SPD buff for one turn
-- Debuffer — effect hit chance increases when targeting enemies that 
-  already have an active debuff
-- Mage — elemental skills deal increased damage against enemies 
-  affected by the same element's status effect
-
 ### 4 Star — Minor, Element or Weapon Pool
 A small passive drawn from either the element pool or weapon pool. 
 Adds situational flavor tied to how the character fights and what 
 element they carry. Does not compete with the archetype passive, 
 just adds a layer of individual character on top of it.
-
-Element pool examples:
-- Fire — basic attacks have a small chance to apply burn, ticking 
-  minor damage over the following turn
-- Earth — taking a hit above a damage threshold triggers a small 
-  DEF buff for one turn
-- Wind — landing a critical hit grants a small SPD buff for one turn
-- Light — landing a killing blow triggers a small self heal
-- Dark — attacks against debuffed enemies deal slightly increased damage
-
-Weapon pool examples:
-- Slashing — basic attacks have a small chance to apply bleed, 
-  ticking minor damage for one turn
-- Bludgeoning — attacks that reduce an enemy below 50% HP apply 
-  a minor DEF reduction for one turn
-- Piercing — first attack each combat has increased hit chance
 
 ### 5 Star — Major, Broad Pool
 Draws from archetype, element and weapon pools combined. The most 
@@ -179,29 +142,7 @@ meaningfully here. Drawn from a curated shortlist specific to the
 character's combination rather than fully randomly, ensuring coherence 
 while still feeling like a discovery.
 
-Broad pool passives tend to combine two aspects of the character into 
-something more than either alone. Examples:
-
-- A wind assassin might roll a passive where critical hits apply a 
-  wind effect reducing enemy SPD, combining element and archetype 
-  into a compounding effect
-- A fire warrior might roll a passive where burn damage they apply 
-  increases their own ATK by a percentage of the damage dealt, 
-  creating a self buffing loop
-- A bludgeoning tank might roll a passive where their stacking DEF 
-  buff also applies a portion of DEF as a shield to the lowest HP 
-  ally at combat start
-- A dark debuffer might roll a passive where enemies killed while 
-  debuffed extend the duration of debuffs on remaining enemies
-
 ### 6 Star — Minor, Broad Pool
 Final polish passive. Small refinement that completes the kit without 
 adding new mechanics. The character is fully formed by this point, 
 this passive makes them feel finished rather than introducing complexity.
-
-Examples:
-- A small percentage increase to the stat the character scales with most
-- A minor cooldown reduction on their most used skill
-- A small bonus activating when fighting alongside a specific archetype 
-  or element, reflecting training history
-- A minor increase to the effect of the 3 star major passive
