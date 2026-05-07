@@ -1,5 +1,5 @@
 
-Archetypes lock in at 3 star and define a character's combat identity 
+Classes lock in at 3 star and define a character's combat identity 
 from that point forward. Every character falls into one of three 
 archetype categories depending on their elemental awakening status.
 
