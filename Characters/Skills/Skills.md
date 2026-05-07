@@ -1,3 +1,4 @@
+
 Every character has four active skill slots and five passives that unlock 
 through star progression. Two active slots are weapon skills drawn from a 
 learnable weapon tree, two are character skills tied to archetype. Weapon 

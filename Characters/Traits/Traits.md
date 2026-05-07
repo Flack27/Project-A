@@ -1,3 +1,4 @@
+
 Traits are things a character is or becomes through their life in the lobby and the tower. They are distinct from stats, archetype and skills — they define personality, capability and role in ways that bleed into combat behaviour, world activity and the texture of who a character is.
 
 ---

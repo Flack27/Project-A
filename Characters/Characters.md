@@ -1,4 +1,4 @@
-%% WAYPOINT %%
+
 Characters are the core of the game. Everything — the tower, the gear grind, the 
 auto-battle system — exists to develop them. A character is defined by four things 
 that build on each other: race, stats, archetype and skills. These unlock and 
