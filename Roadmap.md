@@ -1,13 +1,10 @@
-1. Combat        — the foundation everything references
-2. Lobby         — the container, buildings, activities, what happens between fights
-3. Tower         — core climb, floor structure, milestone unlocks
-4. Dungeons      — branch content, gear grind
-5. Gear          — defined by what dungeons and tower demand
-6. Progression   — star ascension, resources, economy
-7. Story         — Manager, Architect, branch points, faction system
+- Combat system — stats, damage, turn order, status effects (structure only)
+- Gear — rune slots, stat pools, weapon items question resolved
+- Summoning — banner types, pity, gold vs scroll distinction
+- Economy — currencies, drop sources, ascension costs (structure)
+- Tower floors 1-3 — now you have everything to design actual content
+- Lobby floors 1-2 — already mostly there
+- Story beats — Manager, first memory fragments, floor flavor
+- Roadmap proper — now you know what the game actually is at launch vs later
 
 
-
-Monetisation  — battle pass, pull economy, scroll rates
-Guild         — cooperative content, late game
-PvP          — last since it balances against everything else
