@@ -80,22 +80,14 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "ATK down",
-          "2": "DEF down",
-          "3": "SPD down",
-          "4": "effect resistance down",
-          "5": "unhealable",
-          "6": "bar pull",
-          "7": "stun",
-          "8": "sleep",
-          "9": "silence",
-          "10": "taunt",
-          "11": "burn",
-          "12": "bleed"
+          "1": "ATK",
+          "2": "SPD",
+          "3": "DEF",
+          "4": "HP"
         }
       },
-      "name": "debuffs",
-      "id": "Kqo3Qt",
+      "name": "scaling",
+      "id": "W0Yrna",
       "path": ""
     },
     {
@@ -167,14 +159,23 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "ATK",
-          "2": "SPD",
-          "3": "DEF",
-          "4": "HP"
+          "1": "ATK down",
+          "2": "DEF down",
+          "3": "SPD down",
+          "4": "effect resistance down",
+          "5": "unhealable",
+          "6": "bar pull",
+          "7": "stun",
+          "8": "freeze",
+          "9": "sleep",
+          "10": "silence",
+          "11": "taunt",
+          "12": "burn",
+          "13": "bleed"
         }
       },
-      "name": "scaling",
-      "id": "W0Yrna",
+      "name": "debuffs",
+      "id": "Kqo3Qt",
       "path": ""
     }
   ],
@@ -184,7 +185,7 @@
   "classFilesPath": "Templates/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.12",
+  "settingsVersion": "5.13",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

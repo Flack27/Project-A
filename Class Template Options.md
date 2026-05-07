@@ -92,6 +92,7 @@ effect resistance down
 unhealable 
 bar pull
 stun 
+freeze
 sleep 
 silence 
 taunt

@@ -64,6 +64,8 @@ CC effects prevent or restrict a character's actions. All CC effects pause coold
 
 **Stun** — target cannot act for one turn. Action bar does not fill while stunned.
 
+**Freeze** — target cannot act for one turn. Action bar cannot be pushed while frozen.
+
 **Sleep** — target cannot act. Breaks immediately on taking damage. Characters in sleep take increased damage from the hit that wakes them.
 
 **Silence** — target cannot use skills for the duration. Basic attack still available. Cooldowns continue to progress.
