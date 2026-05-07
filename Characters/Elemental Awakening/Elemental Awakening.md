@@ -16,7 +16,7 @@ The specific element awakened to is not fully player controlled. Race narrows th
 
 **Class path** — awakened characters gain access to mage and healer class options at 3 star alongside any physical options the weapon tree and early development would normally surface. A character can still choose a physical class at 3 star if one is presented the awakening opens elemental paths, it does not force them.
 
-Light and dark awakenings guarantee a unique LD subclass at 3 star. Every standard physical class has an LD equivalent with a unique exclusive ability and access to LD specific passives. See [[Class]].
+Light and dark awakenings guarantee a unique LD subclass at 3 star. Every standard physical class has an LD equivalent with a unique exclusive ability and access to LD specific passives. See [[Characters/Class/Class]].
 
 **Elemental passive pool** — awakened characters gain access to the elemental passive pool for draws from 3 star onward. Non-awakened characters draw exclusively from the class pool. See [[Elemental Passives]].
 

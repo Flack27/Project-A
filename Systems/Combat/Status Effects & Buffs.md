@@ -1,73 +1,99 @@
+All buffs and debuffs in the game use a standardized vocabulary. Every effect has a fixed name and fixed mechanical definition regardless of which class, weapon or skill applies it. A warrior's ATK up buff and a support's ATK up buff are identical in effect — the difference is in how and when they are applied.
 
-A reference list of status effect categories to build from. Specific values, durations and interactions are defined when archetypes and skill pools are fully designed. Nothing here is final.
-
----
-
-#### Damage Over Time
-
-Effects that deal damage across multiple turns rather than immediately. Primarily associated with certain weapon types and elements but not exclusively locked to them.
-
-- Burn — fire associated, deals damage each turn, may have interactions with fire skills and passives
-- Bleed — slashing weapon associated, deals damage each turn, scales with ATK of the applier
-- Poison — separate damage type, may stack differently to burn and bleed
-- Shock — lightning or wind associated, to be defined when elements expand
+Effects are applied to a single target unless otherwise noted. Duration is defined per skill. Buffs appear as blue icons on the affected character, debuffs as red icons.
 
 ---
 
-#### Speed & Turn Order
+## Buffs
 
-Effects that manipulate the action bar and turn order. Some of the most impactful effects in combat given how consequential SPD is.
+**ATK Up** — increases ATK by a fixed percentage for the duration.
 
-- SPD buff — increases action bar fill rate
-- SPD debuff — decreases action bar fill rate
-- Bar push — moves a target's action bar forward, ally or enemy
-- Bar pull — moves a target's action bar backward, ally or enemy
-- Stun — prevents acting for one turn, bar does not fill while stunned
+**DEF Up** — increases DEF by a fixed percentage for the duration.
 
----
+**SPD Up** — increases SPD for the duration, accelerating action bar fill rate.
 
-#### Offensive & Defensive Stats
+**Crit Rate Up** — increases crit rate by a fixed percentage for the duration.
 
-Straightforward stat modifiers. Exist on both buff and debuff sides.
-
-- ATK buff / debuff
-- DEF buff / debuff
-- Crit rate buff / debuff
-- Crit damage buff / debuff
-- Effect accuracy buff / debuff
-- Effect resistance buff / debuff
+**Crit Damage Up** — increases crit damage by a fixed percentage for the duration.
 
 ---
 
-#### Crowd Control
+## Defensive Buffs
 
-Effects that restrict character actions. Primarily debuffs, primarily applied by debuffer archetypes though not exclusively.
+**Shield** — absorbs a set amount of damage before HP is affected. Removed when the shield value is depleted or the duration expires. Shield value is defined by the skill that applies it, often scaling with the caster's DEF or HP.
 
-- Stun — cannot act, already listed above
-- Freeze — cannot act, may have elemental associations
-- Sleep — cannot act, breaks on taking damage
-- Provoke — forced to target a specific character
-- Silence — cannot use skills, basic attack only
+**Damage Reduction** — reduces all incoming damage by a fixed percentage for the duration.
 
----
+**Immunity** — blocks all incoming debuffs for the duration. Debuffs that would land during immunity are ignored entirely.
 
-#### Utility
+**Invincibility** — blocks all incoming damage for the duration. Cannot be extended or refreshed. Always short duration.
 
-Effects that don't fit neatly into other categories.
-
-- Shield — absorbs a set amount of damage before HP is affected
-- Heal over time — recovers HP each turn
-- Cleanse — removes debuffs from a target
-- Immunity — prevents new debuffs landing for a duration
-- Revive — brings a fallen character back at a set HP threshold
-- Taunt — draws enemy targeting to this character
+**Counter** — grants a chance to perform a basic attack counter when attacked for the duration.
 
 ---
 
-#### Notes
+## Recovery
 
-Most damage over time effects are associated with specific weapon types or elements but are not exclusively locked to them — a dark archetype might apply bleed through a unique skill even without a slashing weapon. Associations are tendencies not hard rules.
+**Heal Over Time** — restores a fixed amount of HP at the start of each turn for the duration.
 
-Crowd control effects need careful balancing around the effect resistance and effect accuracy stat system — CC should be powerful but never guaranteed against a well built team. Immunity and cleanse existing as utility effects means CC teams always have a counter available.
+**Cleanse** — removes a set number of debuffs from the target immediately. Not a duration effect. Number of debuffs removed is defined per skill.
 
-Specific interactions between status effects — burn and a fire mage passive for example — are defined in the archetype and skill pool documents.
+**Revive** — brings a fallen character back at a set HP threshold when triggered. Applied proactively before death. Consumed on activation.
+
+---
+
+## Bar Effects
+
+**Bar Push** — moves the target's action bar forward by a fixed percentage immediately. Ally only.
+
+**Bar Pull** — moves the target's action bar backward by a fixed percentage immediately. Enemy only.
+
+---
+
+## Debuffs
+
+**ATK Down** — decreases ATK by a fixed percentage for the duration.
+
+**DEF Down** — decreases DEF by a fixed percentage for the duration.
+
+**SPD Down** — decreases SPD for the duration, slowing action bar fill rate.
+
+**Effect Resistance Down** — decreases the target's effect resistance for the duration, making further debuffs easier to land.
+
+**Unhealable** — prevents the target from receiving any healing for the duration. Does not affect shields already applied.
+
+---
+
+## Crowd Control
+
+CC effects prevent or restrict a character's actions. All CC effects pause cooldown progression for their duration except silence.
+
+**Stun** — target cannot act for one turn. Action bar does not fill while stunned.
+
+**Sleep** — target cannot act. Breaks immediately on taking damage. Characters in sleep take increased damage from the hit that wakes them.
+
+**Silence** — target cannot use skills for the duration. Basic attack still available. Cooldowns continue to progress.
+
+**Taunt** — target is forced to attack the character who applied the taunt for the duration.
+
+---
+
+## Damage Over Time
+
+DoT effects deal damage at the start of the affected character's turn. Multiple stacks of the same DoT type can exist simultaneously unless otherwise noted.
+
+**Burn** — deals damage each turn. Associated with fire element. Interacts with fire skills and passives.
+
+**Bleed** — deals damage each turn. Scales with the ATK of the character who applied it. Associated with slashing weapons.
+
+**Poison** — deals damage each turn. Stacks independently from burn and bleed. Associated with certain classes and weapons.
+
+---
+
+## Notes
+
+Specific percentage values for all effects are placeholder until combat is playtested. The definitions above are fixed. Numbers are not.
+
+Immunity does not remove existing debuffs — it only blocks new ones. A character with existing debuffs who gains immunity retains those debuffs until they expire naturally or are cleansed.
+
+Bar push and pull are not considered buffs or debuffs for the purposes of cleanse and immunity — they are instantaneous effects with no duration and cannot be blocked or removed.

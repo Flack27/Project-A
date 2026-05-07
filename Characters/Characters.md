@@ -10,7 +10,7 @@ Characters are the core of the game. Every system exists to develop them, every 
 
 **Elemental Awakening** — at 2 star a character either awakens to an element or they do not. Awakening opens elemental class paths and the elemental passive pool, and grants a small built-in elemental passive. Characters without an awakening develop entirely through physical class options. See [[Elemental Awakening]].
 
-**Class** — locks in at 3 star and defines combat identity from that point forward. Physical, elemental or light and dark depending on awakening status. Unlocks the first character skill and the defining class passive. See [[Class]].
+**Class** — locks in at 3 star and defines combat identity from that point forward. Physical, elemental or light and dark depending on awakening status. Unlocks the first character skill and the defining class passive. See [[Characters/Class/Class]].
 
 **Skills** — four active slots and passive slots unlocking through star progression. The first two active slots are weapon techniques, fully interchangeable. The third and fourth are class skills, permanently locked once learned. Passives draw from class and elemental pools. See [[Skills]].
 

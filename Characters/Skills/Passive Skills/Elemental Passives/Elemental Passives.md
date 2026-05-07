@@ -2,7 +2,7 @@ Elemental passives are available only to characters with an elemental awakening.
 
 Characters without an awakening have no access to this pool.
 
-Light and dark passives are part of this pool but are defined separately given the unique nature of LD archetypes — see [[Class]].
+Light and dark passives are part of this pool but are defined separately given the unique nature of LD archetypes — see [[Characters/Class/Class]].
 
 ---
 
