@@ -16,10 +16,6 @@ Effects are applied to a single target unless otherwise noted. Duration is defin
 
 **Crit Damage Up** — increases crit damage by a fixed percentage for the duration.
 
----
-
-## Defensive Buffs
-
 **Shield** — absorbs a set amount of damage before HP is affected. Removed when the shield value is depleted or the duration expires. Shield value is defined by the skill that applies it, often scaling with the caster's DEF or HP.
 
 **Damage Reduction** — reduces all incoming damage by a fixed percentage for the duration.
@@ -30,23 +26,19 @@ Effects are applied to a single target unless otherwise noted. Duration is defin
 
 **Counter** — grants a chance to perform a basic attack counter when attacked for the duration.
 
+**Bar Push** — moves the target's action bar forward by a fixed percentage immediately. Ally only.
+
 ---
 
 ## Recovery
 
-**Heal Over Time** — restores a fixed amount of HP at the start of each turn for the duration.
+**Heal** — restores a fixed amount of HP.
+
+**Heal Over Time** — restores a fixed amount of HP at the start of each turn for the duration.
 
 **Cleanse** — removes a set number of debuffs from the target immediately. Not a duration effect. Number of debuffs removed is defined per skill.
 
 **Revive** — brings a fallen character back at a set HP threshold when triggered. Applied proactively before death. Consumed on activation.
-
----
-
-## Bar Effects
-
-**Bar Push** — moves the target's action bar forward by a fixed percentage immediately. Ally only.
-
-**Bar Pull** — moves the target's action bar backward by a fixed percentage immediately. Enemy only.
 
 ---
 
@@ -61,6 +53,8 @@ Effects are applied to a single target unless otherwise noted. Duration is defin
 **Effect Resistance Down** — decreases the target's effect resistance for the duration, making further debuffs easier to land.
 
 **Unhealable** — prevents the target from receiving any healing for the duration. Does not affect shields already applied.
+
+**Bar Pull** — moves the target's action bar backward by a fixed percentage immediately. Enemy only.
 
 ---
 
@@ -85,8 +79,6 @@ DoT effects deal damage at the start of the affected character's turn. Multiple 
 **Burn** — deals damage each turn. Associated with fire element. Interacts with fire skills and passives.
 
 **Bleed** — deals damage each turn. Scales with the ATK of the character who applied it. Associated with slashing weapons.
-
-**Poison** — deals damage each turn. Stacks independently from burn and bleed. Associated with certain classes and weapons.
 
 ---
 
