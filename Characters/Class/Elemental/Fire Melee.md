@@ -9,12 +9,12 @@ damage type:
 playstyle:
   - aggressive
   - selfish
-weapons:
-  - greatsword
-  - battleaxe
-  - claws
+weapons: [battleaxe, claws, longsword]
 stats: +ATK =SPD -DEF =HP
-buffs: [ATK up, cleanse, invincibility]
+buffs:
+  - ATK up
+  - cleanse
+  - invincibility
 debuffs:
   - burn
   - unhealable
