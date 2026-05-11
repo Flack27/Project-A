@@ -68,11 +68,17 @@
 
 **HP cost for power** (E7 — characters who pay HP to deal more damage) — pairs with your Cursed and Glass Cannon traits naturally. Class skill where the character pays a chunk of HP to enable a massive effect.
 
-**Information and oblivion**
+**Misc**
 
 **Unrecoverable** (in your kit as Unhealable) — worth noting that SW pairs this with continuous damage, making the target unable to heal while taking constant damage. Designs around this are well-received because they punish the opposing healer rather than ignoring them.
 
 **Reflect damage** (SW Briand variants) — character reflects a portion of damage taken back to attacker. Different from counter because it's automatic on every hit, not action-based. Class trait material for a thorns-style tank — a Warden variant.
+
+**Flipping Debuffs for unique effects** — atk down = atk up etc. unique things where stun or sleep do good effects, can stun or sleep themselves.
+
+**More damage if not hit** — More damage on the next hit if not hit this round offset first hit each turn.
+
+**Eat Debuffs** — only possible to put each type of debuff once eats the next one for healing.
 
 ---
 

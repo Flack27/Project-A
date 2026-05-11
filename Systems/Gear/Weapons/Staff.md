@@ -1,28 +1,29 @@
-_Destination: Systems/Gear/Weapons/Staff.md_
+---
+scaling:
+  - ATK
+buffs: [heal]
+debuffs:
+---
+### Basic Attack
 
+Single target magic strike. ATK scaling. Branches into damage focus or healing utility through technique development.
 
-
-## type: magic scaling: [ATK, DEF] buffs: [ATK up, DEF up] debuffs: [ATK down, DEF down] classes: [Fire Mage, Wind Mage, Earth Mage, Fire Support, Earth Support]
+→ **Damage path** — higher per-hit damage 
+→ **Utility path** — lower damage, restores a small amount of HP to the lowest HP ally on hit, scales with ATK
 
 ---
 
-## Basic Attack
+### Technique Tree
 
-Single target magic strike. Branches into ATK or DEF expression through technique development. Max upgrade unlocks a minor self-heal on hit regardless of path — scales with ATK, not meaningful enough to replace a healer but enough to extend solo survivability.
+Staff is the offensive magic weapon. Three branches, all ATK scaling. The healing branch deals reduced damage in exchange for ally restoration, fitting non-dedicated-healer classes that want a touch of sustain.
 
-→ **ATK path** — faster hits, lower per-hit damage, minor chance to apply DEF down on hit 
-→ **DEF path** — slower, hits harder, scales with DEF, minor chance to apply ATK down on hit
+→ **Single target branch** — concentrated damage on one enemy. Higher per-hit numbers, longer cooldowns at higher branch depth. 
+→ **AoE branch** — damage spread across all enemies. Lower per-hit numbers, broader application. → **Healing branch** — techniques that deal moderate damage and restore HP to the lowest HP ally or the full party, scaling with caster ATK. Not a dedicated heal — meaningful enough to extend solo survivability without replacing a healer.
 
 ---
 
-## Second Skill
+##### Notes
 
-Single target magic attack, moderate cooldown. Starting form is a straightforward damage skill. Branches first into ATK or DEF direction, then into a function within that direction.
+All three branches scale on ATK regardless of which class equips the staff. The healing branch is universally accessible but most valuable on classes that lack other sustain options.
 
-→ **ATK path** 
-	→ _Aggressive_ — high damage single target hit, applies DEF down on the target. Pure offensive expression. 
-	→ _Sustain_ — moderate damage single target hit, heals the lowest HP ally for a small amount scaling with caster ATK. Trades offensive output for passive team sustain without replacing a dedicated healer.
-
-→ **DEF path** 
-	→ _Defensive_ — moderate damage single target hit scaling with DEF, applies a small self-shield on use. Fits bruiser or self-sustain builds. 
-	→ _Disruptive_ — moderate damage single target hit scaling with DEF, applies ATK down on the target. For DEF-scaling characters who want to reduce incoming damage rather than absorb it.
+Specific technique lists, damage multipliers and heal magnitudes are placeholder until combat is playtested.
