@@ -1,3 +1,4 @@
 roguelike
 defense
 regular
+exploration
