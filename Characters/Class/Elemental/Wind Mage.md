@@ -1,14 +1,17 @@
 ---
 role: hybrid
-scaling: SPD
+scaling:
+  - ATK
 damage type:
   - sustained
   - single target
-playstyle: [team-dependent, setup]
+playstyle:
+  - team-dependent
+  - setup
 weapons:
   - staff
   - wand
-stats: =ATK ++SPD -DEF -HP
+stats: +ATK +SPD -DEF -HP
 buffs:
   - ATK up
   - SPD up

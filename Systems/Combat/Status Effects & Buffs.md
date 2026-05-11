@@ -54,6 +54,8 @@ Effects are applied to a single target unless otherwise noted. Duration is defin
 
 **Unhealable** — prevents the target from receiving any healing for the duration. Does not affect shields already applied.
 
+**Strip**  —  removes the target's buffs.
+
 **Bar Pull** — moves the target's action bar backward by a fixed percentage immediately. Enemy only.
 
 ---
@@ -78,9 +80,9 @@ CC effects prevent or restrict a character's actions. All CC effects pause coold
 
 DoT effects deal damage at the start of the affected character's turn. Multiple stacks of the same DoT type can exist simultaneously unless otherwise noted.
 
-**Burn** — deals damage each turn. Associated with fire element. Interacts with fire skills and passives.
+**Burn** — deals damage each turn. Scales with the ATK of the character who applied it. Associated with fire element. Interacts with fire skills and passives.
 
-**Bleed** — deals damage each turn. Scales with the ATK of the character who applied it. Associated with slashing weapons.
+**Bleed** — deals %HP damage each turn.  
 
 ---
 

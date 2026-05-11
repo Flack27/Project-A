@@ -2,10 +2,7 @@
 role: damage
 scaling:
   - DEF
-damage type:
-  - single target
-  - sustained
-  - AoE
+damage type: [single target, sustained, AoE, burst]
 playstyle:
   - attrition
   - setup

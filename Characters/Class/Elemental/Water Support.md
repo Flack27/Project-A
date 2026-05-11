@@ -2,7 +2,6 @@
 role: support
 scaling:
   - HP
-  - SPD
 damage type: []
 playstyle:
   - attrition
@@ -16,5 +15,10 @@ buffs:
   - cleanse
   - immunity
   - heal over time
-debuffs: [ATK down, SPD down, sleep, freeze, bar pull]
+debuffs:
+  - ATK down
+  - SPD down
+  - sleep
+  - freeze
+  - bar pull
 ---

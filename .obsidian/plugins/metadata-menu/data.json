@@ -80,34 +80,6 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "ATK down",
-          "2": "DEF down",
-          "3": "SPD down",
-          "4": "effect resistance down",
-          "5": "unhealable",
-          "6": "bar pull",
-          "7": "stun",
-          "8": "freeze",
-          "9": "sleep",
-          "10": "silence",
-          "11": "taunt",
-          "12": "burn",
-          "13": "bleed"
-        }
-      },
-      "name": "debuffs",
-      "id": "Kqo3Qt",
-      "path": ""
-    },
-    {
-      "type": "Multi",
-      "tagName": "multi",
-      "icon": "bullet-list",
-      "tooltip": "Accepts multiple values from a list",
-      "colorClass": "multi",
-      "options": {
-        "sourceType": "ValuesList",
-        "valuesList": {
           "1": "ATK",
           "2": "SPD",
           "3": "DEF",
@@ -177,6 +149,35 @@
       "name": "weapons",
       "id": "orjGam",
       "path": ""
+    },
+    {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "ATK down",
+          "2": "DEF down",
+          "3": "SPD down",
+          "4": "effect resistance down",
+          "5": "unhealable",
+          "6": "bar pull",
+          "7": "stun",
+          "8": "freeze",
+          "9": "sleep",
+          "10": "silence",
+          "11": "taunt",
+          "12": "burn",
+          "13": "bleed",
+          "14": "strip"
+        }
+      },
+      "name": "debuffs",
+      "id": "Kqo3Qt",
+      "path": ""
     }
   ],
   "fileClassQueries": [],
@@ -185,7 +186,7 @@
   "classFilesPath": "Templates/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.14",
+  "settingsVersion": "5.15",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

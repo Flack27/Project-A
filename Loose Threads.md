@@ -96,3 +96,17 @@ The Architect as a concept predates the player's arrival. The lobby existed befo
 The synthesis duality and faction system should feed into this. The kind of Architect the player becomes shapes what the tower reveals and how the Manager interprets what is happening. Two players who reach the same late game floor may understand the Architect completely differently based on the choices made along the way.
 
 Full development belongs in the Story document. The Manager's story and the Architect's true nature are probably the same story told from different angles.
+
+---
+**Bond-Based Reactive Combat** Characters with a strong lobby bond occasionally react to each other mid-fight — covering a debuff, following up on a kill, throwing a small shield when a partner drops below a threshold. Not scripted combos, emergent reactions based on bond strength. Needs boundary-setting so it stays a flavor layer and doesn't become a required synergy system. Ties directly into the morale and relationship systems and makes lobby attachment feel mechanical rather than just flavor. Design belongs in a combat addendum or relationship systems doc when those get written.
+
+---
+**Exotic Stat Scalings** Niche scaling stats that create distinct build identities beyond standard ATK/DEF/HP/SPD. All of these belong in class skills or major passives rather than weapons — exotic scalings are too niche to put on a weapon every class might use. Design these when class passive pools get built out.
+
+- EFF ACC scaling — skill damage or effect magnitude scales with effect accuracy instead of ATK. Natural home: debuffer major passive. Creates a completely distinct gearing target for dedicated debuffers.
+- Counter chance scaling — damage or utility scales with counter chance stat. Natural home: class passive or class skill for a counter-build archetype. Pairs with the Counter buff already in the status effects doc.
+- Crit rate scaling — a skill or passive that converts excess crit rate above 100% into another stat, e.g. crit damage or ATK. Natural home: major passive. Rewards over-investing in crit rate rather than wasting it.
+- HP scaling on offensive skills — skill damage scales with max HP rather than ATK. Natural home: water melee or tank-adjacent class, already partially flagged in Water Melee doc. Ties into the lifesteal / low HP mechanic noted there.
+- DEF scaling on offensive skills — already exists on earth mage and earth melee. Worth ensuring this is expressed through a major passive option as well as the base class scaling, so non-earth classes can access a minor version through passive draws.
+- SPD scaling on damage — already exists on wind classes. Consider whether a major passive version exists for physical classes who want to dip into it without being wind archetype.
+- Shield scaling with ATK — a passive where shields generated scale with ATK rather than DEF or HP, enabling offensive characters to generate meaningful shields as a side effect of damage investment.
