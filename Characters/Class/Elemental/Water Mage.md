@@ -9,6 +9,9 @@ playstyle:
   - attrition
   - setup
 weapons:
+  - staff
+  - tome
+  - wand
 stats: =ATK +SPD =HP -DEF
 buffs:
   - damage reduction

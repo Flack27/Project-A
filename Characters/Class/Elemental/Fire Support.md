@@ -8,6 +8,9 @@ playstyle:
   - setup
   - aggressive
 weapons:
+  - staff
+  - tome
+  - wand
 stats: =ATK ++SPD -DEF -HP
 buffs:
   - ATK up

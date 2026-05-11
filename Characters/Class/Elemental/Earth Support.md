@@ -7,6 +7,9 @@ playstyle:
   - attrition
   - team-dependent
 weapons:
+  - staff
+  - tome
+  - wand
 stats: -ATK =SPD =HP +DEF
 buffs:
   - shield

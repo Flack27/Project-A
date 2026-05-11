@@ -7,6 +7,9 @@ playstyle:
   - team-dependent
   - setup
 weapons:
+  - staff
+  - wand
+  - tome
 stats: --ATK ++SPD =DEF =HP
 buffs:
   - SPD up

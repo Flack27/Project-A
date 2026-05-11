@@ -9,6 +9,9 @@ damage type:
 playstyle:
   - aggressive
 weapons:
+  - staff
+  - tome
+  - wand
 stats: ++ATK =SPD -DEF -HP
 buffs:
   - cleanse

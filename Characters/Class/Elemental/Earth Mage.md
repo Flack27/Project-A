@@ -9,9 +9,7 @@ damage type:
 playstyle:
   - setup
   - aggressive
-weapons:
-  - staff
-  - tome
+weapons: [staff, tome, wand]
 stats: ++ATK -SPD =HP -DEF
 buffs:
 debuffs:
