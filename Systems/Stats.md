@@ -28,8 +28,6 @@ Secondary stats have no meaningful base value — differentiation comes entirely
 
 **Effect Resistance** — reduces the chance of receiving debuffs. Has a base floor of 15% that cannot be reduced below regardless of how much accuracy the attacker has. Worth investing in on characters who need to resist CC.
 
-**SPD** — also appears as a secondary stat on gear in flat form, adding directly to the primary SPD value.
-
 ---
 
 ## Damage Formula
