@@ -7,20 +7,15 @@ playstyle:
   - team-dependent
   - setup
 weapons:
-  - wand
-  - tome
 stats: --ATK ++SPD =DEF =HP
 buffs:
   - SPD up
   - bar push
   - heal
-  - cleanse
   - immunity
-  - crit rate up
 debuffs:
   - SPD down
-  - effect resistance down
-  - bleed
   - silence
   - bar pull
 ---
+Fast utility support oriented around speed manipulation and setup. Controls turn order through bar push, bar pull and SPD buffs and debuffs, enabling or disrupting burst windows. Light buffing and one minor heal round out the kit without pulling toward a dedicated healer role. Where fire support enables through ATK amplification, wind support enables through action economy.

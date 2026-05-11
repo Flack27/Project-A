@@ -1,7 +1,7 @@
 ---
 role: damage
 scaling:
-  - HP
+  - ATK
 damage type:
   - sustained
   - AoE
@@ -9,15 +9,12 @@ playstyle:
   - attrition
   - setup
 weapons:
-  - staff
-  - wand
-  - tome
-stats: =ATK +SPD +HP -DEF
+stats: =ATK +SPD =HP -DEF
 buffs:
   - damage reduction
-  - heal over time
 debuffs:
-  - ATK down
-  - unhealable
   - freeze
+  - SPD down
+  - unhealable
 ---
+Sustained damage dealer that controls through CC rather than burst. Freeze and SPD down disrupt enemy turns while unhealable shuts down sustain-heavy targets. Damage reduction gives it enough durability to stay in a fight without needing HP investment. Wins by outlasting and controlling rather than killing quickly.

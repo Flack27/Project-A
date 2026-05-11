@@ -1,22 +1,21 @@
 ---
 role: damage
 scaling:
-  - DEF
-damage type: [single target, sustained, AoE, burst]
+  - ATK
+damage type:
+  - single target
+  - AoE
+  - burst
 playstyle:
-  - attrition
   - setup
+  - aggressive
 weapons:
   - staff
-  - wand
-stats: =ATK -SPD -HP ++DEF
+  - tome
+stats: ++ATK -SPD =HP -DEF
 buffs:
-  - shield
-  - DEF up
-  - damage reduction
-  - counter
 debuffs:
   - DEF down
   - ATK down
-  - stun
 ---
+Slow high damage dealer focused on DEF shredding. Low SPD makes it vulnerable to disruption but its hits are among the hardest in the mage roster. DEF down on skills enables the rest of the team to deal significantly more damage, making it partly a setup class alongside its personal damage output. Counter gives it a reactive threat that punishes enemies for targeting it.

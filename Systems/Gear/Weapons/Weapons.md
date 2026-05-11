@@ -44,10 +44,3 @@ Each weapon carries one set bonus slot. This slot contributes to the same set sy
 
 The set bonus on a weapon is randomly assigned and can be rerolled for gold. The pool of possible set tags is not curated per weapon type — any set tag can appear on any weapon. Rerolling is available at any time from the smithy.
 
----
-
-## Skill Upgrades
-
-Class skills in slots three and four are upgraded through a dedicated material separate from weapon upgrading. This material is a rare drop from dungeon content and events, and can be purchased with gold. It is intentionally scarce enough that players prioritise which characters receive upgrades rather than maxing everything simultaneously. See [[Resources]].
-
-Weapon techniques in slots one and two are upgraded through weapon leveling directly — no separate material required.

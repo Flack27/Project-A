@@ -50,11 +50,19 @@ Effects are applied to a single target unless otherwise noted. Duration is defin
 
 **SPD Down** — decreases SPD for the duration, slowing action bar fill rate.
 
+**Crit Rate Down** — decreases crit rate by a fixed percentage for the duration. Counters crit-heavy damage dealers specifically without affecting non-crit builds.
+
+**Effect Accuracy Down** — decreases the target's effect accuracy for the duration.
+
 **Effect Resistance Down** — decreases the target's effect resistance for the duration, making further debuffs easier to land.
 
 **Unhealable** — prevents the target from receiving any healing for the duration. Does not affect shields already applied.
 
-**Strip**  —  removes the target's buffs.
+**Strip**  —  removes a buff from the target.
+
+**Block**  — prevents the target from receiving buffs
+
+**Brand** — target takes increased damage from all sources for the duration. Amplifies the whole team's damage against a single target, creating a focus fire dynamic distinct from DEF down.
 
 **Bar Pull** — moves the target's action bar backward by a fixed percentage immediately. Enemy only.
 
@@ -73,6 +81,8 @@ CC effects prevent or restrict a character's actions. All CC effects pause coold
 **Silence** — target cannot use skills for the duration. Basic attack still available. Cooldowns continue to progress.
 
 **Taunt** — target is forced to attack the character who applied the taunt for the duration.
+
+**Oblivion** — suppresses the target's passive effects for the duration. Passives that are active on the target are disabled and do not trigger while oblivion is applied. Distinct from silence which blocks active skills only. Particularly relevant in PvP where passive identity is a significant part of a character's combat contribution.
 
 ---
 
