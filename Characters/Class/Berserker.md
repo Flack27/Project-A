@@ -11,10 +11,7 @@ playstyle:
   - aggressive
   - selfish
   - attrition
-weapons:
-  - battleaxe
-  - flail
-  - claws
+weapons: [battleaxe, flail, claws, warhammer]
 stats: ++ATK =SPD --DEF =HP
 buffs:
 debuffs: [bleed, vulnerable, unhealable]

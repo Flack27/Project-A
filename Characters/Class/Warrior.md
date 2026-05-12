@@ -9,12 +9,7 @@ damage type:
 playstyle:
   - aggressive
   - attrition
-weapons:
-  - longsword
-  - battleaxe
-  - spear
-  - claws
-  - sword and shield
+weapons: [longsword, battleaxe, spear, claws, sword and shield, warhammer]
 stats: +ATK =SPD -DEF =HP
 buffs:
   - ATK+
