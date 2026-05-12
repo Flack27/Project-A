@@ -14,10 +14,7 @@ stats: +ATK =SPD -DEF =HP
 buffs:
   - ATK+
   - CRIT Rate+
-debuffs:
-  - vulnerable
-  - DEF-
-  - RES-
+debuffs: [vulnerable, DEF-, RES-, bleed]
 recovery:
 effects:
 ---
