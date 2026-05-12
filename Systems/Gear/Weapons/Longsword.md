@@ -36,4 +36,4 @@ effects:
 	        - X% damage, 3 hits _(Warden, Revenant)_
 	    - ATK _(Warrior, Duelist, Infernus)_
 	        - X% damage, 3 hits, X% chance to apply [Bleed] _(Warrior, Duelist)_
-	        - X% damage, 2 hits, damage scales with target missing HP _(Duelist, Infernus)_
+	        - X% damage, 2 hits, damage scales with target missing HP _(Warrior, Duelist, Infernus)_
