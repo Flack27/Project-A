@@ -1,99 +1,209 @@
-**Survival & self-protection**
+A scavenged catalogue of mechanics from other gachas — primarily Summoners War and Epic Seven — that fit this game's class and combat structure. Two types of entries.
 
-**Endure** (SW staple — Verdehile, Loren, etc.) is a passive that prevents death from a single killing blow, leaving the character at 1 HP, usually with a cooldown of 4-5 turns. Loved because it creates clutch moments without being uncounterable — it's a one-shot per cooldown. Slots perfectly as a Guardian or Warden major class passive. Better than your existing Invincibility buff because it's reactive and finite, not preventative.
+**Defining mechanics** introduce a new behaviour or vocabulary the game does not currently have. Worth considering whether to add to the core status effect list or build a class identity around. 
 
-**Self-revive at threshold** (E7 — Aramintha, Charlotte) — character revives once per fight when they would die, at 30% HP. Same energy as Endure but truer to its name. Could be a major passive for any class with a "phoenix" identity, or a Bruiser thing where they get back up.
+**Combination mechanics** use existing status effect vocabulary in a new shape. The vocabulary already exists, the novelty is in how the effects are sequenced, conditioned or paid off. Removing buffs is a combination. Exploding DoTs for damage is also a combination — both use existing vocabulary in distinct ways.
 
-**Lifesteal as a passive identity** (SW vampire runes, E7 Vildred S3) — heals for a portion of damage dealt. SW makes it a rune set so it's interchangeable; E7 has it as a character trait. For you this fits as a class-defining passive on a Berserker or Duelist — they don't have healing access but their kit keeps them alive through aggression. Note: this is meaningfully different from a heal because it's gated by damage output.
-
-**Damage share / redirect** (E7 — Krau, Adin) — ally damage gets partially or fully redirected to this character. Well-received because it makes the tank actively protect rather than passively soak. S3 material for Guardian — a real "step in front" skill rather than just taunt.
-
-**Counter** (in your buff list already, SW Dias is the iconic example) — worth noting that the strongest version is "always counters, regardless of buff" as a passive rather than a temporary buff. Defines a class. Dias and Theomars are both built around it. Could be the class-defining identity passive on a specific tank archetype — reactive tank rather than your generic Guardian.
-
-**Counter & follow-up mechanics**
-
-**Dual Attack** (E7 — every character has a small chance based on ATK stat) — when an ally attacks, you have a chance to follow up with a basic. This is one of the most well-received mechanics in E7 because it makes ATK builds feel rewarding beyond raw damage and creates emergent burst chains. For you this fits as a class trait for an archetype — a Duelist or a Ranger who reacts to ally aggression. Could even be your basic attack tweak for that class — basic attack also has a chance to fire when an ally attacks.
-
-**Soulweaver/Soulburn-style chain attacks** (HSR/E7) — character acts again immediately after meeting a condition (killing an enemy, ally landing a crit, etc.). Strong S4 material. The "act again on kill" version specifically is famously fun.
-
-**Detonation / payoff mechanics**
-
-**DoT detonation** (E7 — Sigret detonates bleeds, Lots/Tenebria detonate burns) — skill consumes existing DoTs on a target for big upfront damage. Wildly well-received because it makes DoT teams have a payoff button rather than just waiting out the damage. Slots perfectly as a class skill for a Debuffer-Mage hybrid or as a Fire Mage S4 — apply burns with S3, detonate with S4. Pairs naturally with your bleed and burn definitions.
-
-**Debuff detonation** (E7 — Specter Tenebria) — same idea but for any debuff, not just DoTs. Major passive material because it changes how the whole team builds around the character.
-
-**Stack-and-payoff** (SW Mihyang, E7 various) — character builds stacks through basic attacks or skills, then expends them on a finisher. This is basically your personal resource system done explicitly. Worth noting it works best when the buildup itself does something — Mihyang heals while building, Cidd buffs himself. Your basic attack tweakable bonus is the perfect place for this.
-
-**Stealth & untargetability**
-
-**Stealth** (E7 — Specimen Sez, Mort) — character cannot be targeted directly for X turns but can still be hit by AoE. Different from your Invincibility because it's a positioning effect not damage immunity. Massively well-received as a Rogue/assassin identity. S3 material for Rogue, possibly with a self-buff component. Counter exists naturally — AoE attacks.
-
-**Hide / single-use untargetable** — buff variant of stealth, breaks on character's own attack. Cleaner for a setup-focused assassin.
-
-**Turn / bar manipulation beyond push and pull**
-
-**Cooldown reset on action** (SW Galleon, E7 Khawana) — chance for a skill's cooldown to instantly reset after use. The chance is the key — too reliable and it's broken, too rare and it's noise. SW landed on roughly 30-50% for major skills. Well-received because of the dopamine spike on the proc. Major class passive material — fits a chaotic/reckless flat trait synergy too.
-
-**Cooldown reduction on ally action** — supportive variant. Ally takes turn, friendly cooldowns tick down. Less flashy but enables combo teams. S4 material for a Bruiser or strategist support.
-
-**Speed scaling of effects** (E7 — Specter Tenebria's debuff strength scales with her SPD) — well-received because it gives SPD a damage payoff for non-DPS characters and rewards a specific build direction. Major passive material — "[effect strength] scales with SPD" rewrites what a support stacks.
-
-**Buff and debuff manipulation**
-
-**Strip** (SW Tyron, Praha) — removes buffs from enemy on hit. Specifically "remove" not "block". Crucial against immunity-and-counter teams. Slots as a class skill for an anti-meta Debuffer. Note your existing kit doesn't have this as a buff — it's an action, not a status. Worth adding to your status vocabulary actually as it's a distinct verb.
-
-**Steal** (SW Tesarion, Lyn) — transfers buffs from enemy to self. More flavorful than strip, fits a Rogue identity. S4 material.
-
-**Block beneficial effects** (SW — applied as a debuff) — prevents the target from receiving buffs for X turns. Distinct from immunity and worth defining if you want this in your vocabulary. Strong on a Debuffer S3.
-
-**Convert / steal turn** (E7 various) — push your bar forward by pulling enemy's bar back, with a stronger version that does both simultaneously. Already in your kit as separate effects, but a class skill that does both at once is a SW Galleon classic.
-
-**Conditional scaling passives**
-
-**Missing HP scaling** (E7 — Cidd's Extinction, multiple SW units) — character deals more damage the lower the enemy's HP. Execute mechanic. Iconic on the warrior fantasy. Major class passive material — defines a finisher archetype. Different feel from a flat threshold execute (Berserker-style "below 30%, double damage") because it scales smoothly.
-
-**HP-of-self scaling** — character deals more damage based on their own missing HP. Glass cannon synergy, pairs well with the Hollow trait you already have. Major passive material for Berserker.
-
-**Stacking on hit/kill** (Bloodthirsty trait already does this for kills) — worth noting SW has versions that stack on hit, on critical hit, on enemy debuffed, etc. Each variant feels meaningfully different. A class skill that says "gain ATK Up for each enemy debuffed at the moment of casting" is a Debuffer-Warrior fusion and well-loved when present.
-
-**Multi-hit and probability mechanics**
-
-**Hit count escalation** (SW Hraesvelg) — skill hits the same target multiple times with each hit dealing more damage than the last. Burst payoff with a setup feel. S4 material for single-target damage.
-
-**Penetration / DEF ignore** (E7, SW Lushen) — skill ignores a portion of target DEF. Usually a passive trait — "this character's skills ignore 30% DEF". Well-received because it gives a clean role to ATK builds against tank teams. Major passive material, fits a damage class identity.
-
-**Sacrifice mechanics**
-
-**Self-detonate for ally revive** (SW Velajuel, E7 Krau ulti) — character can sacrifice themselves to revive an ally, or take massive damage to grant a major buff. High risk, high reward, deeply loved in niches. S4 material for a Guardian — the ultimate protect-the-team button. Note this needs your permadeath penalty system to actually feel weighty.
-
-**HP cost for power** (E7 — characters who pay HP to deal more damage) — pairs with your Cursed and Glass Cannon traits naturally. Class skill where the character pays a chunk of HP to enable a massive effect.
-
-**Misc**
-
-**Unrecoverable** (in your kit as Unhealable) — worth noting that SW pairs this with continuous damage, making the target unable to heal while taking constant damage. Designs around this are well-received because they punish the opposing healer rather than ignoring them.
-
-**Reflect damage** (SW Briand variants) — character reflects a portion of damage taken back to attacker. Different from counter because it's automatic on every hit, not action-based. Class trait material for a thorns-style tank — a Warden variant.
-
-**Flipping Debuffs for unique effects** — atk down = atk up etc. unique things where stun or sleep do good effects, can stun or sleep themselves.
-
-**More damage if not hit** — More damage on the next hit if not hit this round offset first hit each turn.
-
-**Eat Debuffs** — only possible to put each type of debuff once eats the next one for healing.
+Organised by combat direction. Some mechanics fit multiple directions and are placed under the strongest fit. Each entry ends with a class tag list flagging which existing classes the mechanic could thematically or mechanically fit — these are options for placement, not final assignments.
 
 ---
 
-A few specific suggestions on where to put the strongest ones, since you asked:
+## Damage & Offence
 
-The **dual attack** mechanic should be considered for an entire archetype's identity — it's the kind of trait that, if given to one class as their class-defining passive, recolors that class entirely. Probably a Ranger or Duelist.
+### Defining
 
-**Endure** should be the Guardian class-defining passive or a major passive available to all defensive classes. It's the cleanest "tank moment" mechanic in the genre.
+**Missing HP scaling on target** — damage increases as enemy HP drops. Smooth execute, distinct from a flat threshold trigger. Major passive for a finisher archetype. → _Warrior, Berserker, Duelist, Wind Melee, Rogue_
 
-**DoT detonation** is the single best argument for a class skill on a specific archetype. Fire Mage S3 applies burns, S4 detonates. This is also the cleanest case for a class identity built on synergy between its own two locked skills, which your S3+S4 design wants to support.
+**Missing HP scaling on self** — damage increases as own HP drops. Glass cannon synergy, pairs with the Hollow flat trait. Berserker major passive. → _Berserker, Bruiser, Fire Melee_
 
-**Cooldown reset chance** is the most fun major passive in SW. Worth porting almost verbatim — and it has natural synergy with your Reckless flat trait.
+**Dual Attack** — chance on ally attack to follow up with a basic. Defines an entire archetype if used as class identity. Ranger or Duelist class skill, or modify the basic attack tweak for that class. → _Ranger, Duelist, Wind Melee, Weapon Master_
 
-**Stealth** is the cleanest Rogue class skill in any of these games. Two turns untargetable on your own kit gives Rogue a real identity beyond "high damage low HP".
+**Chain attack on kill** — character acts again immediately when their attack kills. Strong S4 material. Bloodthirsty trait already adjacent. → _Berserker, Warrior, Wind Melee, Rogue, Fire Melee_
 
-One mechanic I'd flag as a Loose Threads candidate: **status effect vocabulary expansion**. Strip, steal, and beneficial effects block are all distinct from your current vocabulary and worth defining if you want classes that meaningfully interact with the buff layer. Could go into Status Effects & Buffs as additions.
+**Stack and payoff** — basic attacks or skills build stacks, finisher expends them. The personal resource system already designed expresses this — worth committing one class to the explicit visible version where buildup is the gameplan. → _Warrior, Weapon Master, Berserker, Earth Mage_
 
-Want me to dig deeper into any specific mechanic, or start mapping these to your existing class drafts (the Fire Mage, Wind Mage, etc.) to see what shapes up?
+**Hit count escalation** — same skill hits same target multiple times, each hit harder than the last. Burst payoff with a setup feel. S4 material for single-target damage. → _Duelist, Warrior, Weapon Master, Wind Melee_
+
+**DEF penetration** — skill ignores a portion of target DEF. Class identity passive, clean role for ATK builds against tank teams. → _Wind Melee, Ranger, Rogue, Warrior, Earth Mage_
+
+**Exotic stat scaling on damage** — SPD scales damage, EFF ACC scales damage, crit rate above 100% converts to crit damage. All belong on class skills or major passives rather than weapons. Creates distinct gearing identities. → _Wind Melee, Wind Mage, Water Mage, Duelist, Ranger, Dark_
+
+**Shield generation scaling with ATK** — offensive characters generate meaningful shields as a side effect of damage investment. Pairs with the Bruiser PvP archetype. → _Bruiser, Earth Support, Earth Melee_
+
+**HP cost for power** — character pays a chunk of HP to enable a massive effect. Pairs with Cursed and Glass Cannon traits. → _Berserker, Fire Melee, Dark_
+
+**Damage cap escape / cap creation** — skill explicitly bypasses incoming damage reduction effects, or imposes a damage cap on its hits to prevent burst overshoot. Niche, defines an anti-bulk class. → _Wind Melee, Warrior, Dark_
+
+### Combination
+
+**DoT detonation** — skill consumes existing Burn or Bleed stacks on a target for big upfront damage. Single best argument for the S3+S4 paired-kit design — S3 applies, S4 detonates. Fire Mage natural fit. → _Fire Mage, Wind Mage, Fire Melee, Wind Melee_
+
+**Debuff detonation** — same idea but consumes any debuff, not just DoTs. Major passive material, changes how the whole team builds around the character. → _Water Mage, Wind Mage, Earth Mage, Dark_
+
+**Brand-on-attack passive** — every basic or skill applies Brand. Combined with party-wide damage focus, the Brand stays on the priority target permanently. → _Wind Melee, Earth Mage, Wind Mage, Duelist_
+
+**Damage per debuff on target** — skill multiplier increases for each debuff present on the target. Debuffer-warrior fusion class skill, naturally enables CC-attrition compositions. → _Water Mage, Wind Mage, Earth Mage, Rogue, Dark_
+
+**Always lands as critical** — skill modifier that guarantees crit. Distinct from crit rate stacking because it works on a single skill regardless of build. Pairs with crit damage scaling to make burst windows reliable. → _Duelist, Wind Melee, Rogue, Ranger_
+
+**First hit guaranteed effects** — skill description states the first hit cannot land as a glancing or reduced hit. Reliability mechanic for setup skills that need to land. → _Wind Melee, Warrior, Earth Mage_
+
+---
+
+## Tank & Survival
+
+### Defining
+
+**Endure** — passive prevents death from a single killing blow, leaves the character at 1 HP, 4-5 turn cooldown. Reactive and finite, not preventative. Cleanest tank moment mechanic in the genre. Guardian or Warden class-defining passive. → _Guardian, Warden, Bruiser, Water Melee, Earth Melee_
+
+**Self-revive at threshold** — character revives once per fight when they would die, at fixed HP. Same energy as Endure but truer to its name. Phoenix identity passive, or Bruiser get-back-up identity. → _Bruiser, Guardian, Fire Melee, Earth Melee, Light_
+
+**Always Counter** — passive that triggers counter on every incoming hit regardless of buff. Defines a class — Dias and Theomars are both built around it. Reactive tank archetype distinct from generic Guardian. → _Warden, Duelist, Water Melee, Earth Melee_
+
+**Reflect damage** — auto returns a portion of damage taken on every hit. Different from counter because it is automatic and damage-based rather than action-based. Thorns-style tank, a Warden variant. → _Warden, Earth Melee, Dark_
+
+**Damage share / redirect** — ally damage gets partially or fully redirected to this character. Makes the tank actively protect rather than passively soak. Guardian S3 material, real "step in front" skill rather than just Taunt. → _Guardian, Water Melee, Earth Support, Light_
+
+**Lifesteal as identity** — heals for a portion of damage dealt. Gated by damage output, distinct from a heal. Class-defining passive on a Berserker or Duelist — they have no healing access but stay alive through aggression. → _Berserker, Duelist, Water Melee, Fire Melee_
+
+**Damage transfer** — pulls debuffs off allies onto self at turn start, paired with damage reduction to make it survivable. Anti-CC tank identity. → _Guardian, Water Support, Earth Support, Light_
+
+**Threat stacking** — ATK or DEF stacks every time an ally is attacked or receives a debuff. Up to a cap. Reactive scaling that punishes the opponent for ignoring this character. → _Warden, Guardian, Bruiser, Earth Melee_
+
+**Immortal under CC** — passive: cannot die while under stun, freeze or sleep effects, and removes them at turn start. Defines an anti-CC bruiser identity. → _Bruiser, Berserker, Warden, Dark_
+
+**Damage taken cap** — incoming damage cannot exceed a fixed percentage of MAX HP. Hard counter to burst, weak against attrition. Niche identity passive. → _Bruiser, Guardian, Water Melee_
+
+### Combination
+
+**Endure as a granted buff** — a class skill that applies Endure-state to an ally or the party as a one-time death prevention buff. Distinct from the passive — finite, applied, consumed on trigger. → _Guardian, Water Support, Earth Support, Light_
+
+**Counter that crits** — counter attack that always lands as a critical hit. Combines Counter buff with the always-crit modifier into a real damage threat. → _Duelist, Warden, Water Melee_
+
+**Damage reduction on debuff acquisition** — passive: every time a debuff lands on this character, gain damage reduction stack. Turns being targeted by a CC team into a defensive scaling event. → _Earth Melee, Guardian, Warden, Water Melee_
+
+**Provoke on damage taken** — passive that applies Taunt to the attacker each time damage is received. Reactive aggro management without needing a Taunt skill on cooldown. → _Guardian, Warden, Water Melee_
+
+---
+
+## Support
+
+### Defining
+
+**Cooldown reset on action** — chance for a skill's cooldown to instantly reset after use. 30-50% range. Dopamine spike on the proc, well-loved. Major class passive, natural synergy with the Reckless flat trait. → _Fire Support, Wind Support, Wind Mage, Fire Melee_
+
+**Cooldown reduction on ally action** — passive ticks friendly cooldowns down when allies act. Less flashy than reset but enables combo teams. S4 material for a strategist support. → _Wind Support, Water Support, Earth Support_
+
+**Cooldown manipulation skill** — already exists on tome — single ally all skills -1 turn, or all allies one skill -1 turn. Worth noting it sits as a class skill option too, not just a weapon technique. → _Wind Support, Water Support, Earth Support, Fire Support_
+
+**SPD scaling of effect magnitude** — support's SPD increases the strength of buffs or debuffs they apply. Rewards SPD investment on non-damage characters and creates a specific build direction. Major passive material. → _Wind Support, Fire Support_
+
+**Persistent resource pool** — battle starts with stored resources (Soul Stones), gains more on specific events (ally death, enemy kill), expends them on skill empowerment. Support identity built on managing a meta-resource on top of cooldowns. → _Earth Support, Water Support, Dark_
+
+**Vampire as a granted buff** — class skill applies lifesteal to the party for a duration. Distinct from healing in that it scales with the party's damage output and rewards aggressive play. → _Fire Support, Wind Support, Dark_
+
+**Revive with enhanced state** — revive returns ally with more HP than baseline, with an attached buff, or with cooldowns reset. Makes revive a tempo tool rather than only a recovery tool. Class skill on a dedicated reviver subclass. → _Water Support, Light_
+
+### Combination
+
+**AoE cleanse and immunity** — single skill that removes all harmful effects on the party and applies immunity. Two existing vocabulary effects, but the combination shuts down debuff teams entirely for the duration. Already implied by the design — worth ensuring at least one class has this exact pairing. → _Water Support, Earth Support, Light_
+
+**Heal plus bar push** — healing skill that also pushes the healed target's bar forward. Tempo support pattern — keeps the ally alive and accelerates their response. → _Fire Support, Wind Support, Water Support_
+
+**Heal scaling with caster ATK** — already noted on Staff and Tome. Worth noting that the same scaling can appear on a class passive, giving ATK-built supports a reason to exist alongside HP-built ones. → _Fire Support, Light_
+
+**Cleanse on damage taken** — passive: receiving damage triggers a cleanse on the character or the lowest HP ally. Reactive support behaviour that does not require turn economy. → _Water Support, Earth Support, Light_
+
+---
+
+## Debuff & Disruption
+
+### Defining
+
+**Stigma** — permanent debuff that cannot be cleansed by standard means. Removed only by specific counters or expiry from a skill that explicitly clears it. Defines a class identity around persistent pressure. The constrained version of this direction was adopted as **Deep Wither** in [[Status Effects & Buffs]] — a single-stat uncleansable variant. The broader Stigma concept remains here as a candidate for class-specific skill effects rather than vocabulary. → _Dark, Water Mage, Wind Mage_
+
+**Buff steal** — transfers a buff from enemy to self rather than stripping it. More flavour than Strip, fits a Rogue identity. S4 material. Now part of the core status vocabulary, see [[Status Effects & Buffs]]. → _Rogue, Wind Mage, Dark_
+
+**Buff conversion** — flips an enemy buff into a debuff equivalent (their ATK Up becomes ATK Down, their Shield becomes Brand). Distinct from Strip and Steal. Class skill on an anti-meta Debuffer. → _Dark, Wind Mage, Water Mage_
+
+**Buff duration reduction** — skill reduces remaining duration on all enemy buffs by N turns rather than removing them outright. Distinct from Strip because partial removal of a long buff is different from full removal of a fresh one. → _Water Mage, Wind Mage, Dark_
+
+**Eat Debuffs** — passive: only one of each debuff type can stack on this character, and applying a new debuff of an existing type triggers a heal or cleanse. Inversion mechanic, defines a niche anti-CC class. → _Bruiser, Berserker, Dark_
+
+**Flipping debuffs** — passive where specific debuffs grant beneficial effects on this character instead of penalties. Stun becomes an SPD buff next turn, Sleep heals, ATK Down becomes ATK Up. Build-around identity, pairs with high effect resistance investment. → _Berserker, Bruiser, Dark_
+
+**Effect Rate scaling damage** — debuff skill damage or magnitude scales with effect accuracy stat. Creates a completely distinct gearing target for dedicated debuffers, see [[Loose Threads]] — Exotic Stat Scalings. → _Water Mage, Wind Mage, Dark_
+
+### Combination
+
+**Block beneficial** — already in the status effect list. Worth noting that combining Block with Strip in the same skill is the standard SW debuffer cleanout — clear the slate and prevent recovery. Class skill pattern for a Debuffer S3. → _Wind Mage, Water Mage, Rogue, Dark_
+
+**Multi-debuff application** — skill applies three or more different debuffs simultaneously, each rolling independently. Already supported by the formula in [[Stats]]. Defines a CC-attrition class skill rather than a new mechanic. → _Wind Mage, Water Mage, Dark_
+
+**Brand on every hit** — Brand applied automatically by basic attack or as a passive trigger. Combines existing vocabulary into a permanent damage amplification on the priority target. → _Wind Melee, Earth Mage, Duelist, Dark_
+
+**Strip plus Defense Break** — Strip the enemy's buffs and apply DEF Down in one skill. Standard debuffer pattern, ensures the team's follow-up damage lands clean. → _Wind Mage, Earth Mage, Rogue_
+
+**Debuff transfer to enemy** — skill takes one or more debuffs from this character and moves them to the target. Already noted under Damage Transfer for the tank version — same mechanic flipped to offensive. → _Wind Mage, Fire Mage, Dark_
+
+---
+
+## Crowd Control & Disruption
+
+### Defining
+
+**Stealth** — character cannot be targeted directly for the duration but can still be hit by AoE. Positioning effect rather than damage immunity. Massively well-received as Rogue identity. Cleanest Rogue S3 in the genre, possibly with a self-buff component on entry. → _Rogue, Wind Melee, Dark_
+
+**Hide** — variant of Stealth that breaks on the character's own attack. Single-use untargetable for setup-focused assassin builds. Cleaner alternative to Stealth where the trade-off is action economy rather than AoE vulnerability. → _Rogue, Dark_
+
+**Oblivion** — dark-exclusive status effect, see [[Status Effects & Buffs]]. Worth flagging in the class identity context that any dark subclass with reliable oblivion access has a substantial PvP impact because it disables identity passives. → _Dark_
+
+**Preemptive turn** — passive that grants an action before turn 1, regardless of SPD. Effectively guarantees this character moves first in the battle. Combat start effect family, see below. → _Wind Melee, Wind Support, Wind Mage, Rogue_
+
+**Combat start effects** — passive triggers a shield, barrier or preemptive buff on combat begin regardless of turn order. The key unlock for making shield teams SPD-independent. Likely lives on a Guardian or earth-aligned class. Already flagged in [[Characters/Class/Class]]. → _Guardian, Earth Support, Earth Melee, Light_
+
+### Combination
+
+**Bar Pull plus Silence** — pull the enemy's bar back and silence them in the same skill. Combines two existing effects into a hard tempo lockout. Standard disruption pattern. → _Wind Support, Wind Mage, Water Mage_
+
+**Stun plus Strip** — disable the target and remove their buffs in the same action. Setup for the rest of the team to dismantle a buffed threat. → _Earth Melee, Rogue, Wind Mage_
+
+**Provoke plus Counter** — Taunt the enemy into attacking this character while Counter is active. Aggro control that punishes the forced target. Standard SW pattern. → _Warden, Guardian, Water Melee_
+
+---
+
+## Cross-Archetype & Niche
+
+### Defining
+
+**Sacrifice for ally revive** — character can sacrifice themselves to revive an ally, or take massive damage to grant a major buff. High risk, high reward. S4 material for a Guardian. Requires the permadeath penalty system to feel weighty, see [[Loose Threads]]. → _Guardian, Light, Fire Melee_
+
+**Death triggers** — passive that fires a meaningful effect when this character dies. Heal the party on death, apply a debuff to all enemies on death, transfer current buffs to an ally. Connects directly to the Sacrifice PvP direction in [[Characters/Class/Class]]. → _Berserker, Bruiser, Warden, Dark_
+
+**More damage if not hit** — next attack deals bonus damage if this character was not damaged in the previous round. Rewards skirmishing positioning and SPD investment. Class passive for a Ranger or hit-and-run damage class. → _Ranger, Wind Melee, Duelist_
+
+**Damage cap on incoming** — already covered under Tank. Worth restating that this can also be a granted buff applied by a support class to a vulnerable ally for a duration. → _Earth Support, Water Support, Light, Guardian_
+
+**Bond-based reactive combat** — characters with strong lobby bonds occasionally react to each other mid-fight, see [[Loose Threads]]. Not currently a mechanic, flagged as a system to develop. Stays a flavour layer rather than a required synergy. → _System-level — protective archetypes most affected: Guardian, Warden, Water Support, Light_
+
+### Combination
+
+**Effect Resistance Up plus Immunity timing** — a skill that grants Effect Resistance Up before the immunity expires, creating a continuous protection window with declining strength. Tempo support pattern. → _Water Support, Earth Support, Light_
+
+**Buff extension passive** — passive: all buffs this character applies last one turn longer than their base duration. Uses existing buff vocabulary, changes the support economy. Major passive material. → _Wind Support, Fire Support, Water Support, Light_
+
+**Cleanse on revive** — revive skill also cleanses the revived ally. Removes any death-triggering debuffs that may have been on them. Standard combination, worth ensuring at least one revive option has it. → _Water Support, Light_
+
+---
+
+## Vocabulary Candidates
+
+Mechanics flagged in earlier passes that have been resolved or set aside. See [[Status Effects & Buffs]].
+
+**Bomb** — resolved as **Doom**, dark-exclusive. Reframed as a countdown debuff that releases damage on expiry, cleansable while ticking. Mechanic lives in the LD section of the status effect doc.
+
+**Steal** — adopted into the core vocabulary as an instant effect alongside Strip, Bar Push and Bar Pull.
+
+**Stigma** — set aside as a vocabulary effect. The constrained uncleansable direction was adopted instead as **Deep Wither** (single-stat, slow decay, no other guardrails needed). The broader Stigma concept remains in this document as a class identity passive option for dark debuffers.
+
+The rest of the entries in this document either use existing vocabulary or describe class identity passives rather than new status effect types.

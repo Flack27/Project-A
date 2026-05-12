@@ -20,7 +20,7 @@ Light and dark awakenings guarantee a unique LD subclass at 3 star. Every standa
 
 **Elemental passive pool** — awakened characters gain access to the elemental passive pool for draws from 3 star onward. Non-awakened characters draw exclusively from the class pool. See [[Elemental Passives]].
 
-**Built-in elemental passive** — at the moment of awakening the character gains a small passive specific to their element. This is not drawn from the passive pool and does not occupy a passive slot. It is a minor expression of the element being active — not powerful in isolation but designed to synergize with elemental class builds and certain team compositions. Full passive list defined per element when the element list is finalised.
+**Built-in elemental passive** — at the moment of awakening the character gains a small passive specific to their element. This is not drawn from the passive pool and does not occupy a passive slot. (maybe?)
 
 ---
 

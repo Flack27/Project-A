@@ -1,24 +1,24 @@
 Characters advance through star levels from 1 to 6, with 7 as an endgame ceiling. Each star tier has a level cap of 10 — 1 star runs from level 1 to 10, 2 star from 11 to 20, and so on up to 7 star at level 61 to 70. Ascending to the next star requires hitting the current level cap and the appropriate ascension materials.
 
-Most unlocks are bound to the star ascension moment itself rather than to a specific level within the tier. The exception is weapon techniques and traits, which develop continuously through activity regardless of star level.
+Skill unlocks are bound to the star ascension moment itself. Weapon techniques and traits develop continuously through activity regardless of star level.
 
 ---
 
 ## Per Star Breakdown
 
-**1 Star — levels 1 to 10** Starting state. Weapon skill slot one is available from the beginning. The character has no class, no passives, no character skills yet. Traits and weapon techniques begin developing through activity. First memory fragment unlocks on summon.
+**1 Star — levels 1 to 10** Starting state. Weapon slot 1 is available from the beginning. No class, no class skills, no passives yet. Traits and weapon techniques begin developing through activity. First memory fragment unlocks on summon.
 
-**2 Star — levels 11 to 20** Elemental awakening resolves at the moment of ascension. Built-in elemental passive granted if awakening occurred. First ascension roll for a new trait slot. Second memory fragment unlocks.
+**2 Star — levels 11 to 20** Elemental awakening resolves. First ascension roll for a new trait slot. Second memory fragment unlocks.
 
-**3 Star — levels 21 to 30** Class locks in at the moment of ascension, informed by weapon techniques developed. First character skill unlocks. Second ascension roll for a new trait slot. Third memory fragment unlocks. Passive unlock?
+**3 Star — levels 21 to 30** Class locks in at ascension, informed by weapon techniques developed and race tendency. Major class slot 3 unlocks — drawn from the major class pool, producing either an active class skill or a major class passive. Second ascension roll for a new trait slot. Third memory fragment unlocks.
 
-**4 Star — levels 31 to 40** Second character skill unlocks, deepening the class identity established at 3 star. Third ascension roll for a new trait slot. Passive unlock?
+**4 Star — levels 31 to 40** Major class slot 4 unlocks — second draw from the major class pool. If slot 3 produced a major passive, slot 4 produces an active skill, and vice versa. Third ascension roll for a new trait slot.
 
-**5 Star — levels 41 to 50** Fourth ascension roll for a new trait slot. The kit is complete — no new active skills unlock beyond this point. Investment from here is refinement and deepening of what exists. Passive unlock?
+**5 Star — levels 41 to 50** Minor passive slot 5 unlocks — drawn from the class pool, or class and elemental pool combined for awakened characters. Fourth ascension roll for a new trait slot.
 
-**6 Star — levels 51 to 60** Fifth ascension roll for a new trait slot. Fourth memory fragment unlocks — the shaped reflection, influenced by faction alignment and the world the player built. See [[Memory Fragments]]. Passive unlock?
+**6 Star — levels 51 to 60** Minor passive slot 6 unlocks — same pool access as slot 5. The active kit is now complete, no further skill slots unlock beyond this point. Fifth ascension roll for a new trait slot. Fourth memory fragment unlocks — the shaped reflection, influenced by faction alignment and the world the player built. See [[Memory Fragments]].
 
-**7 Star — levels 61 to 70** Endgame tier. No new skills or passives unlock. Stat gains continue through level thresholds. Reserved for the most invested characters. Ascension requirements are significant.
+**7 Star — levels 61 to 70** Endgame tier. No new skill or passive slots unlock. Stat gains continue through level thresholds. Reserved for the most invested characters. Ascension requirements are significant.
 
 ---
 
@@ -36,4 +36,4 @@ Each star ascension requires specific materials alongside the level cap. Materia
 
 ## Summoned Higher Stars
 
-Characters summoned at 2 star or above arrive with earlier progression already resolved — awakening determined, earlier passives locked, traits potentially already developed, memory fragments already unlocked. The player discovers this history rather than building it themselves. A summoned 4 star has had four ascension rolls for trait slots and three star ascensions worth of passive draws happen offscreen.
+Characters summoned at 2 star or above arrive with earlier progression already resolved — awakening determined, earlier class slots filled, traits potentially already developed, memory fragments already unlocked. The player discovers this history rather than building it themselves. A summoned 4 star has had three star ascensions worth of slot unlocks and three ascension rolls for trait slots happen offscreen.

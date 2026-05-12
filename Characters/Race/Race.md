@@ -12,19 +12,19 @@ Racial identity: high variance. Human growth and aptitude rolls have a wider dis
 
 ### Elf
 
-Affinity toward wind. Higher probability of wind elemental awakening than other elements. Natural tendency toward piercing weapons.
+Affinity toward earth. Higher probability of earth elemental awakening than other elements. Natural tendency toward piercing weapons.
 
-Racial identity: directional, something around agility or bar manipulation expression. Raw SPD bonus is off the table — too broadly powerful. A situational edge tied to acting quickly or punishing slow enemies fits the fantasy without breaking combat. Specifics left open. See Loose Threads.
+Racial identity: higher chance of gathering traits
 
 ### Dwarf
 
-Affinity toward earth. Higher probability of earth elemental awakening. Natural tendency toward bludgeoning weapons.
+Affinity toward fire. Higher probability of earth fire awakening. Natural tendency toward bludgeoning weapons.
 
 Racial identity: defense related, something around DEF scaling or damage reduction thresholds. Fits the fantasy without being a passive stat wall. Specifics left open. See Loose Threads.
 
 ### Beastman
 
-Affinity toward fire. Higher probability of fire elemental awakening. Natural tendency toward slashing weapons.
+Affinity toward wind. Higher probability of wind elemental awakening. Natural tendency toward slashing weapons.
 
 Racial identity: natural weapons. Beastmen begin with claws as a default weapon rather than a crafted one. Claws are a slashing weapon that scales with the character rather than needing to be replaced through crafting — they grow as the character grows. Beastmen can still equip crafted weapons in place of claws if preferred. How claw scaling works mechanically is defined in the weapons system. See Loose Threads.
 

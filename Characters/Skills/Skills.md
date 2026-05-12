@@ -1,26 +1,37 @@
-Every character has four active skill slots and five passives that unlock through star progression. The active slots split into two weapon skills and two character skills. Weapon skills are player controlled and interchangeable. Character skills and all passives are permanently locked once learned.
-
-Active skills define what a character does in combat. Passives define how well and in what specific way they do it. The two layers together with gear create the full character build.
+Every character has six skill slots that unlock across star progression. The first two are weapon skills always active, always interchangeable. The remaining four are class slots split into two major and two minor, unlocking one per star from 3 to 6.
 
 ---
 
-## Active Skills
+## Weapon Slots
 
-**Weapon skills** fill slots one and two. Drawn from a learnable technique tree specific to each weapon type. Fully interchangeable at any time for a small gold cost. See [[Weapon Skills]].
+**Slot 1 — unlocks at 1 star.** Available from the start. A character begins with their basic weapon attack here and develops their first technique to replace it as they train.
 
-**Character skills** fill slots three and four. Tied to archetype and identity, cannot be changed under any circumstance. See [[Class Skills]].
+**Slot 2 — unlocks by progression weapon tree.** Both weapon slots draw from the technique tree of the equipped weapon type and are fully interchangeable at any time.
+
+---
+
+## Major Class Slots
+
+**Slot 3 — unlocks at 3 star.** Class locks in at the moment of ascension. The draw at this stage is always from the major class pool — it produces either an active class skill or a major class passive depending on what the pool yields for this character. Directly expresses the combat role.
+
+**Slot 4 — unlocks at 4 star.** Second draw from the major class pool. Deepens the identity established at slot 3 rather than introducing something unrelated. A character cannot hold two major passives — if slot 3 produced a major passive, slot 4 will always produce an active skill, and vice versa.
+
+See [[Class Skills]], [[Class Passives]].
 
 ---
 
-## Passives
+## Minor Passive Slots
 
-Five passives unlock through star progression, one at each star level from 2 to 6. All passives are permanently locked once unlocked. Passives draw from four pools basic, class, element, weapon with each star level drawing from a defined pool or combination.
+**Slot 5 — unlocks at 5 star.** Always a passive. Drawn from the class pool, or from either the class or elemental pool if the character has an elemental awakening.
 
-See [[Class Passives|Class Passives]], [[Passives/Elemental Passives]].
+**Slot 6 — unlocks at 6 star.** Always a passive. Same pool access as slot 5. The kit is complete at this point — no further skill slots unlock at 7 star.
+
+See [[Class Passives]], [[Elemental Passives]].
 
 ---
+
 ## Skill Upgrades
 
-Class skills in slots three and four are upgraded through a dedicated material separate from weapon upgrading. This material is a rare drop from dungeon content and events, and can be purchased with gold. It is intentionally scarce enough that players prioritise which characters receive upgrades rather than maxing everything simultaneously. See [[Resources]].
+Active skills in the major class slots are upgraded through a dedicated material separate from weapon upgrading. This material is a rare drop from dungeon content and events, and can be purchased with gold. It is intentionally scarce enough that players prioritise which characters receive upgrades rather than maxing everything simultaneously. See [[Resources]].
 
-Weapon techniques in slots one and two are upgraded through weapon leveling directly — no separate material required.
+Weapon techniques in slots 1 and 2 are upgraded through weapon leveling directly — no separate material required.

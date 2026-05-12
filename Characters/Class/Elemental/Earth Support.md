@@ -1,26 +1,23 @@
 ---
 role: support
 scaling:
-  - DEF
+  - HP
 damage type: []
 playstyle:
   - attrition
   - team-dependent
 weapons:
   - staff
-  - tome
   - wand
-stats: -ATK =SPD =HP +DEF
+  - tome
+stats: -ATK =SPD +HP =DEF
 buffs:
-  - shield
-  - DEF up
-  - damage reduction
+  - heal
+  - cleanse
   - immunity
+  - heal over time
+  - shield
 debuffs:
-  - DEF down
-  - effect resistance down
-  - stun
   - ATK down
-  - brand
 ---
-Defensive support that protects the team through DEF-scaling shields and damage reduction rather than healing. Stun and debuffs give it tools to slow enemy pressure while keeping allies behind a wall of mitigation. Where water support keeps the team alive reactively through heals, earth support prevents damage proactively through shields. Immunity access makes it a viable counter to debuff teams alongside water support, with the distinction being earth support survives through mitigation while water support survives through recovery.
+Dedicated healer with some CC options. Sustains the team through sustained healing and cleanse while disrupting enemies through hard CC. Not a speed lead and not a damage threat — purely reactive, keeping allies alive and locking down threats. The only class with reliable access to both immunity and hard CC simultaneously, making it the primary counter to debuff-heavy teams.

@@ -175,9 +175,10 @@
           "14": "burn",
           "15": "bleed",
           "16": "strip",
-          "17": "oblivion",
-          "18": "crit rate down",
-          "19": "block"
+          "17": "steal",
+          "18": "oblivion",
+          "19": "crit rate down",
+          "20": "block"
         }
       },
       "name": "debuffs",
@@ -191,7 +192,7 @@
   "classFilesPath": "Templates/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.18",
+  "settingsVersion": "5.19",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
