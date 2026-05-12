@@ -15,7 +15,7 @@ buffs:
   - immunity
   - ATK+
   - SPD+
-debuffs: [silence, SPD-]
+debuffs: [silence, SPD-, sleep]
 effects:
   - turn meter-
   - turn meter+

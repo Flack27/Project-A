@@ -19,7 +19,7 @@ stats: ++ATK =SPD --DEF =HP
 buffs:
 debuffs: [bleed, vulnerable, unhealable]
 recovery: [self heal]
-effects:
+effects: [strip]
 ---
 High ATK damage dealer that grows more dangerous as it absorbs punishment. Damage output scales with HP lost, lifesteal and death resistance effects encompass this class. Focussing on either more of a bruiser playstyle or glass cannon.
 

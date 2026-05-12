@@ -1,8 +1,11 @@
 ---
 scaling:
   - ATK
-buffs: [heal]
+buffs:
 debuffs:
+recovery:
+  - heal
+effects:
 ---
 ### Basic Attack
 
