@@ -9,36 +9,6 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "ATK up",
-          "2": "DEF up",
-          "3": "SPD up",
-          "4": "crit rate up",
-          "5": "crit damage up",
-          "6": "shield",
-          "7": "damage reduction",
-          "8": "immunity",
-          "9": "invincibility",
-          "10": "counter",
-          "11": "bar push",
-          "12": "heal",
-          "13": "heal over time",
-          "14": "cleanse",
-          "15": "revive"
-        }
-      },
-      "name": "buffs",
-      "id": "0i65Xl",
-      "path": ""
-    },
-    {
-      "type": "Multi",
-      "tagName": "multi",
-      "icon": "bullet-list",
-      "tooltip": "Accepts multiple values from a list",
-      "colorClass": "multi",
-      "options": {
-        "sourceType": "ValuesList",
-        "valuesList": {
           "1": "aggressive",
           "2": "attrition",
           "3": "setup",
@@ -69,6 +39,58 @@
       },
       "name": "damage type",
       "id": "A3tjYs",
+      "path": ""
+    },
+    {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "strip",
+          "2": "steal",
+          "3": "turn meter+",
+          "4": "turn meter-",
+          "5": "cd reduction"
+        }
+      },
+      "name": "effects",
+      "id": "GLf0jd",
+      "path": ""
+    },
+    {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "ATK-",
+          "2": "DEF-",
+          "3": "SPD-",
+          "4": "RES-",
+          "5": "ACC-",
+          "6": "CRIT Rate-",
+          "7": "unhealable",
+          "8": "vulnerable",
+          "9": "block",
+          "10": "pinned",
+          "11": "stun",
+          "12": "entangle",
+          "13": "sleep",
+          "14": "silence",
+          "15": "taunt",
+          "16": "burn",
+          "17": "bleed"
+        }
+      },
+      "name": "debuffs",
+      "id": "Kqo3Qt",
       "path": ""
     },
     {
@@ -159,30 +181,43 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "ATK down",
-          "2": "DEF down",
-          "3": "SPD down",
-          "4": "effect resistance down",
-          "5": "effect accuracy down",
-          "6": "brand",
-          "7": "unhealable",
-          "8": "bar pull",
-          "9": "stun",
-          "10": "freeze",
-          "11": "sleep",
-          "12": "silence",
-          "13": "taunt",
-          "14": "burn",
-          "15": "bleed",
-          "16": "strip",
-          "17": "steal",
-          "18": "oblivion",
-          "19": "crit rate down",
-          "20": "block"
+          "1": "ATK+",
+          "2": "DEF+",
+          "3": "SPD+",
+          "4": "CRIT Rate+",
+          "5": "CRIT DMG+",
+          "6": "shield",
+          "7": "damage reduction",
+          "8": "immunity",
+          "9": "invincibility",
+          "10": "counter",
+          "11": "stealth",
+          "12": "endure",
+          "13": "ACC+",
+          "14": "heal over time"
         }
       },
-      "name": "debuffs",
-      "id": "Kqo3Qt",
+      "name": "buffs",
+      "id": "0i65Xl",
+      "path": ""
+    },
+    {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "heal",
+          "2": "self heal",
+          "4": "cleanse",
+          "5": "revive"
+        }
+      },
+      "name": "recovery",
+      "id": "oRpGTH",
       "path": ""
     }
   ],
@@ -192,7 +227,7 @@
   "classFilesPath": "Templates/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.19",
+  "settingsVersion": "5.35",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

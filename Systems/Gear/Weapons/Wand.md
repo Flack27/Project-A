@@ -1,7 +1,14 @@
 ---
-scaling: [ATK]
-buffs: [crit rate up, ATK up, DEF up]
-debuffs: [effect resistance down, DEF down, ATK down, brand]
+scaling:
+  - ATK
+buffs: [ATK+, DEF+, CRIT Rate+]
+debuffs:
+  - ATK-
+  - DEF-
+  - RES-
+  - ACC-
+recovery:
+effects:
 ---
 ### Basic Attack
 

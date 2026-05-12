@@ -1,7 +1,17 @@
 ---
-scaling: [ATK, DEF, HP]
-buffs: [shield, heal, heal over time]
+scaling:
+  - ATK
+  - DEF
+  - HP
+buffs:
+  - shield
+  - heal
+  - heal over time
 debuffs:
+recovery:
+  - heal
+  - heal over time
+effects: [cd reduction]
 ---
 ### Basic Attack
 

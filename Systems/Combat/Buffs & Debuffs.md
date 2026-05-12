@@ -20,7 +20,11 @@ Persistent positive effects with a defined duration.
 
 **Crit Damage Up** — increases crit damage by a fixed percentage for the duration.
 
+**Effect Accuracy Up** —  increases effect accuracy by a fixed percentage for the duration.
+
 **Shield** — absorbs a set amount of damage before HP is affected. Removed when the shield value is depleted or the duration expires. Shield value is defined by the skill that applies it, often scaling with the caster's DEF or HP.
+
+**Heal Over Time** — restores a fixed amount of HP at the start of each turn for the duration.
 
 **Damage Reduction** — reduces all incoming damage by a fixed percentage for the duration.
 
@@ -30,6 +34,10 @@ Persistent positive effects with a defined duration.
 
 **Counter** — grants a chance to perform a basic attack counter when attacked for the duration.
 
+**Stealth** —  cannot be selected as the main target of enemy skills and decrease aoe dmg by 50%
+
+**Endure** — cannot fall below 1 hp.
+
 ---
 
 ## Recovery
@@ -37,8 +45,6 @@ Persistent positive effects with a defined duration.
 Effects that restore HP, clear debuffs or return fallen characters to combat.
 
 **Heal** — restores a fixed amount of HP. Instant.
-
-**Heal Over Time** — restores a fixed amount of HP at the start of each turn for the duration.
 
 **Cleanse** — removes a set number of debuffs from the target immediately. Not a duration effect. Number of debuffs removed is defined per skill.
 
@@ -66,7 +72,9 @@ Persistent negative effects with a defined duration. Crowd control and damage ov
 
 **Block** — prevents the target from receiving buffs for the duration.
 
-**Brand** — target takes increased damage from all sources for the duration. Amplifies the whole team's damage against a single target, creating a focus fire dynamic distinct from DEF Down.
+**Pinned** — Unable to gain Action bar+ effects.
+
+**Vulnerable** — target takes increased damage from all sources for the duration. Amplifies the whole team's damage against a single target, creating a focus fire dynamic distinct from DEF Down.
 
 ---
 
@@ -74,9 +82,9 @@ Persistent negative effects with a defined duration. Crowd control and damage ov
 
 Persistent effects that prevent or restrict a character's actions. All CC effects pause cooldown progression for their duration except silence.
 
-**Stun** — target cannot act for one turn. Action bar does not fill while stunned.
+**Stun** — target cannot act for one turn.
 
-**Freeze** — target cannot act for one turn. Action bar cannot be pushed while frozen.
+**Entangle** — target cannot act for one turn. Action bar+ effects are 50% effective.
 
 **Sleep** — target cannot act. Breaks immediately on taking damage. Characters in sleep take increased damage from the hit that wakes them.
 
@@ -107,6 +115,8 @@ No duration. Resolve at the moment of application. Cannot be blocked, cleansed, 
 **Bar Push** — moves the target's action bar forward by a fixed percentage immediately. Ally only.
 
 **Bar Pull** — moves the target's action bar backward by a fixed percentage immediately. Enemy only. (can be blocked by immunity)
+
+**CD Reduction** —  reduces the target's remaining cooldowns by x amount of turns.
 
 ---
 
