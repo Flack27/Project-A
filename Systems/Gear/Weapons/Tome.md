@@ -1,7 +1,6 @@
 ---
 scaling:
   - ATK
-  - DEF
   - HP
 buffs:
   - shield
@@ -11,7 +10,8 @@ debuffs:
 recovery:
   - heal
   - heal over time
-effects: [cd reduction]
+effects:
+  - cd reduction
 ---
 ### Basic Attack
 

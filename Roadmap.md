@@ -1,19 +1,3 @@
-
-#### Phase 1 — Class Surface Pass
-
-The current bottleneck. Elemental non-melee classes have surface passes. Physical archetypes, elemental melee, and LD subclasses do not. Going deep on any one class before the full roster is sketched means balancing against an incomplete picture.
-
-Targets:
-
-- Physical archetypes — Berserker, Bruiser, Duelist, Guardian, Ranger, Rogue, Warden, Warrior, Weapon Master. Surface pass each in the same format as the existing elemental class files (frontmatter + short prose).
-- Elemental melee — Fire, Water, Earth, Wind melee. Same surface depth as the non-melee elemental classes.
-- LD subclasses — at least a sketch of what makes each LD variant distinct from its physical equivalent. Names and exclusive abilities can stay placeholder.
-- Resolve Bruiser ambiguity — class name or PvP archetype descriptor, not both.
-
-Exit criteria: every class file has frontmatter and a one-paragraph identity statement. Roles, scaling, buffs and debuffs assigned at surface level. No deep ability lists yet.
-
----
-
 #### Phase 2 — Weapon Files
 
 Tightly coupled to classes. The empty weapon files block class refinement because technique trees feed class options at 3 star.

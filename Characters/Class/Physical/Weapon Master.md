@@ -1,5 +1,5 @@
 ---
-role: damage
+role: hybrid
 scaling:
   - ATK
   - DEF

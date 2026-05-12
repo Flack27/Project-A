@@ -98,9 +98,9 @@ Persistent effects that prevent or restrict a character's actions. All CC effect
 
 Persistent effects that deal damage at the start of the affected character's turn. Multiple stacks of the same DoT type can exist simultaneously unless otherwise noted.
 
-**Burn** — deals damage each turn. Scales with the ATK of the character who applied it. Associated with fire element. Interacts with fire skills and passives.
+**Burn** — deals damage each turn. Scales with the ATK of the character who applied it (ignoring def). Associated with fire element. Interacts with fire skills and passives. Detonation mechanic that consumes the stack and deals some %hp damage based on stack count
 
-**Bleed** — deals percentage HP damage each turn. Associated with wind element.
+**Bleed** — deals 1%HP damage each turn (ignoring def). Stackable up to 5-8 times. Detonation mechanic that deals stack count × multiplier × caster ATK
 
 ---
 
