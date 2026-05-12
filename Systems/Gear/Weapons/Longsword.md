@@ -11,8 +11,8 @@ effects:
 
 - X% damage, 1 hit
 	- DEF _(Guardian, Warden, Revenant)_
-		- X% damage, 2 hits 
-		- X% damage, 3 hits, X% chance to apply [DEF-]
+		- X% damage, 2 hits, X% chance to apply [ATK-] 
+		- X% damage, 2 hits, X% chance to apply [DEF-]
 	- ATK _(Warrior, Duelist, Infernus, Paladin)_
 		- X% damage, 1 hit 
 		  X% damage, 2 hits, X% chance to apply [Bleed] *(Duelist, Warrior)*
@@ -33,7 +33,7 @@ effects:
 	- X% damage, 1 hit
 	    - DEF _(Guardian, Warden, Revenant)_
 	        - X% damage, 2 hits, X% chance to apply [Taunt] 
-	        - X% damage, 3 hits _(Warden, Revenant)_
+	        - X% damage, 1 hit _(Warden, Revenant)_
 	    - ATK _(Warrior, Duelist, Infernus, Paladin)_
 	        - X% damage, 3 hits, X% chance to apply [Bleed] _(Warrior, Duelist)_
 	        - X% damage, 2 hits, damage scales with target missing HP
