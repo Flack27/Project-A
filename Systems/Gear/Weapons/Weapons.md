@@ -30,7 +30,7 @@ Upgrade materials are sourced from specific dungeon content and expeditions. Hig
 
 ## Technique Scaling
 
-Techniques within a tree are not all identical in what stat they scale with. A dagger tree contains both ATK-scaling and SPD-scaling techniques — a player developing that tree is implicitly choosing a stat emphasis based on which techniques they prioritise. A warhammer tree contains DEF-scaling and ATK-scaling branches. The choice of which techniques to develop feeds into which class options surface at 3 star.
+Techniques within a tree are not all identical in what stat they scale with. A dagger tree contains both ATK-scaling and SPD-scaling techniques — a player developing that tree is implicitly choosing a stat emphasis based on which techniques they prioritise. A warhammer tree contains HP-scaling and ATK-scaling branches. The choice of which techniques to develop feeds into which class options surface at 3 star. A upgrade in a weapon should always skew to that weapons classes.
 
 Full technique trees are defined per weapon type in [[Weapon Skills]].
 
