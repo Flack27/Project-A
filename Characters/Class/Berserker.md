@@ -1,5 +1,5 @@
 ---
-role: hybrid
+role: damage
 scaling:
   - ATK
   - HP
@@ -17,9 +17,11 @@ weapons:
   - claws
 stats: ++ATK =SPD --DEF =HP
 buffs:
-debuffs: [bleed, vulnerable]
+debuffs: [bleed, vulnerable, unhealable]
+recovery: [self heal]
+effects:
 ---
-High ATK damage dealer that grows more dangerous as it absorbs punishment. Damage output scales with total HP lost during the fight — not current HP, but cumulative damage taken since the fight started. Low DEF means the scaling kicks in naturally without deliberate self-harm. Selfish and purely offensive, no team utility, no support presence. Everything points inward.
+High ATK damage dealer that grows more dangerous as it absorbs punishment. Damage output scales with HP lost, lifesteal and death resistance effects encompass this class. Focussing on either more of a bruiser playstyle or glass cannon.
 
 
 

@@ -21,4 +21,7 @@ recovery:
 effects:
   - steal
 ---
-Slow high damage dealer focused on DEF shredding. Low SPD makes it vulnerable to disruption but its hits are among the hardest in the mage roster. DEF down on skills enables the rest of the team to deal significantly more damage, making it partly a setup class alongside its personal damage output. Counter gives it a reactive threat that punishes enemies for targeting it.
+Flexible setup class with two distinct build identities, both rooted in HP scaling. The shield branch turns HP investment into frontline mitigation — shields generated scale with max HP, giving the class a defensive ceiling no pure mage reaches. The debuff branch leans into DEF down, block, entangle and crit rate down as a setup platform. Steal adds opportunistic disruption across both directions.
+
+max hp damage converting to shield
+steal buffs and distribute to allies

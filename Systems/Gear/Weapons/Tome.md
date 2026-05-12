@@ -27,7 +27,7 @@ Single target magic strike. ATK scaling. Branches into shielding, healing or coo
 
 Tome is the support magic weapon. Three branches, each with its own scaling stat. Tome is the weapon where scaling branches genuinely fork — unlike staff and wand which stay ATK across all paths, tome's branches scale on different stats to fit the classes that gravitate toward them.
 
-→ **Shielding branch** — techniques that apply shields to allies. Shield magnitude scales with the caster's DEF. Fits Earth Support and any class building toward shield identity. 
+→ **Shielding branch** — techniques that apply shields to allies. Shield magnitude scales with the caster's HP. Fits Earth Mage and any class building toward shield identity. 
 → **Healing branch** — techniques that restore HP to allies, including direct heals and heal over time. Heal magnitude scales with the caster's HP. Fits Water Support, Wind Support and any class that wants real healing access. 
 → **Cooldown reduction branch** — techniques that reduce ally skill cooldowns. ATK scaling on the damage component. Two technique variants exist within the branch:
 - **All allies, single turn** — reduces every ally skill cooldown by 1 turn. Broad utility, moderate cooldown.
