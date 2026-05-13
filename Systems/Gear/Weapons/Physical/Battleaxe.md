@@ -38,7 +38,7 @@ Battleaxe generates Fury passively — gain 1 stack on skill use, up to 5. Stack
 			- X% damage to all enemies, 1 hit — at 5 stacks, S2 autocasts immediately after use 
 	- Bloodcharge branch — X% damage to all enemies, 1 hit _(Berserker, Infernus, Paladin)_
 		- X% damage to all enemies, 1 hit — lifesteal for X% of damage dealt while below 60% HP
-			- X% damage to all enemies, 1 hit — at 5 stacks executes targets below 10% HP while below 60% HP {5% against bosses}
+			- X% damage to all enemies, 1 hit — executes targets below 10% HP while below 60% HP {5% against bosses}
 			- X% damage to all enemies, 1 hit — ignores X% DEF while below 60% HP 
 		- X% damage to all enemies, 1 hit — bonus damage while below 60% HP
 			- X% damage to all enemies, 1 hit — executes targets below 10% HP while below 60% HP {5% against bosses} 

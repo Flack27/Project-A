@@ -196,14 +196,5 @@ Organised by combat direction. Some mechanics fit multiple directions and are pl
 
 ---
 
-## Vocabulary Candidates
-
-Mechanics flagged in earlier passes that have been resolved or set aside. See [[Status Effects & Buffs]].
-
-**Bomb** — resolved as **Doom**, dark-exclusive. Reframed as a countdown debuff that releases damage on expiry, cleansable while ticking. Mechanic lives in the LD section of the status effect doc.
-
-**Steal** — adopted into the core vocabulary as an instant effect alongside Strip, Bar Push and Bar Pull.
-
-**Stigma** — set aside as a vocabulary effect. The constrained uncleansable direction was adopted instead as **Deep Wither** (single-stat, slow decay, no other guardrails needed). The broader Stigma concept remains in this document as a class identity passive option for dark debuffers.
-
-The rest of the entries in this document either use existing vocabulary or describe class identity passives rather than new status effect types.
+additional notes:
+cleansing / healing / shielding aura, trigger on start of turn always do one of them.
