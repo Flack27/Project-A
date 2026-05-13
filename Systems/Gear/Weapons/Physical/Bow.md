@@ -35,7 +35,7 @@ effects: []
 			- ATK
 			- SPD
 	- X% damage, 1 hit _(Ranger, Rogue, Galebreaker)_
-		- X% damage, 1 hit — bonus damage against the lowest HP target
+		- X% damage, 1 hit — bonus damage if this attack crits
 			- ATK
 			- SPD
 		- X% damage, 1 hit — apply [Crit Rate+] to self

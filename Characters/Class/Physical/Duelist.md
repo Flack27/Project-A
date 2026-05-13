@@ -46,12 +46,16 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 Smaller refinements drawn at slots 5 and 6. Always passives.
 
-**Killing Counter** — Counter attacks always land as critical hits.
+****
 
-**Follow Through** — The next active skill used after this character counters deals bonus damage.
+**Exploit Weakness** — Attacks against stunned or taunted targets always land as critical hits.
 
 **Onslaught** — Multi-hit skills deal increasing damage on each successive hit against the same target within a single skill use.
 
 **Piercing Edge** — Basic attacks ignore a portion of target DEF.
 
 **Iron Resolve** — Damage taken from enemies this character has counter-attacked in the current round is reduced by a fixed percentage.
+
+**Killing Counter** — Counter attacks always land as critical hits. (Requires Duelist Stance or Riposte)
+
+**Follow Through** — The next active skill used after this character counters deals bonus damage. (Requires Duelist Stance or Riposte)

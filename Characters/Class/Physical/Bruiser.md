@@ -30,7 +30,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 **Bloodward** — Active. Consumes a percentage of current HP, converts that value into a shield applied to all allies, and applies [Heal Over Time] to the team for the duration.
 
-**Bulwark Roar** — AoE active. Damage scales with max HP. Applies [Taunt] to all enemies and a [Shield] to self for the duration, scaling with max HP.
+**Bulwark Roar** — AoE active. Damage scales with max HP. Applies [Taunt] to all enemies.
 
 **Crushing Wave** — AoE active. Damage scales with max HP. Applies [Stun] and [DEF-] to all enemies hit.
 
