@@ -8,14 +8,17 @@ playstyle:
   - setup
 weapons:
   - staff
-  - wand
   - tome
+  - orb
 stats: --ATK ++SPD =DEF =HP
 buffs:
   - immunity
   - ATK+
   - SPD+
-debuffs: [silence, SPD-, sleep]
+debuffs:
+  - silence
+  - SPD-
+  - sleep
 effects:
   - turn meter-
   - turn meter+

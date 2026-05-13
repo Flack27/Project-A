@@ -216,7 +216,7 @@
           "11": "sword and shield",
           "13": "mace and shield",
           "14": "staff",
-          "15": "wand",
+          "15": "orb",
           "16": "tome",
           "17": "scythe"
         }
@@ -232,7 +232,7 @@
   "classFilesPath": "Templates/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.39",
+  "settingsVersion": "5.40",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

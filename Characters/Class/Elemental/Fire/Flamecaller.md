@@ -2,7 +2,8 @@
 role: hybrid
 scaling:
   - ATK
-damage type: [sustained]
+damage type:
+  - sustained
 playstyle:
   - team-dependent
   - setup
@@ -10,9 +11,12 @@ playstyle:
 weapons:
   - staff
   - tome
-  - wand
+  - orb
 stats: =ATK ++SPD -DEF -HP
-buffs: [heal, cleanse, ATK+]
+buffs:
+  - heal
+  - cleanse
+  - ATK+
 debuffs:
   - burn
   - RES-

@@ -11,11 +11,14 @@ playstyle:
 weapons:
   - staff
   - tome
-  - wand
+  - orb
 stats: ++ATK =SPD -DEF -HP
 buffs:
   - cleanse
-debuffs: [burn, unhealable, RES-]
+debuffs:
+  - burn
+  - unhealable
+  - RES-
 effects:
 recovery:
   - cleanse

@@ -11,8 +11,8 @@ playstyle:
   - setup
 weapons:
   - staff
-  - wand
   - tome
+  - orb
 stats: =ATK ++SPD -DEF -HP
 buffs:
   - SPD+

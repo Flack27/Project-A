@@ -3,12 +3,17 @@ role: support
 scaling:
   - ATK
   - HP
-damage type: [sustained, AoE]
-playstyle: [attrition, team-dependent, setup]
+damage type:
+  - sustained
+  - AoE
+playstyle:
+  - attrition
+  - team-dependent
+  - setup
 weapons:
   - staff
   - tome
-  - wand
+  - orb
 stats: =ATK +SPD =HP -DEF
 buffs:
   - shield

@@ -17,7 +17,7 @@ effects:
 
 Single target magic strike. ATK scaling. Branches into shielding, healing or cooldown manipulation through technique development.
 
-→ **Shield path** — lower damage, small self-shield on hit, shield magnitude scales with DEF 
+→ **Shield path** — lower damage, small self-shield on hit, shield magnitude scales with HP
 → **Heal path** — lower damage, small self-heal on hit, heal magnitude scales with HP 
 → **Cooldown path** — lower damage, small chance on hit to reduce a random ally cooldown by 1 turn
 
