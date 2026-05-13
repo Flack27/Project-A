@@ -9,10 +9,7 @@ playstyle:
   - aggressive
   - selfish
   - setup
-weapons:
-  - bow
-  - spear
-  - claws
+weapons: [bow, spear, claws, scythe]
 stats: ++ATK +SPD -DEF --HP
 buffs:
   - CRIT Rate+

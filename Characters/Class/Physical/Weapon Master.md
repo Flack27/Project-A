@@ -17,7 +17,6 @@ weapons:
   - battleaxe
   - claws
   - warhammer
-  - flail
   - sword and shield
   - mace and shield
   - bow

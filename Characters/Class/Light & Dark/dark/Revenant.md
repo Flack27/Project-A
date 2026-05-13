@@ -8,14 +8,17 @@ damage type:
 playstyle:
   - attrition
   - aggressive
-weapons:
-  - longsword
-  - sword and shield
-  - mace and shield
-  - flail
+weapons: [longsword, sword and shield, mace and shield, meteor hammer]
 stats: =ATK -SPD ++DEF -HP
 buffs:
-debuffs: [doom, CRIT Rate-, ATK-, block, silence, oblivion, unhealable]
+debuffs:
+  - doom
+  - CRIT Rate-
+  - ATK-
+  - block
+  - silence
+  - oblivion
+  - unhealable
 recovery:
 effects:
 ---

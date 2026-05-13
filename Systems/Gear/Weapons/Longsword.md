@@ -10,12 +10,12 @@ effects:
 ## S1
 
 - X% damage, 1 hit
-	- DEF _(Guardian, Warden, Revenant)_
-		- X% damage, 2 hits, X% chance to apply [ATK-] 
-		- X% damage, 2 hits, X% chance to apply [DEF-]
-	- ATK _(Warrior, Duelist, Infernus, Paladin)_
-		- X% damage, 1 hit 
-		  X% damage, 2 hits, X% chance to apply [Bleed] *(Warrior)*
+	- X% damage, 2 hits, X% chance to apply [DEF-]
+		- ATK _(Warrior, Duelist, Infernus, Paladin)_
+		- DEF _(Guardian, Warden, Revenant)_
+	- X% damage, 2 hits, X% chance to apply [Bleed]
+		- ATK _(Warrior, Duelist, Infernus, Paladin)_
+		- DEF _(Guardian, Warden, Revenant)_
 
 
 ---

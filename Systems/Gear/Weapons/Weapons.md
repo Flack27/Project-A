@@ -6,9 +6,9 @@ Weapons are the primary gear slot. They provide ATK, upgrade over time to increa
 
 **Piercing** — dagger, spear, bow Technique trees lean toward SPD and ATK scaling branches. Natural fit for fast damage dealers and wind archetype characters.
 
-**Slashing** — claws, longsword, battleaxe, sword and shield Technique trees lean toward ATK scaling with bleed expression. Natural fit for fire archetype and aggressive physical classes. Claws are the default beastman weapon and scale with the character rather than requiring crafting — see [[Race]].
+**Slashing** — claws, longsword, battleaxe, sword and shield, scythe Technique trees lean toward ATK scaling with bleed expression. Natural fit for fire archetype and aggressive physical classes. Claws are the default beastman weapon and scale with the character rather than requiring crafting — see [[Race]].
 
-**Bludgeoning** — warhammer, flail, mace and shield Technique trees lean toward DEF and ATK scaling branches. Natural fit for earth archetype and tank classes.
+**Bludgeoning** — maul, meteor hammer, mace and shield Technique trees lean toward DEF and ATK scaling branches. Natural fit for earth archetype and tank classes.
 
 **Magic** — staff, wand, tome Technique trees are ATK scaling throughout. Staff leans offensive. Wand leans debuff and buff application. Tome leans healing and support. Natural fit for all elemental archetypes.
 

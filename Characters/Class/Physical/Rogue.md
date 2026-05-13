@@ -8,10 +8,7 @@ damage type:
 playstyle:
   - aggressive
   - selfish
-weapons:
-  - claws
-  - dagger
-  - bow
+weapons: [claws, dagger, bow, scythe]
 stats: +ATK ++SPD -DEF --HP
 buffs:
   - stealth

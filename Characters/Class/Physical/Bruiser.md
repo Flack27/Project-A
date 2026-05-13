@@ -9,12 +9,11 @@ playstyle:
   - attrition
   - reactive
   - team-dependent
-weapons:
-  - warhammer
-  - mace and shield
-  - flail
+weapons: [mace and shield, maul, meteor hammer, scythe]
 stats: -ATK -SPD =DEF ++HP
-buffs: [heal over time, shield]
+buffs:
+  - heal over time
+  - shield
 debuffs:
   - taunt
   - stun

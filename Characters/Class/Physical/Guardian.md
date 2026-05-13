@@ -7,10 +7,7 @@ damage type:
 playstyle:
   - reactive
   - team-dependent
-weapons:
-  - sword and shield
-  - mace and shield
-  - longsword
+weapons: [sword and shield, mace and shield, longsword, meteor hammer]
 stats: --ATK -SPD ++DEF +HP
 buffs:
   - damage reduction

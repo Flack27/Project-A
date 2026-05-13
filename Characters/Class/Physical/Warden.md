@@ -8,16 +8,15 @@ damage type:
 playstyle:
   - reactive
   - attrition
-weapons:
-  - mace and shield
-  - sword and shield
-  - longsword
-  - flail
+weapons: [mace and shield, sword and shield, longsword, meteor hammer]
 stats: =ATK -SPD +DEF =HP
 buffs:
   - counter
   - damage reduction
-debuffs: [taunt, vulnerable, DEF-]
+debuffs:
+  - taunt
+  - vulnerable
+  - DEF-
 recovery:
 effects:
 ---

@@ -8,12 +8,7 @@ damage type:
 playstyle:
   - attrition
   - reactive
-weapons:
-  - sword and shield
-  - longsword
-  - battleaxe
-  - warhammer
-  - flail
+weapons: [sword and shield, longsword, battleaxe, maul]
 stats: +ATK -SPD =DEF +HP
 buffs:
   - sanctuary
