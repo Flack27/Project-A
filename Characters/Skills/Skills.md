@@ -12,9 +12,9 @@ Every character has six skill slots that unlock across star progression. The fir
 
 ## Major Class Slots
 
-**Slot 3 — unlocks at 3 star.** Class locks in at the moment of ascension. The draw at this stage is always from the major class pool — it produces either an active class skill or a major class passive depending on what the pool yields for this character. Directly expresses the combat role.
+**Slot 3 — unlocks at 3 star.** Class locks in at the moment of ascension. The draw at this stage is always from the major class pool it produces either an active class skill or a major class passive depending on what the pool yields for this character. Directly expresses the combat role.
 
-**Slot 4 — unlocks at 4 star.** Second draw from the major class pool. Deepens the identity established at slot 3 rather than introducing something unrelated. A character cannot hold two major passives — if slot 3 produced a major passive, slot 4 will always produce an active skill, and vice versa.
+**Slot 4 — unlocks at 4 star.** Second draw from the major class pool. Deepens the identity established at slot 3 rather than introducing something unrelated. A character cannot hold two major passives if slot 3 produced a major passive, slot 4 will always produce an active skill.
 
 See [[Class Skills]], [[Class Passives]].
 
