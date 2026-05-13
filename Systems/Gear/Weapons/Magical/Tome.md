@@ -2,43 +2,41 @@
 scaling:
   - ATK
   - HP
-buffs:
-  - shield
-  - heal
-  - heal over time
+buffs: [ATK+, DEF+, shield]
 debuffs:
 recovery:
   - heal
   - heal over time
+  - cleanse
 effects:
-  - cd reduction
+  - turn meter+
 ---
-### Basic Attack
+Tome is the support magic weapon. S1 is a fixed basic attack developing through three mastery levels with no specialisation. S2 has three options each developing through four mastery levels, the fourth being specialisation. S1 scales ATK. All S2 options scale with the caster's HP — stacking HP is the primary investment target for tome users.
 
-Single target magic strike. ATK scaling. Branches into shielding, healing or cooldown manipulation through technique development.
-
-→ **Shield path** — lower damage, small self-shield on hit, shield magnitude scales with HP
-→ **Heal path** — lower damage, small self-heal on hit, heal magnitude scales with HP 
-→ **Cooldown path** — lower damage, small chance on hit to reduce a random ally cooldown by 1 turn
+The elemental rider applied by the character's awakening attaches to all tome techniques including the basic attack.
 
 ---
 
-### Technique Tree
+## S1 — Basic Attack
 
-Tome is the support magic weapon. Three branches, each with its own scaling stat. Tome is the weapon where scaling branches genuinely fork — unlike staff and wand which stay ATK across all paths, tome's branches scale on different stats to fit the classes that gravitate toward them.
-
-→ **Shielding branch** — techniques that apply shields to allies. Shield magnitude scales with the caster's HP. Fits Earth Mage and any class building toward shield identity. 
-→ **Healing branch** — techniques that restore HP to allies, including direct heals and heal over time. Heal magnitude scales with the caster's HP. Fits Water Support, Wind Support and any class that wants real healing access. 
-→ **Cooldown reduction branch** — techniques that reduce ally skill cooldowns. ATK scaling on the damage component. Two technique variants exist within the branch:
-- **All allies, single turn** — reduces every ally skill cooldown by 1 turn. Broad utility, moderate cooldown.
-- **Single ally, all skills** — reduces all of one ally's cooldowns by 1 turn. Concentrated value on a single character, moderate cooldown.
+Single hit magic strike. ATK scaling. Slightly lower damage than staff. Mastery increases damage at levels 2 and 3. No specialisation.
 
 ---
 
-##### Notes
+## S2
 
-Tome is the only magic weapon where the equipping character's class scaling stat meaningfully changes what techniques produce. A Fire Mage using the healing branch generates smaller heals than a Water Support using the same technique, because the magnitude scales with HP and Fire Mage builds against HP. This is intended — tome rewards alignment between class scaling and branch choice while remaining universally equippable.
+**Turn Meter Push** — pushes all allies' action bars forward by 20%. No damage component. Mastery increases push magnitude at levels 2 and 3.
 
-The cooldown reduction branch is the universal third option. Power ceiling is intentionally capped at -1 turn rather than full skill resets to keep the mechanic from compounding into rotation breaking.
+_Specialisation_ — push increases to 30% for all allies, or narrows to a single target pushed 100% forward with ATK+ applied to them.
 
-Specific technique lists, shield and heal magnitudes, cooldown values and the balance between the two cooldown reduction variants are placeholder until combat is playtested.
+---
+
+**Shield** — applies a shield to all allies equal to a percentage of the caster's max HP. Mastery increases the HP% value at levels 2 and 3.
+
+_Specialisation_ — shield value decreases slightly and also applies DEF+ to all allies, or shield value increases with no secondary effect.
+
+---
+
+**Heal** — restores HP to all allies equal to a percentage of each ally's max HP. Mastery increases the HP% value at levels 2 and 3.
+
+_Specialisation_ — heal percentage stays the same and also cleanses one debuff from each ally, or heal percentage stays the same and also applies heal over time to all allies.

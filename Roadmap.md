@@ -1,19 +1,3 @@
-#### Phase 2 — Weapon Files
-
-Tightly coupled to classes. The empty weapon files block class refinement because technique trees feed class options at 3 star.
-
-Targets:
-
-- Dagger, Spear, Bow — piercing tree
-- Claws, Longsword, Battleaxe — slashing tree
-- Warhammer, Flail — bludgeoning tree
-- Sword and Shield, Mace and Shield — defensive tree
-- Use the existing Staff, Wand, Tome files as the format template
-
-Exit criteria: every weapon file has scaling, branches, and a placeholder technique list following the structure already established in Staff.md.
-
----
-
 #### Phase 3 — Class Depth Pass
 
 With the full class and weapon picture visible, go back through each class and write the actual S3 and S4 skill identities, class passive pools, and resolve scaling and stat interactions properly. This is where Theft.md gets mined — Endure to Guardian, dual attack to Ranger or Duelist, DoT detonation to Fire Mage, stealth to Rogue, cooldown reset chance to a chaotic class, etc.

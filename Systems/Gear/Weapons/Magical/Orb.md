@@ -1,35 +1,42 @@
 ---
 scaling:
   - ATK
-buffs: [ATK+, DEF+, CRIT Rate+]
+buffs: [ATK+, ACC+]
 debuffs:
   - ATK-
   - DEF-
   - RES-
   - ACC-
+  - sleep
 recovery:
 effects:
 ---
-### Basic Attack
+Orb is the utility magic weapon. S1 is a fixed basic attack developing through three mastery levels with no specialisation. S2 has three options each developing through four mastery levels, the fourth being specialisation. All three S2 options are available from the start.
 
-Single target magic strike. ATK scaling. Branches into buff application or debuff application through technique development.
-
-→ **Buff path** — small chance to apply a minor self buff on hit 
-→ **Debuff path** — small chance to apply a minor debuff on hit
+The elemental rider applied by the character's awakening attaches to all orb techniques including the basic attack.
 
 ---
 
-### Technique Tree
+## S1 — Basic Attack
 
-Wand is the utility magic weapon. Two branches, both ATK scaling. Techniques in this tree apply buffs to allies or debuffs to enemies alongside their damage output, making wand the natural fit for supports and debuffer-leaning classes.
-
-→ **Buff branch** — techniques that deal moderate damage and apply a buff to an ally or the party. Buff strength is fixed per technique. Higher branch depth unlocks broader buff types. 
-→ **Debuff branch** — techniques that deal moderate damage and apply a debuff to the target or all enemies. Debuff application uses standard effect accuracy and effect resistance formulas. Higher branch depth unlocks stronger or longer debuffs.
+Two hit magic strike. ATK scaling. Slightly lower damage per hit than staff. Mastery increases damage at levels 2 and 3. No specialisation.
 
 ---
 
-##### Notes
+## S2
 
-All techniques scale on ATK regardless of which class equips the wand. Effect strength and duration are fixed per technique — effect accuracy investment still matters for debuff branch landing rates.
+**Buff** — applies ATK+ to all allies. No damage component. Mastery increases buff duration and skill cd at levels 2 and 3 respectively.
 
-Specific technique lists, buff and debuff types per branch depth, and balance numbers are placeholder until combat is playtested.
+_Specialisation_ — ATK+ triggers an extra turn for the caster immediately after use, cooldown is significantly higher than the base version, or ATK+ also applies ACC+ to all allies at the same magnitude.
+
+---
+
+**DEF Debuff** — 2 hits, ATK scaling. Applies DEF- on hit. Mastery increases damage and DEF- magnitude at levels 2 and 3.
+
+_Specialisation_ — 3 hits keeping roughly the same total damage with DEF- on each hit, or stays 2 hits and also applies ACC- alongside DEF-.
+
+---
+
+**ATK Debuff** — 2 hits, ATK scaling. Applies ATK- on hit. Mastery increases damage and ATK- magnitude at levels 2 and 3.
+
+_Specialisation_ — stays 2 hits and also applies RES- alongside ATK-, or stays 2 hits and also applies Sleep alongside ATK-.
