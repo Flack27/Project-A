@@ -27,15 +27,19 @@ Equipped technique effects — damage multipliers, effect chances, durations —
 Upgrade materials are sourced from specific dungeon content and expeditions. Higher upgrade tiers require rarer materials from deeper content.
 
 ---
+## Magic Weapon Upgrade Structure
 
-## Technique Scaling
+Magic weapons are upgraded at the arcane workshop rather than the smithy. ATK increases at every upgrade level identically to physical weapons — same tier, same ATK value regardless of type.
 
-Techniques within a tree are not all identical in what stat they scale with. A dagger tree contains both ATK-scaling and SPD-scaling techniques — a player developing that tree is implicitly choosing a stat emphasis based on which techniques they prioritise. A warhammer tree contains HP-scaling and ATK-scaling branches. The choice of which techniques to develop feeds into which class options surface at 3 star. A upgrade in a weapon should always skew to that weapons classes.
+The second track is spell mastery rather than technique development. Mastery develops through casting the equipped spell in combat and is stored per spell — switching spells suspends progress on the old one without resetting it.
 
-Full technique trees are defined per weapon type in [[Weapon Skills]].
+S1 develops through three mastery levels, increasing damage at each. No specialisation.
+
+S2 spells develop through four mastery levels. Levels 1 through 3 strengthen the spell. Level 4 is specialisation, a fixed mechanical variation that sharpens the spell's identity without replacing it.
+
+Mastery is specific to the character and weapon combination. A fully mastered staff equipped to a different character starts from zero.
 
 ---
-
 ## Set Bonus
 
 Each weapon carries one set bonus slot. This slot contributes to the same set system as runes — weapon and rune set bonuses overlap, so a weapon's set tag counts toward completing a rune set threshold.
