@@ -38,6 +38,6 @@ effects:
 		- X% damage, 4 hits — bonus damage against targets below X% HP
 			- ATK _(Duelist)_
 			- SPD _(Galebreaker, Rogue)_
-		- X% damage, 4 hits, X% chance to apply [Bleed] — chance increases on critical hit
+		- X% damage, 4 hits, — apply [ATK+] to self
 			- ATK _(Duelist)_
 			- SPD _(Galebreaker, Rogue)_

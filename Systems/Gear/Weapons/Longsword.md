@@ -3,7 +3,7 @@ scaling:
   - ATK
   - DEF
 buffs: []
-debuffs: [DEF-, bleed, RES-, ATK-, taunt]
+debuffs: [bleed, RES-, ATK-, taunt, DEF-]
 recovery: []
 effects:
 ---
