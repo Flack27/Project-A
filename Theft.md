@@ -198,3 +198,4 @@ Organised by combat direction. Some mechanics fit multiple directions and are pl
 
 additional notes:
 cleansing / healing / shielding aura, trigger on start of turn always do one of them.
+guard aura, ally takes x% of damage to allies
