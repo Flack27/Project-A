@@ -26,6 +26,6 @@ effects:
 ---
 Unique support identity built around converting debuffs on allies into buffs. Debuff flip transfers harmful effects from allies and inverts them. Oblivion access provides offensive utility alongside the defensive identity. Distinct from Cleric which prevents and removes damage — Dark Support weaponises what the enemy applies, turning debuff-heavy opponents into inadvertent buffers. Rewards fighting into debuff-focused teams rather than avoiding them.
 
-debuff 
+debuff spread
 convert buffs into debuffs
 convert debuffs into buffs

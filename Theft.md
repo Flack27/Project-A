@@ -72,3 +72,7 @@ resetting cooldowns on enemies
 debuff extending
 buff extending on allies
 character takes reduced damage
+every x amount of buffs increases damage and reduces damage taken up to a cap
+increase turn meter after ally turn
+passive that reduces crit damage taken by all allies
+after enemy action increase turn meter by % (for all allies?)

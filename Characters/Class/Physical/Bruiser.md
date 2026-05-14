@@ -45,7 +45,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 Smaller refinements drawn at slots 5 and 6. Always passives.
 
-**Resurgence** — When this character falls below a fixed HP threshold, heal for a fixed percentage of max HP. Once per combat.
+**Resolve** — HP increase
 
 **Retribution** — Bonus damage against targets currently affected by [Taunt] applied by this character.
 

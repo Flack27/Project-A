@@ -53,6 +53,6 @@ Smaller refinements drawn at slots 5 and 6. Always passives.
 
 **Carnage** — Each enemy killed grants a stacking permanent ATK buff for the duration of combat. Stacks cap at a fixed number and cannot be stripped or cleansed.
 
-**Predator** — Bonus damage against targets inflicted with bleed.
+**Predator** — ATK increase
 
 **Unstoppable** — Cannot be reduced to 0 HP while affected by [Stun], [Sleep], [Entangle] or [Silence].  Cleanses cc start of the turn when below x hp (on a cooldown)

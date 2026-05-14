@@ -136,9 +136,7 @@ LD effects use their own icon colour distinct from standard buffs and debuffs.
 
 **Doom** — countdown debuff with a visible turn counter. Ticks down at the start of each of the target's turns. When the counter reaches zero, deals significant damage to the target and is removed. Cleansable while still ticking. The damage is a single payload rather than per-turn ticks, making it distinct from burn and bleed. Counterplay is racing the cleanse before the countdown completes.
 
-**Wither** — debuff applied to a stat (ATK, DEF or SPD, defined by the skill). Each turn the debuff is active, the affected stat decreases by an additional fixed percentage. Stacks on itself for the duration. Cleansable. Heavy payoff if it remains for the full duration, low value if cleansed early — standard rotation tradeoff.
-
-**Deep Wither** — variant of wither. Affects only DEF. Uncleansable. Per-turn decay is significantly smaller than standard wither. Removed only on expiry or at end of combat. Slow attrition tool designed for long fights and boss content, never overwhelming in short encounters.
+**Wither** — absorb healing equal to a %. When the effect expires naturally deal true damage equal to the remaining amount.
 
 ### Light Exclusive
 
