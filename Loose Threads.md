@@ -119,3 +119,7 @@ Using actual statistics for the testing / balancing and data management?
 PvP ideas
 actually attacking a lobby?
 tournament style event with 1 v 1, 2 v 2, 4 v 4?
+
+---
+
+leaderboards with meaningful rewards in pvp and pve
