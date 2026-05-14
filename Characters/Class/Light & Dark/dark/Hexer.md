@@ -17,7 +17,11 @@ buffs:
   - ACC+
   - immunity
   - ATK+
-debuffs: [oblivion, sleep, block, unhealable, vulnerable]
+debuffs:
+  - oblivion
+  - sleep
+  - block
+  - unhealable
 recovery:
   - cleanse
 effects:
