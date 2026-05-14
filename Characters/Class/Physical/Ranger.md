@@ -46,7 +46,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 **Hunter's Mark** — Single target active. High damage hit. High chance to apply [Mark] and [Pinned] to the target.
 
-**Vanguard Call** — Active. Apply [Turn Meter+] and [Crit DMG+] to all allies.
+**Sentinel Call** — Active. Apply [Turn Meter+] and [Crit DMG+] to all allies.
 
 **Predator** — Passive. Bonus damage against Bleeding targets, scaling with the number of Bleed stacks currently on them. All skills have a base chance to apply [Bleed] on hit.
 

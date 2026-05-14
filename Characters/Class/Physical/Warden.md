@@ -40,7 +40,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 **Sunder** — AoE active. Deal X% damage to all enemies. [Strip] one buff from all enemies. Apply [DEF-] and [RES-] to all enemies.
 
-**Dominance** — AoE active. Pull all enemies' action bars back by X%. Apply [CRIT Rate-] to all enemies. Enter [Challenge] after the skill resolves.
+**Dominance** — AoE active. Steal action bars back by X%. Apply [CRIT Rate-] to all enemies. Enter [Challenge] after the skill resolves.
 
 ---
 

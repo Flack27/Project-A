@@ -51,6 +51,6 @@ Smaller refinements drawn at slots 5 and 6. Always passives.
 
 **Lifeblood** — Every basic attack consumes a small percentage of current HP and deals that value as additional damage on the same hit.
 
-**Vital Drain** — Heal for a fixed percentage of damage dealt by weapon skills. Does not apply to class skills or basic attacks.
+**Vital Drain** — Heal for a fixed percentage of damage dealt by weapon skills. Does not apply to class skills.
 
 **Reprisal** — Grants a flat counter chance on incoming hits. Stacks additively with other counter sources.
