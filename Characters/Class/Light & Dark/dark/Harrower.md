@@ -17,19 +17,40 @@ stats: ++ATK =SPD -DEF -HP
 buffs: []
 debuffs:
   - doom
+  - stun
   - wither
   - vulnerable
-  - DEF-
-  - ATK-
-  - sleep
 recovery:
-effects:
+effects: [strip, cd reduction]
 ---
-Dark-exclusive debuff dealer built around Doom, Wither and debuff detonation. Doom applies a countdown that detonates for significant damage on expiry — cleansable while ticking, creating counterplay tension around whether the opponent can cleanse before it fires. Wither stacks stat reduction over duration. Debuff detonation expends accumulated debuffs on a target for burst damage scaling with stack count, rewarding debuff application over multiple turns with a single large payoff. No buff access, purely offensive. The broadest dark exclusive vocabulary access of any class.
+ATK-scaling dark damage dealer that trades crit entirely for effect accuracy as the primary offensive stat. Accursed Precision converts eff acc investment into damage amplification and DEF penetration, creating a gearing identity shared with no other class. Doom is the core payoff — applied through Sentence, procced passively through Harbinger, and scaling in final damage with target max HP. Collapse and Despoil reward debuff accumulation and punish buffed enemy teams respectively, both converting setup work into burst damage. No buff access, no recovery. Purely offensive, rewards patient setup and deliberate debuff management before committing to a detonation window.
 
-eff acc scales damage
-debuff detonation
-damage per debuff on target
-remove all buffs dmg per removed
+---
+
+## Major Pool
+
+Class-defining skills and passives. Two are drawn across slots 3 and 4, with at least one always being an active.
+
+**Accursed** — Passive. This character cannot land critical hits. Damage dealt is increased and a portion of target DEF is ignored, both scaling with effect accuracy up to a fixed cap.
+
+**Collapse** — AoE active. Deal damage to all enemies. Detonate all debuffs currently on all enemies — each debuff consumed deals additional damage.
+
+**Despoil** — AoE active. Deal damage to all enemies. Strip all buffs from all enemies. Deal bonus damage per buff removed.
+
+**Singularity** — AoE active. Apply [Doom] and [Stun] to all enemies.
+
+**Harbinger** — Passive. Each skill use has a chance to apply [Doom] to the target. [Doom] deals additional damage on expiry scaling with the target's max HP.
+
+---
+
+## Minor Pool
+
+Smaller refinements drawn at slots 5 and 6. Always passives.
 
 **Predation** — Gain a small amount of turn meter when hitting an enemy that currently has a debuff applied.
+
+**Entropy** — Each debuff applied or detonated has a chance to increase the target's cooldowns by 1 turn.
+
+**Decay** — Deal increased damage to targets that currently have more than a fixed number of debuffs active.
+
+**Parasitism** — Increase effect accuracy by a fixed flat amount.

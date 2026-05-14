@@ -39,6 +39,7 @@ damage reduction for buffs on allies - light
 turn meter+ first time hit each turn - ld
 whenever ally triggers extra attack heal them light
 crit damage taken by team reduce - bulwark / geomancer
+each attack chance to strip or apply debuff - wind mage
 
 skill names
 transcendence
