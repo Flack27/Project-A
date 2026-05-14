@@ -9,36 +9,6 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "ATK+",
-          "2": "DEF+",
-          "3": "SPD+",
-          "4": "CRIT Rate+",
-          "5": "CRIT DMG+",
-          "6": "shield",
-          "7": "damage reduction",
-          "8": "immunity",
-          "9": "invincibility",
-          "10": "counter",
-          "11": "stealth",
-          "12": "endure",
-          "13": "ACC+",
-          "14": "heal over time",
-          "15": "sanctuary"
-        }
-      },
-      "name": "buffs",
-      "id": "0i65Xl",
-      "path": ""
-    },
-    {
-      "type": "Multi",
-      "tagName": "multi",
-      "icon": "bullet-list",
-      "tooltip": "Accepts multiple values from a list",
-      "colorClass": "multi",
-      "options": {
-        "sourceType": "ValuesList",
-        "valuesList": {
           "1": "aggressive",
           "2": "attrition",
           "3": "setup",
@@ -89,41 +59,6 @@
       },
       "name": "effects",
       "id": "GLf0jd",
-      "path": ""
-    },
-    {
-      "type": "Multi",
-      "tagName": "multi",
-      "icon": "bullet-list",
-      "tooltip": "Accepts multiple values from a list",
-      "colorClass": "multi",
-      "options": {
-        "sourceType": "ValuesList",
-        "valuesList": {
-          "1": "ATK-",
-          "2": "DEF-",
-          "3": "SPD-",
-          "4": "RES-",
-          "5": "ACC-",
-          "6": "CRIT Rate-",
-          "7": "unhealable",
-          "8": "vulnerable",
-          "9": "block",
-          "10": "pinned",
-          "11": "stun",
-          "12": "entangle",
-          "13": "sleep",
-          "14": "silence",
-          "15": "taunt",
-          "16": "burn",
-          "17": "bleed",
-          "18": "wither",
-          "19": "doom",
-          "20": "oblivion"
-        }
-      },
-      "name": "debuffs",
-      "id": "Kqo3Qt",
       "path": ""
     },
     {
@@ -224,6 +159,73 @@
       "name": "weapons",
       "id": "orjGam",
       "path": ""
+    },
+    {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "ATK+",
+          "2": "DEF+",
+          "3": "SPD+",
+          "4": "CRIT Rate+",
+          "5": "CRIT DMG+",
+          "6": "shield",
+          "7": "damage reduction",
+          "8": "immunity",
+          "9": "invincibility",
+          "10": "counter",
+          "11": "stealth",
+          "12": "endure",
+          "13": "ACC+",
+          "14": "heal over time",
+          "15": "sanctuary",
+          "16": "guard"
+        }
+      },
+      "name": "buffs",
+      "id": "0i65Xl",
+      "path": ""
+    },
+    {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "ATK-",
+          "2": "DEF-",
+          "3": "SPD-",
+          "4": "RES-",
+          "5": "ACC-",
+          "6": "CRIT Rate-",
+          "7": "unhealable",
+          "8": "vulnerable",
+          "9": "block",
+          "10": "pinned",
+          "11": "stun",
+          "12": "entangle",
+          "13": "sleep",
+          "14": "silence",
+          "15": "taunt",
+          "16": "burn",
+          "17": "bleed",
+          "18": "mark",
+          "19": "wither",
+          "20": "doom",
+          "21": "oblivion"
+        }
+      },
+      "name": "debuffs",
+      "id": "Kqo3Qt",
+      "path": ""
     }
   ],
   "fileClassQueries": [],
@@ -232,7 +234,7 @@
   "classFilesPath": "Templates/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.40",
+  "settingsVersion": "5.42",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

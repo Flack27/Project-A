@@ -55,4 +55,4 @@ Smaller refinements drawn at slots 5 and 6. Always passives.
 
 **Predator** — Bonus damage against targets inflicted with bleed.
 
-**Unstoppable** — Cannot be reduced to 0 HP while affected by [Stun], [Sleep], [Entangle] or [Silence]. 
+**Unstoppable** — Cannot be reduced to 0 HP while affected by [Stun], [Sleep], [Entangle] or [Silence].  Cleanses cc start of the turn when below x hp (on a cooldown)

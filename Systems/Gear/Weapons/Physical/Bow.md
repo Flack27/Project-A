@@ -4,10 +4,7 @@ scaling:
   - SPD
 buffs:
   - CRIT Rate+
-debuffs:
-  - bleed
-  - pinned
-  - vulnerable
+debuffs: [bleed, pinned, ACC-]
 recovery: []
 effects: []
 ---
@@ -31,7 +28,7 @@ effects: []
 		- X% damage to all enemies, 3 hits, X% chance to apply [Pinned] and [Bleed]
 			- ATK
 			- SPD
-		- X% damage to all enemies, 1 hit, X% chance to apply [Pinned] and [Vulnerable] 
+		- X% damage to all enemies, 1 hit, X% chance to apply [Pinned] and [ACC-] 
 			- ATK
 			- SPD
 	- X% damage, 1 hit _(Ranger, Rogue, Galebreaker)_

@@ -123,3 +123,4 @@ tournament style event with 1 v 1, 2 v 2, 4 v 4?
 ---
 
 leaderboards with meaningful rewards in pvp and pve
+rewards for unlocking unique classes and skills

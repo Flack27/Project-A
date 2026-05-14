@@ -36,7 +36,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 **Provoke** — Single target active. Always lands as a critical hit. Steals buffs and applies [Taunt] to the target for one turn. Forces the opponent's strongest attacker into the worst possible target choice.
 
-**Last Bastion** — AoE active. Applies [Taunt] to all enemies and [Damage Reduction] to self for the duration. The single defensive turn available to the class, sized as a counter setup rather than full tanking.
+**Last Bastion** — AoE active. Applies [Taunt] to all enemies and [Counter] to self for the duration. The single defensive turn available to the class, sized as a counter setup rather than full tanking.
 
 **Pressure Point** — Single target active. Applies [Vulnerable] and [DEF-] to the target. Sets up the escalating-pressure gameplan against a priority enemy.
 
@@ -56,6 +56,6 @@ Smaller refinements drawn at slots 5 and 6. Always passives.
 
 **Iron Resolve** — Damage taken from enemies this character has counter-attacked in the current round is reduced by a fixed percentage.
 
-**Killing Counter** — Counter attacks always land as critical hits. (Requires Duelist Stance or Riposte)
+**Killing Counter** — Counter attacks always land as critical hits. (Requires Duelist Stance or Riposte, Last Bastion)
 
-**Follow Through** — The next active skill used after this character counters deals bonus damage. (Requires Duelist Stance or Riposte)
+**Follow Through** — The next active skill used after this character counters deals bonus damage. (Requires Duelist Stance or Riposte, Last Bastion)

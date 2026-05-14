@@ -32,7 +32,9 @@ Persistent positive effects with a defined duration.
 
 **Invincibility** — blocks all incoming damage for the duration. Cannot be extended or refreshed. Always short duration.
 
-**Counter** — grants a chance to perform a basic attack counter when attacked for the duration.
+**Counter** — perform a basic attack counter when attacked for the duration.
+
+**Guard** —  the caster of this skill will take %of the damage reduced by a % instead of the attacked ally 
 
 **Stealth** —  cannot be selected as the main target of enemy skills and decrease aoe dmg by 50%
 
@@ -73,6 +75,8 @@ Persistent negative effects with a defined duration. Crowd control and damage ov
 **Block** — prevents the target from receiving buffs for the duration.
 
 **Pinned** — Unable to gain Action bar+ effects.
+
+**Mark** — perform a basic attack follow-up when a crit is scored against this target by an ally (only 1 mark can be active at a time)
 
 **Vulnerable** — target takes increased damage from all sources for the duration. Amplifies the whole team's damage against a single target, creating a focus fire dynamic distinct from DEF Down.
 

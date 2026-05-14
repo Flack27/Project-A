@@ -10,16 +10,7 @@ damage type:
   - sustained
   - burst
 playstyle:
-weapons:
-  - dagger
-  - spear
-  - longsword
-  - battleaxe
-  - claws
-  - warhammer
-  - sword and shield
-  - mace and shield
-  - bow
+weapons: [dagger, spear, longsword, battleaxe, claws, warhammer, sword and shield, mace and shield, bow, maul, meteor hammer, scythe]
 stats: =ATK =SPD =DEF =HP
 buffs:
 debuffs:

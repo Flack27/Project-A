@@ -25,3 +25,5 @@ effects:
 recovery:
 ---
 Sustained damage dealer that disrupts enemy action economy while applying bleed. Bar pull and push (stealing turn meter) actively dismantle enemy rotations while bleed stacks pressure over time. Plays longer than fire mage — less burst, more controlled attrition through speed manipulation and DoT. Natural fit in teams that want to outlast rather than one-shot.
+
+**Bar Pull plus Silence** — pull the enemy's bar back and silence them in the same skill. Combines two existing effects into a hard tempo lockout. Standard disruption pattern. 

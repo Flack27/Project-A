@@ -36,7 +36,8 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 **Threshold** — Passive. When a single hit would deal damage exceeding a fixed percentage of max HP, the excess damage is reduced by a fixed percentage. Hard counter to burst, scales linearly with HP investment.
 
-**Eat Debuffs** — Passive. Only one of each debuff type can be active on this character at a time. Applying a new debuff of an existing type triggers a heal or removes the existing instance instead of stacking.
+**Absorb** — Passive. Takes 25% of damage for other teammates. For every X% max hp lost gain a stack. at X stacks consume them to recover % of max hp
+
 
 ---
 
