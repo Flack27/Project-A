@@ -56,5 +56,3 @@ Smaller refinements drawn at slots 5 and 6. Always passives.
 **Fracture** — Base application chance for all debuffs increases by a small fixed amount for each debuff already on the target. Caps at a fixed threshold.
 
 **Scourge** — When an enemy is cleansed, deal a small amount of damage to that enemy and strip one buff. Triggers once per turn.
-
-**Predation** — Gain a small amount of turn meter when hitting an enemy that currently has a debuff applied.

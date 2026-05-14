@@ -31,3 +31,5 @@ eff acc scales damage
 debuff detonation
 damage per debuff on target
 remove all buffs dmg per removed
+
+**Predation** — Gain a small amount of turn meter when hitting an enemy that currently has a debuff applied.

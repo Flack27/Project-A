@@ -37,6 +37,8 @@ dokidoki passive - light
 extends buffs, reduce debuffs, shorten cd - light
 damage reduction for buffs on allies - light
 turn meter+ first time hit each turn - ld
+whenever ally triggers extra attack heal them light
+crit damage taken by team reduce - bulwark / geomancer
 
 skill names
 transcendence

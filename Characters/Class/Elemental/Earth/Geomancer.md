@@ -31,3 +31,4 @@ Flexible setup class with two distinct build identities, both rooted in HP scali
 max hp damage converting to shield
 steal buffs and distribute to allies
 barrier start of combat and every turn
+shielding done increase

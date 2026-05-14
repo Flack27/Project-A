@@ -1,28 +1,54 @@
 ---
 role: tank
 scaling:
-  - DEF
+  - HP
 damage type:
-  - sustained
   - AoE
+  - sustained
 playstyle:
   - attrition
   - aggressive
-weapons:
-  - longsword
-  - sword and shield
-  - mace and shield
-  - meteor hammer
-stats: =ATK -SPD ++DEF -HP
+weapons: [mace and shield, meteor hammer, maul, scythe]
+stats: =ATK -SPD -DEF ++HP
 buffs:
-debuffs: [doom, CRIT Rate-, ATK-, block, silence, oblivion, wither]
+debuffs:
+  - oblivion
+  - silence
+  - wither
 recovery:
+  - heal
 effects:
+  - strip
+  - cd reduction
 ---
-DEF-scaling frontline DPS with Oblivion access as the core differentiator from physical tank classes. Oblivion disables enemy passives for its duration — a mechanic unavailable to any non-dark class regardless of investment, with significant PvP implications against passive-dependent characters. Wither stacks DEF reduction over time on the primary target, compounding damage output from both Dark Knight and allies following up. Functions as a tanky debuffer that threatens through attrition and passive suppression rather than burst. Distinct from Warden which is purely self-focused — Dark Knight's debuff kit actively degrades the enemy team.
+HP-scaling frontline that sustains through lifesteal and punishes debuff application via Voracity. The two identities feed into each other — cursing enemies through Oblivion, Silence and Wither generates healing, which in turn fuels burst damage through Insatiable's overflow conversion. Max HP scales effect accuracy through minor investment, meaning DEF and HP both serve the kit. Longer fights favour Revenant heavily — debuff uptime accumulates, Voracity heals compound, and max HP grows through Dark Fortitude. Distinct from other dark frontliners in that survival and offense are not separate concerns but the same loop.
 
-**Eat Debuffs** — Passive. Only one of each debuff type can be active on this character at a time. Applying a new debuff of an existing type triggers a heal or removes the existing instance instead of stacking.
+---
 
-lifesteal on skills
-passive that reduces crit damage taken by all allies - revenant
-character takes reduced damage
+## Major Pool
+
+Class-defining skills and passives. Two are drawn across slots 3 and 4, with at least one always being an active.
+
+**Voracity** — Passive. Only one of each debuff type can be active on Revenant during this combat. Applying a new debuff of an existing type, or reapplying a type that has previously expired, triggers a heal.
+
+**Obscurity** — AoE active. Apply [Oblivion] and [Silence] to all enemies.
+
+**Desiccate** — AoE active. Strip one buff from all enemies. Apply [Wither] to all enemies.
+
+**Wane** — Single target active. Reset all cooldowns on the target to maximum. Apply [Wither] to the target.
+
+**Insatiable** — Passive. Class skills have lifesteal. Healing that exceeds Revenant's maximum HP is converted into bonus damage applied on the next hit.
+
+---
+
+## Minor Pool
+
+Smaller refinements drawn at slots 5 and 6. Always passives.
+
+**Undying Will** — The first time Revenant is hit each turn, gain a small amount of turn meter.
+
+**Looming Presence** — Increase effect accuracy by a fixed percentage of Revenant's max HP.
+
+**Relentless** — S1 grants a small amount of turn meter on use.
+
+**Dark Fortitude** — After healing a cumulative fixed threshold of HP, increase Revenant's max HP by a fixed percentage. Triggers up to 2 times per combat.
