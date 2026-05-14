@@ -30,3 +30,4 @@ Dark-exclusive debuff dealer built around Doom, Wither and debuff detonation. Do
 eff acc scales damage
 debuff detonation
 damage per debuff on target
+remove all buffs dmg per removed

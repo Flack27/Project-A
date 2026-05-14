@@ -40,7 +40,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 **Expose** — AoE active. [Strip] one buff from all enemies. Apply [DEF-] and [Block] to all enemies. Strip chance and debuff application chance are both increased when the triggering hit crits.
 
-**Suppress** — AoE active. Apply [Silence] and [Block] to all enemies. Application chance is increased when the triggering hit crits.
+**Suppress** — AoE active. Apply [Block] to all enemies and [Silence] to main target . Application chance is increased when the triggering hit crits.
 
 **Shadow Strike** — Single target active. High damage hit. If this skill kills the target gain an extra turn else apply [Stealth] to self.
 
