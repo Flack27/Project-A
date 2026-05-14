@@ -109,3 +109,13 @@ Full development belongs in the Story document. The Manager's story and the Arch
 
 ---
 **Loose Thread: Visual Asset Generation Pipeline Spec** Design the input spec for AI art and mesh generation alongside the character system rather than retrofitting it later. When generation tools are ready, a defined set of inputs per character - race templates, body type parameters, age reads, personality visual signals, style reference anchors - means the transition from placeholder to real assets is clean and consistent across a large roster. Mirrors the tag structure already designed for memory fragment generation. No action needed until the art and mesh pipeline is being built, but the input schema should be drafted when the character system is stable.
+
+---
+
+Using actual statistics for the testing / balancing and data management?
+
+---
+
+PvP ideas
+actually attacking a lobby?
+tournament style event with 1 v 1, 2 v 2, 4 v 4?
