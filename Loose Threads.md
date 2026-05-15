@@ -101,13 +101,6 @@ Full development belongs in the Story document. The Manager's story and the Arch
 **Bond-Based Reactive Combat** Characters with a strong lobby bond occasionally react to each other mid-fight — covering a debuff, following up on a kill, throwing a small shield when a partner drops below a threshold. Not scripted combos, emergent reactions based on bond strength. Needs boundary-setting so it stays a flavor layer and doesn't become a required synergy system. Ties directly into the morale and relationship systems and makes lobby attachment feel mechanical rather than just flavor. Design belongs in a combat addendum or relationship systems doc when those get written.
 
 ---
-**Exotic Stat Scalings** Niche scaling stats that create distinct build identities beyond standard ATK/DEF/HP/SPD. All of these belong in class skills or major passives rather than weapons — exotic scalings are too niche to put on a weapon every class might use. Design these when class passive pools get built out.
-
-- EFF ACC scaling — skill damage or effect magnitude scales with effect accuracy instead of ATK. Natural home: debuffer major passive. Creates a completely distinct gearing target for dedicated debuffers.
-- Counter chance scaling — damage or utility scales with counter chance stat. Natural home: class passive or class skill for a counter-build archetype. Pairs with the Counter buff already in the status effects doc.
-- Crit rate scaling — a skill or passive that converts excess crit rate above 100% into another stat, e.g. crit damage or ATK. Natural home: major passive. Rewards over-investing in crit rate rather than wasting it.
-
----
 **Loose Thread: Visual Asset Generation Pipeline Spec** Design the input spec for AI art and mesh generation alongside the character system rather than retrofitting it later. When generation tools are ready, a defined set of inputs per character - race templates, body type parameters, age reads, personality visual signals, style reference anchors - means the transition from placeholder to real assets is clean and consistent across a large roster. Mirrors the tag structure already designed for memory fragment generation. No action needed until the art and mesh pipeline is being built, but the input schema should be drafted when the character system is stable.
 
 ---
@@ -124,3 +117,8 @@ tournament style event with 1 v 1, 2 v 2, 4 v 4?
 
 leaderboards with meaningful rewards in pvp and pve
 rewards for unlocking unique classes and skills
+rewards for achievements
+
+---
+
+**Duplicate Class Stacking** A hard one-per-class party restriction was considered and rejected on attachment philosophy grounds — players raise the characters they have and should be able to run two of the same class if that's what they built. The concern is real though: certain class combinations become degenerate at two copies in ways that single instances don't. Speed supports trivializing turn order through stacked bar manipulation, tank classes creating unkillable walls, debuff classes overwhelming cleanse capacity. These need to be checked per class during balance passes rather than solved with a blanket rule. The fix in each case likely lives at the mechanic level — diminishing returns on stacked bar push effects, unique debuff rules limiting one instance per effect type per target, numbers tuning. Doom is already partially addressed by being Harrower-exclusive, limiting the most obvious multi-copy loop. Other classes need equivalent checks when their stacking case is clearly broken.
