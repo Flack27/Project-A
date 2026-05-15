@@ -40,6 +40,10 @@ Persistent positive effects with a defined duration.
 
 **Endure** — cannot fall below 1 hp.
 
+### Unremovable
+
+**Tailwind** —  100% to assist on next ally skill use, then disappears.
+
 ---
 
 ## Recovery

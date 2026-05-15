@@ -49,6 +49,6 @@ Smaller refinements drawn at slots 5 and 6. Always passives.
 
 **Looming Presence** — Increase effect accuracy by a fixed percentage of Revenant's max HP.
 
-**Relentless** — S1 grants a small amount of turn meter on use.
+**Relentless** — Ignore damage reduction effects (besides def)
 
 **Dark Fortitude** — After healing a cumulative fixed threshold of HP, increase Revenant's max HP by a fixed percentage. Triggers up to 2 times per combat.

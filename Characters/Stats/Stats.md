@@ -16,6 +16,19 @@ Primary stats have a base value determined by race and a variance range determin
 
 ---
 
+## Secondary Stats
+
+Secondary stats have no meaningful base value — differentiation comes entirely from gear, runes, skills and passives. All characters begin at the same baseline.
+
+**Crit Rate** — probability of landing a critical hit. Base value is 15%. Caps at 100%. Once 100% is reached every attack crits and further crit rate investment has no value — pivot entirely to crit damage at that point.
+
+**Crit Damage** — damage multiplier applied on a critical hit. Base value is 150%. No cap. The optimal balance point between crit rate and crit damage is when both are roughly equal — whichever is lower is the better investment until they meet.
+
+**Effect Accuracy** — improves the chance of landing debuffs. Interacts with effect resistance through the formula below. Going above the resistance floor still has value — see formula section.
+
+**Effect Resistance** — reduces the chance of receiving debuffs. Has a base floor of 15% that cannot be reduced below regardless of how much accuracy the attacker has. Worth investing in on characters who need to resist CC.
+
+---
 ## Level Thresholds
 
 Stats do not increase linearly with every level. Meaningful stat bumps happen at levels 20, 40 and 60 — the three thresholds within each star tier. Growth rate determines how generously these thresholds reward the character. A high growth character receives notably better stat increases at each threshold than a low growth one given identical investment.
@@ -34,8 +47,10 @@ Both values are seeded at summon but not fixed there. Discovering a character ha
 
 ---
 
-## Secondary Stats
+## Hidden Stats
 
-Crit rate, crit damage, effect accuracy and effect resistance exist as secondary stats. They are not meaningfully influenced by the character's base values — they are built through gear, runes and certain skills and passives. Characters begin with baseline values in each that are functionally equal across the roster. Differentiation here comes entirely from investment choices.
-
-See [[Gear]] and [[Runes]].
+Counter attack chance
+Assist chance
+Follow-up chance
+Healing done increase
+Shielding done increase

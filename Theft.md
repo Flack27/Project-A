@@ -18,16 +18,11 @@
 
 **Cooldown reduction on ally action** — passive ticks friendly cooldowns down when allies act. Less flashy than reset but enables combo teams. S4 material for a strategist support. Light
 
-**AoE cleanse and immunity** — single skill that removes all harmful effects on the party and applies immunity. Two existing vocabulary effects, but the combination shuts down debuff teams entirely for the duration. Already implied by the design — worth ensuring at least one class has this exact pairing. Light / Earth
-
 **Heal plus bar push** — healing skill that also pushes the healed target's bar forward. Tempo support pattern — keeps the ally alive and accelerates their response.  Wind
 
 additional notes:
-shielding aura - geomancer
 resetting cooldowns on enemies - mages
-crit damage taken by team reduce - bulwark / geomancer
 each attack chance to strip or apply debuff - wind mage
-dokidoki passive
 
 Passive. This character cannot land critical hits. Damage dealt is increased and a portion of target DEF is ignored, both scaling with effect accuracy up to a fixed cap.
 
