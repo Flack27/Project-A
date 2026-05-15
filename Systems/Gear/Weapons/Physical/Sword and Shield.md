@@ -4,7 +4,6 @@ scaling:
   - DEF
 buffs:
   - DEF+
-  - ATK+
   - Crit Rate+
 debuffs:
   - silence

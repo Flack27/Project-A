@@ -8,9 +8,7 @@ debuffs:
   - SPD-
   - entangle
 recovery: []
-effects:
-  - turn meter-
-  - strip
+effects: [strip, turn meter-]
 ---
 
 ## S1

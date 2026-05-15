@@ -15,8 +15,7 @@ weapons:
   - tome
   - orb
 stats: -ATK +SPD +HP -DEF
-buffs:
-  - shield
+buffs: [shield, heal over time]
 debuffs:
   - entangle
   - CRIT Rate-
@@ -34,11 +33,11 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 **Spirit Drain** — Single target active. Deal damage to the target equal to a percentage of Terramancer's max HP, ignoring DEF. Apply a shield to all allies for the same amount.
 
-**Soul Circle** — Single target active. Steal all buffs from the target. Distribute all buffs currently on Terramancer evenly across all allies, applying each buff with its remaining duration.
+**Soul Circle** — Single target active. [Steal] all buffs from the target. Distribute all buffs currently on Terramancer evenly across all allies, applying each buff with its remaining duration.
 
 **Earthen Grasp** — AoE active. Deal damage to all enemies. Apply [Entangle] and [CRIT Rate-] to all enemies hit.
 
-**Leafguard** — Passive. At the start of Terramancer's turn, apply a HP-scaling shield to all allies and remove 1 debuff.
+**Leafguard** — Passive. At the start of Terramancer's turn, apply a HP-scaling [shield] to all allies and remove 1 debuff.
 
 **Symbiosis** — Passive. Gain a stack each time an ally takes an action or an enemy breaks through a shield applied by Terramancer. At a fixed stack threshold, pulse a HP-scaling shield onto all allies and gain one permanent max HP stack. Max HP stacks cap at a fixed number — placeholder, requires balance testing. Shield pulsing continues indefinitely after the max HP cap is reached, stacks simply stop increasing.
 

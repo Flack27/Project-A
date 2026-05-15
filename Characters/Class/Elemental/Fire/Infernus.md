@@ -16,13 +16,9 @@ weapons:
   - sword and shield
   - claws
 stats: ++ATK =SPD --DEF =HP
-buffs: [invincibility, ATK+]
+buffs:
 debuffs:
-  - burn
-  - unhealable
-  - vulnerable
 recovery:
-  - revive
 effects:
 ---
 High ATK damage dealer with two viable directions built around burn stacking. Glass cannon direction stacks burn rapidly then detonates accumulated stacks for a single burst payoff, HP cost skills amplify the burst at the expense of survivability, self-revive at HP threshold is the safety net that makes paying health a viable trade. Bruiser direction keeps burn ticking alongside unhealable and vulnerable for sustained attrition, invincibility windows replace burst timing as the survival tool. Damage scales with missing HP in both directions — gets more dangerous as it takes punishment, rewarding aggressive play over cautious positioning. Fragile by design, self-revive is the only recovery option and fires once per fight.

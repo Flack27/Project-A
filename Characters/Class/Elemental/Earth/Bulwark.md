@@ -17,17 +17,15 @@ weapons:
 stats: --ATK --SPD ++DEF ++HP
 buffs:
   - shield
-  - heal over time
+  - damage reduction
 debuffs:
   - taunt
-  - entangle
-  - ATK-
   - DEF-
 recovery:
   - cleanse
   - heal
+  - self heal
 effects:
-  - turn meter-
 ---
 Immovable frontline tank that becomes progressively harder to kill and more punishing to attack the longer enemies focus it. Two passive identities produce meaningfully different builds — the thorns passive rewards sustained aggression against Bulwark and eventually forces it through auto-taunt, the mitigation passive rewards enemies for pushing Bulwark low and punishes them for doing so. Neither direction deals significant damage. Combat contribution is measured entirely in how long Bulwark stays standing and how much it costs the enemy to bring it down.
 
@@ -61,14 +59,3 @@ Smaller refinements drawn at slots 5 and 6. Always passives.
 
 **Undergrowth** — Reduce all critical hit damage received by all allies by a fixed percentage.
 
----
-
-## Notes
-
-Thornwall and Stone Resolve cannot be drawn together — both are passives and only one major passive slot is available. Thornwall rewards enemies for consistently attacking Bulwark, building stacks toward an auto-taunt that then feeds further reflect and further stacks. Stone Resolve rewards enemies for pushing Bulwark low, making the last portion of his HP the most costly to remove.
-
-Thornwall stack threshold and reflect percentage are placeholder pending balance testing. The reflect is pre-mitigation true damage — it bypasses DEF and damage reduction on the attacker, making it meaningful against high DEF targets.
-
-Rooted and Immovable interact naturally — Rooted generates turn meter from being hit, Immovable prevents that turn meter from being pulled back. Drawing both makes Bulwark increasingly difficult to slow down through bar manipulation the more enemies attack him.
-
-Stone Resolve's damage reduction and effect resistance both scale with missing HP. At full HP the effect is minimal. At low HP both values are significant. Specific scaling curve is placeholder pending balance testing.

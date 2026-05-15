@@ -20,13 +20,10 @@ buffs:
   - CRIT DMG+
 debuffs:
   - mark
-  - pinned
   - bleed
-  - SPD-
 recovery:
 effects:
   - turn meter+
-  - turn meter-
 ---
 Damage dealer built around Mark and action economy disruption. Mark designates a priority target for the whole team — basic attacks deal bonus damage against it and any ally crit against it triggers a Ranger follow-up, once per turn. Pinned locks targets out of bar push effects, pairing naturally with a kit that rewards acting frequently. Bleed application and damage scaling with stack count provide sustained pressure alongside the burst potential of a fully marked target. Fragile and punished hard if caught — rewards staying out of the frontline and picking engagements carefully.
 

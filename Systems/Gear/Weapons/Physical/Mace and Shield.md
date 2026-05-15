@@ -7,7 +7,6 @@ buffs:
   - immunity
 debuffs:
   - taunt
-  - stun
 recovery: []
 effects:
   - strip

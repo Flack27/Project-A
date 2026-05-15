@@ -14,13 +14,12 @@ weapons:
   - longsword
   - meteor hammer
 stats: =ATK -SPD +DEF =HP
-buffs:
-  - shield
+buffs: [challenge, damage reduction]
 debuffs:
   - DEF-
   - RES-
   - CRIT Rate-
-recovery:
+recovery: [self heal]
 effects:
   - turn meter-
 ---

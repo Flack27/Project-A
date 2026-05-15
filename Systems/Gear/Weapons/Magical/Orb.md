@@ -1,13 +1,14 @@
 ---
 scaling:
   - ATK
-buffs: [ATK+, ACC+]
+buffs:
+  - ATK+
+  - ACC+
 debuffs:
   - ATK-
   - DEF-
   - RES-
   - ACC-
-  - sleep
 recovery:
 effects:
 ---
@@ -39,4 +40,4 @@ _Specialisation_ — 3 hits keeping roughly the same total damage with DEF- on e
 
 **ATK Debuff** — 2 hits, ATK scaling. Applies ATK- on hit. Mastery increases damage and ATK- magnitude at levels 2 and 3.
 
-_Specialisation_ — stays 2 hits and also applies RES- alongside ATK-, or stays 2 hits and also applies Sleep alongside ATK-.
+_Specialisation_ — 3 hits keeping roughly the same total damage with ATK- on each hit, or stays 2 hits and also applies RES- alongside ATK-.

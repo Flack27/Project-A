@@ -6,9 +6,7 @@ buffs: []
 debuffs:
   - DEF-
 recovery:
-  - self heal
 effects:
-  - steal
 ---
 
 ## S1

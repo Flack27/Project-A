@@ -5,7 +5,6 @@ scaling:
 buffs: []
 debuffs:
   - DEF-
-  - RES-
   - stun
 recovery: []
 effects:

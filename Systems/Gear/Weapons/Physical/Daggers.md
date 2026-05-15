@@ -4,7 +4,6 @@ scaling:
   - SPD
 buffs: []
 debuffs:
-  - bleed
   - block
   - SPD-
 recovery: []

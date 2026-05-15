@@ -8,15 +8,18 @@ damage type:
 playstyle:
   - attrition
   - aggressive
-weapons: [mace and shield, meteor hammer, maul, scythe]
+weapons:
+  - mace and shield
+  - meteor hammer
+  - maul
+  - scythe
 stats: =ATK -SPD -DEF ++HP
 buffs:
 debuffs:
   - oblivion
   - silence
   - wither
-recovery:
-  - heal
+recovery: [self heal]
 effects:
   - strip
   - cd reduction

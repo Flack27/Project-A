@@ -16,8 +16,6 @@ weapons:
   - scythe
 stats: ++ATK +SPD -DEF --HP
 buffs:
-  - stealth
-  - ATK+
 debuffs:
   - DEF-
   - ACC-
@@ -25,7 +23,6 @@ debuffs:
   - silence
 recovery:
 effects:
-  - steal
   - strip
 ---
 High crit burst dealer that operates from stealth and dismantles enemy buffed states through strip and debuff application. Stealth prevents direct targeting, enabling setup before committing to a burst rotation. Crit rate and crit damage are the primary gearing targets — debuff and strip chances on AoE skills increase on critical hits, tying offensive investment directly to utility output. AoE skills spread debuffs and strip buffs across the enemy team rather than dealing significant damage. Single target skills deal the actual damage. Fragile and heavily punished if stealth is stripped or the burst window is interrupted.

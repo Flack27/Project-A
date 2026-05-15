@@ -36,6 +36,8 @@ Persistent positive effects with a defined duration.
 
 **Guard** —  the caster of this skill will take %of the damage reduced by a % instead of the attacked ally 
 
+**Challenge** — Enemies are forced to target this enemy, removed after hit with a single target skill.
+
 **Stealth** —  cannot be selected as the main target of enemy skills and decrease aoe dmg by 50%
 
 **Endure** — cannot fall below 1 hp.

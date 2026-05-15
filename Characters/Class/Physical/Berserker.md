@@ -11,17 +11,18 @@ playstyle:
   - aggressive
   - selfish
   - attrition
-weapons: [battleaxe, claws, maul, scythe]
+weapons:
+  - battleaxe
+  - claws
+  - maul
+  - scythe
 stats: ++ATK =SPD --DEF =HP
 buffs:
 debuffs:
-  - bleed
   - vulnerable
   - unhealable
-recovery:
-  - self heal
+recovery: [self heal]
 effects:
-  - strip
 ---
 High ATK damage dealer that grows more dangerous as it absorbs punishment. Damage output scales with HP lost, lifesteal and death resistance effects encompass this class. Focussing on either more of a bruiser playstyle or glass cannon.
 
@@ -33,7 +34,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 **Bloodprice** — AoE active. Consumes a percentage of current HP to deal damage scaling with HP spent. Damage output is higher the more HP the character has when cast, rewarding aggressive timing before taking punishment.
 
-**Killing Blow** — Single target or AoE active. Grants an immediate extra action when this skill kills its target. Chains naturally into stack generation and further kills.
+**Killing Blow** — Single target or AoE active. Grants an immediate extra action when this skill kills its target. Chains naturally into stack generation and further kills. (bonus dmg low targets?)
 
 **Wither Strike** — AoE active. Applies [Vulnerable] and [Unhealable] to all enemies hit. Sets up attrition damage from the rest of the kit and from allies.
 

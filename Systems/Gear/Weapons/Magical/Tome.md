@@ -2,7 +2,9 @@
 scaling:
   - ATK
   - HP
-buffs: [ATK+, DEF+, shield]
+buffs:
+  - DEF+
+  - shield
 debuffs:
 recovery:
   - heal

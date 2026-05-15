@@ -18,7 +18,6 @@ buffs:
   - invincibility
   - ATK+
   - ACC+
-  - shield
 debuffs: []
 recovery:
   - heal
@@ -44,7 +43,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 **Exaltation** — AoE active. Apply [ATK+], [Heal Over Time] and [ACC+] to all allies. Extend all buffs currently on all allies by 1 turn after application, including the buffs just applied.
 
-**Benediction** — Passive. Basic attacks heal the two lowest HP allies for a fixed amount scaling with Cleric's max HP. Basic attacks also apply a small [Bar Push] to self.
+**Benediction** — Passive. Basic attacks heal the two lowest HP allies for a fixed amount scaling with Cleric's max HP. Basic attacks also apply a small [Turn Meter+] to self.
 
 ---
 
