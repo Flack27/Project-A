@@ -33,7 +33,7 @@ Light and dark passives are part of this pool but are defined separately given t
 
 **Gust** — After any enemy action, gain a small amount of turn meter.
 
-**Tailspin** — Chance to reduce skill cd on basic attack.
+**Tailspin** — At turn start, fixed chance to reduce one random skill cooldown by 1 turn.
 
 **Crosswind** — Gain turn meter on basic attack.
 

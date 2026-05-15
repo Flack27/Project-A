@@ -51,9 +51,8 @@ Smaller refinements drawn at slots 5 and 6. Always passives.
 
 **Unshackled** — Galebreaker cannot be affected by CC effects.
 
-**Phantom Step** — On kill, apply 2 turn [Stealth] to self.
+**Gale Step** — X% chance to assists.
 
-**Wind Reading** — Applying a buff or debuff grants a small amount of turn meter to Galebreaker. Triggers once per skill regardless of how many targets are affected.
+**Wind Reading** — Applying a buff or debuff grants turn meter to Galebreaker. Triggers once per skill regardless of how many targets are affected.
 
-**Zephyr** — At the start of Galebreaker's turn, fixed chance to reduce one random skill cooldown by 1 turn.
-
+**Zephyr** — Applying a debuff grants [Stealth] to self.
