@@ -15,13 +15,11 @@ weapons:
   - tome
 stats: ++ATK =SPD -DEF -HP
 buffs: []
-debuffs:
-  - doom
-  - stun
-  - wither
-  - vulnerable
+debuffs: [doom, oblivion, stun]
 recovery:
-effects: [strip, cd reduction]
+effects:
+  - strip
+  - cd reduction
 ---
 ATK-scaling dark damage dealer that trades crit entirely for effect accuracy as the primary offensive stat. Accursed Precision converts eff acc investment into damage amplification and DEF penetration, creating a gearing identity shared with no other class. Doom is the core payoff — applied through Sentence, procced passively through Harbinger, and scaling in final damage with target max HP. Collapse and Despoil reward debuff accumulation and punish buffed enemy teams respectively, both converting setup work into burst damage. No buff access, no recovery. Purely offensive, rewards patient setup and deliberate debuff management before committing to a detonation window.
 
@@ -31,15 +29,15 @@ ATK-scaling dark damage dealer that trades crit entirely for effect accuracy as 
 
 Class-defining skills and passives. Two are drawn across slots 3 and 4, with at least one always being an active.
 
-**Accursed** — Passive. This character cannot land critical hits. Damage dealt is increased and a portion of target DEF is ignored, both scaling with effect accuracy up to a fixed cap.
+**Accursed** — 
 
 **Collapse** — AoE active. Deal damage to all enemies. Detonate all debuffs currently on all enemies — each debuff consumed deals additional damage.
 
 **Despoil** — AoE active. Deal damage to all enemies. Strip all buffs from all enemies. Deal bonus damage per buff removed.
 
-**Singularity** — AoE active. Apply [Doom] and [Stun] to all enemies.
+**Singularity** — AoE active. Apply [Oblivion] and [Doom] to all enemies.
 
-**Harbinger** — Passive. Each skill use has a chance to apply [Doom] to the target. [Doom] deals additional damage on expiry scaling with the target's max HP.
+**Harbinger** — 
 
 ---
 

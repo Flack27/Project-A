@@ -41,6 +41,8 @@ whenever ally triggers extra attack heal them light
 crit damage taken by team reduce - bulwark / geomancer
 each attack chance to strip or apply debuff - wind mage
 
+**Accursed** — Passive. This character cannot land critical hits. Damage dealt is increased and a portion of target DEF is ignored, both scaling with effect accuracy up to a fixed cap.
+
 skill names
 transcendence
 nebula

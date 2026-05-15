@@ -134,7 +134,7 @@ LD effects use their own icon colour distinct from standard buffs and debuffs.
 
 **Oblivion** — suppresses the target's passive effects for the duration. Passives that are active on the target are disabled and do not trigger while oblivion is applied. Distinct from silence which blocks active skills only. Particularly relevant in PvP where passive identity is a significant part of a character's combat contribution.
 
-**Doom** — countdown debuff with a visible turn counter. Ticks down at the start of each of the target's turns. When the counter reaches zero, deals significant damage to the target and is removed. Cleansable while still ticking. The damage is a single payload rather than per-turn ticks, making it distinct from burn and bleed. Counterplay is racing the cleanse before the countdown completes.
+**Doom** — countdown debuff with a visible turn counter. Ticks down at the start of each of the target's turns. When the counter reaches zero, deals significant damage to the target and is removed. Cannot crit, damage scales with casters attack, ignore defense and stun at the end?
 
 **Wither** — absorb healing equal to a %. When the effect expires naturally deal true damage equal to the remaining amount.
 

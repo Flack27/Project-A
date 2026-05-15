@@ -14,10 +14,7 @@ weapons:
   - tome
 stats: --ATK ++SPD =DEF =HP
 buffs:
-debuffs:
-  - DEF-
-  - unhealable
-  - CRIT Rate-
+debuffs: [DEF-, unhealable, oblivion]
 recovery:
   - heal
 effects:
@@ -39,7 +36,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 **Siphon** — AoE active. Deal damage to all enemies equal to Hexer's max HP. Steal turn meter from all enemies and distribute evenly to all allies. Heal all allies for the total damage dealt.
 
-**Malediction** — AoE active. Apply [DEF-], [Unhealable] and [CRIT Rate-] to all enemies.
+**Malediction** — AoE active. Apply [DEF-], [Unhealable] and [Oblivion] to all enemies.
 
 **Cursed Cadence** — Passive. Each time Hexer applies a debuff to an enemy, chance to apply [Turn Meter-] to that enemy. Each class skill hit extends the duration of all debuffs on the target(s). Extension applies to Convergence.
 
