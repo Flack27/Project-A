@@ -122,3 +122,7 @@ rewards for achievements
 ---
 
 **Duplicate Class Stacking** A hard one-per-class party restriction was considered and rejected on attachment philosophy grounds — players raise the characters they have and should be able to run two of the same class if that's what they built. The concern is real though: certain class combinations become degenerate at two copies in ways that single instances don't. Speed supports trivializing turn order through stacked bar manipulation, tank classes creating unkillable walls, debuff classes overwhelming cleanse capacity. These need to be checked per class during balance passes rather than solved with a blanket rule. The fix in each case likely lives at the mechanic level — diminishing returns on stacked bar push effects, unique debuff rules limiting one instance per effect type per target, numbers tuning. Doom is already partially addressed by being Harrower-exclusive, limiting the most obvious multi-copy loop. Other classes need equivalent checks when their stacking case is clearly broken.
+
+---
+
+what happens when a character has a weapon equipped but gets a class that cant have that weapon equipped

@@ -4,28 +4,57 @@ scaling:
   - ATK
 damage type:
   - single target
+  - AoE
   - sustained
 playstyle:
+  - aggressive
+  - selfish
   - attrition
-  - reactive
-weapons: [sword and shield, longsword, battleaxe, maul]
-stats: +ATK -SPD =DEF +HP
+weapons:
+  - sword and shield
+  - longsword
+  - battleaxe
+  - maul
+  - spear
+stats: +ATK -SPD =DEF =HP
 buffs:
   - sanctuary
-  - ATK+
   - damage reduction
 debuffs:
 recovery:
   - self heal
-  - revive
 effects:
 ---
-Self-sustaining frontline DPS with survival tools unavailable to any physical tank. Resurrection fires once per fight preventing death outright — a Paladin cannot be burst killed while the passive is available. Sanctuary applied to self creates a brief window of complete untargetability that no physical class can replicate, used to reset positioning or survive a telegraphed boss attack. Damage output is moderate and secondary to the survival identity. Distinct from Warden which wins through counter and reflect — Paladin simply does not die through LD exclusive mechanics, then continues fighting.
+Self-sustaining frontline DPS built around Sanctuary as a personal survival tool. Damage output is the primary contribution — survival mechanics exist to keep Paladin in the fight rather than to support the team. Sanctuary applied through skills is light exclusive and unavailable to any physical class. ATK investment serves double duty, driving damage output and feeding the flat damage reduction passive. Two distinct major passive identities produce meaningfully different builds — the untouched passive rewards controlling engagements and staying out of punishment, the debuff flip rewards tanking stat debuffs and converting them into offensive fuel.
 
-every x amount of buffs increases damage and reduces damage taken up to a cap
+---
 
-**Buff extension passive** — passive: all buffs this character applies last one turn longer than their base duration. Uses existing buff vocabulary, changes the support economy. Major passive material. → Paladin / Light
+## Major Pool
 
-**More damage if not hit** — next attack deals bonus damage if this character was not damaged in the previous round. Rewards skirmishing positioning and SPD investment. Class passive for a Ranger or hit-and-run damage class. → Paladin
+Class-defining skills and passives. Two are drawn across slots 3 and 4, with at least one always being an active.
 
-**Flipping debuffs** — passive where specific debuffs grant beneficial effects on this character instead of penalties. Stun becomes an SPD buff next turn, Sleep heals, ATK Down becomes ATK Up. Build-around identity, pairs with high effect resistance investment. → _Paladin_
+**Divine Smite** — Single target active. High damage hit. Apply [Sanctuary] to self for the duration.
+
+**Nebula** — AoE active. Deal damage to all enemies. Steal one buff from all enemies. Apply [Turn Meter-] to all enemies.
+
+**Hallowed Aegis** — AoE active. Deal damage to all enemies. Apply [Sanctuary] to an ally.
+
+**Vigil** — Passive. Once per round, when Paladin would be hit by an enemy attack, negate that hit entirely. If Paladin is not attacked for a full round, the next skill or basic attack deals bonus damage.
+
+**Absolution** — Passive. Specific stat debuffs applied to Paladin are converted into the equivalent buff for their remaining duration, consuming the debuff on conversion. Applies to all debuffs besides CC and DoT's.
+
+
+
+---
+
+## Minor Pool
+
+Smaller refinements drawn at slots 5 and 6. Always passives.
+
+**Resolve** — All buffs currently active on Paladin last 1 additional turn. Applied at the moment each buff is received.
+
+**Conviction** — Every x amount of buffs gives the paladin a stack that increases damage dealt and reduces damage taken by fixed percentage. up to a cap.
+
+**Iron Faith** — Reduce all incoming damage by a flat amount scaling with a percentage of total ATK. Caps at a fixed atk point.
+
+**Sacred Ground** — At combat start, apply [Sanctuary] to self for 1 turn.

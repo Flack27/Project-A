@@ -18,32 +18,18 @@
 
 **Cooldown reduction on ally action** — passive ticks friendly cooldowns down when allies act. Less flashy than reset but enables combo teams. S4 material for a strategist support. Light
 
-**Persistent resource pool** — battle starts with stored resources (Soul Stones), gains more on specific events (ally death, enemy kill), expends them on skill empowerment. Support identity built on managing a meta-resource on top of cooldowns. Light?
-
-**Revive with enhanced state** — revive returns ally with more HP than baseline, with an attached buff, or with cooldowns reset. Makes revive a tempo tool rather than only a recovery tool. Class skill on a dedicated reviver subclass. Light
-
 **AoE cleanse and immunity** — single skill that removes all harmful effects on the party and applies immunity. Two existing vocabulary effects, but the combination shuts down debuff teams entirely for the duration. Already implied by the design — worth ensuring at least one class has this exact pairing. Light / Earth
 
-**Heal plus bar push** — healing skill that also pushes the healed target's bar forward. Tempo support pattern — keeps the ally alive and accelerates their response.  Light / Earth
-
-**Cleanse on damage taken** — passive: receiving damage triggers a cleanse on the character or the lowest HP ally. Reactive support behaviour that does not require turn economy. Light
+**Heal plus bar push** — healing skill that also pushes the healed target's bar forward. Tempo support pattern — keeps the ally alive and accelerates their response.  Wind
 
 additional notes:
 shielding aura - geomancer
-healing / cleansing aura - light
 resetting cooldowns on enemies - mages
-after enemy action increase turn meter by % (for all allies?) - ld
-dokidoki passive - light
-extends buffs, reduce debuffs, shorten cd - light
-damage reduction for buffs on allies - light
-turn meter+ first time hit each turn - ld
-whenever ally triggers extra attack heal them light
 crit damage taken by team reduce - bulwark / geomancer
 each attack chance to strip or apply debuff - wind mage
+dokidoki passive
 
-**Accursed** — Passive. This character cannot land critical hits. Damage dealt is increased and a portion of target DEF is ignored, both scaling with effect accuracy up to a fixed cap.
+Passive. This character cannot land critical hits. Damage dealt is increased and a portion of target DEF is ignored, both scaling with effect accuracy up to a fixed cap.
 
 skill names
 transcendence
-nebula
-singularity
