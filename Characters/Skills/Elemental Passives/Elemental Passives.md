@@ -12,5 +12,17 @@ Light and dark passives are part of this pool but are defined separately given t
 Dark: 
 more damage per debuff on enemy up to cap
 
+Light:
+At combat start, apply [Sanctuary] to self for 1 turn.
+
 Wind:
-after enemy action increase turn meter by % (for all allies?)
+after enemy action gain small turn meter+
+
+Earth:
+
+
+Fire:
+bonus damage to enemies with burn per stack
+50% chance to apply 1 stack of burn on skills.
+small turn meter+ when burn ticks or is applied.
+reduced damage from enemy with burn per stack

@@ -20,13 +20,11 @@ buffs:
   - shield
 debuffs:
   - DEF-
-  - RES-
   - stun
   - CRIT Rate-
   - vulnerable
 recovery:
 effects:
-  - turn meter-
 ---
 Offensive frontline that converts DEF investment into control and damage amplification. Two AoE skills disrupt the enemy team simultaneously — Crushing Wave lands CC and DEF reduction while Dominance pulls action bars and suppresses crit output. Exploit spreads Vulnerable across all targets from every hit, the proc chance scaling with DEF so the same investment that keeps this character alive determines how frequently the whole team's damage is amplified. Threshold absorbs burst that would otherwise bypass the control gameplan. Threatening Blow and Pressure Point handle single target pressure. Distinct from Warden which cycles threat and generates offense through counters — Bruiser Weapon Master does not rely on being attacked, it disrupts and degrades the enemy team directly.
 

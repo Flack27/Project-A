@@ -1,28 +1,59 @@
 ---
 role: damage
 scaling:
-  - SPD
   - ATK
+  - SPD
 damage type:
-  - burst
   - single target
+  - AoE
+  - sustained
 playstyle:
   - aggressive
-  - setup
-weapons:
-  - dagger
-  - spear
-  - bow
-  - claws
-stats: +ATK ++SPD --DEF -HP
+  - attrition
+  - burst
+weapons: [spear, bow, dagger, claws, scythe]
+stats: ++ATK ++SPD --DEF --HP
 buffs:
+  - SPD+
 debuffs:
+  - bleed
+  - SPD-
+  - block
+  - silence
 recovery:
 effects:
+  - strip
+  - stealth
 ---
-SPD-scaling damage dealer that rewards maximising the speed gap between itself and its targets. Damage scales with the difference between this character's SPD and the target's SPD — stacking own SPD and applying SPD down to enemies both contribute directly to damage output rather than being separate concerns. Bar push and SPD up provide team setup alongside personal damage, enabling burst windows for the whole party rather than operating purely selfishly. Distinct from Rogue which is stealth and crit focused — Wind Melee is an assassin through action economy dominance rather than positioning.
+Aggressive wind damage dealer that strips, bleeds and punishes enemies for staying buffed or staying alive. SPD investment drives both action frequency and the damage bonus on the signature AoE, creating a unified offensive gearing identity shared with Tempestcaller but expressed through pure damage output rather than team setup. Bleed serves as both a damage-over-time tool and an execution resource — the AoE cleave consumes all bleed stacks for amplified burst. Hybrid identity through incidental SPD+ on allies during offensive rotations without pulling into support territory.
 
-skill that applies spd+ on all allies stealth on self
-skill that makes not cc able
-stun if a x skill kills the target
-more damage faster you are then target
+---
+
+## Major Pool
+
+Class-defining skills and passives. Two are drawn across slots 3 and 4, with at least one always being an active.
+
+**Galeforce** — AoE active. Apply [SPD+] to all allies. Deal increased AoE damage to all enemies scaling with the difference between Galebreaker's SPD and each target's SPD. Higher SPD advantage produces higher damage.
+
+**Deathwind** — Single target active. Deal damage scaling with the target's missing HP. If this kill kills the target, apply [Silence] to all enemies.
+
+**Bloodstorm** — AoE active. Deal damage to all enemies. Detonate bleed stacks to deal max hp % damage per [Bleed] stack active on each target.
+
+**Tempest Assault** — AoE active. Apply [SPD-] and [Block] to all enemies.
+
+**Shredding Winds** — Passive. Each skill used by Galebreaker has a chance to strip one buff from the target. If no buffs are present on the target, chance to apply [Bleed] instead. Applies to both single target and AoE skills, rolling independently per target on AoE.
+
+---
+
+## Minor Pool
+
+Smaller refinements drawn at slots 5 and 6. Always passives.
+
+**Unshackled** — Galebreaker cannot be affected by CC effects.
+
+**Phantom Step** — On kill, apply 2 turn [Stealth] to self.
+
+**Wind Reading** — Applying a buff or debuff grants a small amount of turn meter to Galebreaker. Triggers once per skill regardless of how many targets are affected.
+
+**Zephyr** — At the start of Galebreaker's turn, fixed chance to reduce one random skill cooldown by 1 turn.
+

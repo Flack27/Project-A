@@ -56,4 +56,4 @@ Smaller refinements drawn at slots 5 and 6. Always passives.
 
 **Iron Faith** — Reduce all incoming damage by a flat amount scaling with a percentage of total ATK. Caps at a fixed atk point.
 
-**Sacred Ground** — At combat start, apply [Sanctuary] to self for 1 turn.
+**Sacred Ground** — Extra effect res when it comes to resisting strip.

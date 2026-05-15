@@ -43,7 +43,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 Smaller refinements drawn at slots 5 and 6. Always passives.
 
-**Predation** — Gain a small amount of turn meter when hitting an enemy that currently has a debuff applied.
+**Predation** — Gain a small amount of [turn meter+] when hitting an enemy that currently has a debuff applied.
 
 **Entropy** — Each debuff applied or detonated has a chance to increase the target's cooldowns by 1 turn.
 

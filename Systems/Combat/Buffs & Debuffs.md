@@ -42,9 +42,7 @@ Persistent positive effects with a defined duration.
 
 **Endure** — cannot fall below 1 hp.
 
-### Unremovable
-
-**Tailwind** —  100% to assist on next ally skill use, then disappears.
+**Sanctuary** — The target cannot be targeted by any skill, and does not take damage and cannot receive debuffs for the duration.
 
 ---
 
@@ -86,6 +84,10 @@ Persistent negative effects with a defined duration. Crowd control and damage ov
 
 **Vulnerable** — target takes increased damage from all sources for the duration. Amplifies the whole team's damage against a single target, creating a focus fire dynamic distinct from DEF Down.
 
+**Doom** — countdown debuff with a visible turn counter. Ticks down at the start of each of the target's turns. When the counter reaches zero, deals significant damage to the target and is removed. Cannot crit, damage scales with casters attack, ignore defense. If the target is already afflicted with doom and it gets reapplied, reduce the countdown by 1.
+
+**Wither** — absorb healing equal to a % of casters max hp. When the effect expires naturally deal true damage equal to the remaining amount.
+
 ---
 
 ## Crowd Control
@@ -102,15 +104,17 @@ Persistent effects that prevent or restrict a character's actions. All CC effect
 
 **Taunt** — target is forced to attack the character who applied the taunt for the duration.
 
+**Oblivion** — suppresses the target's passive effects for the duration. 
+
 ---
 
 ## Damage Over Time
 
 Persistent effects that deal damage at the start of the affected character's turn. Multiple stacks of the same DoT type can exist simultaneously unless otherwise noted.
 
-**Burn** — deals damage each turn. Scales with the ATK of the character who applied it (ignoring def). Associated with fire element. Interacts with fire skills and passives. Detonation mechanic that consumes the stack and deals some %hp damage based on stack count
+**Burn** — stack-based DoT associated with fire. Each stack represents one turn of burn remaining. At the start of the target's turn one stack is consumed and the target takes damage equal to a low fixed percentage of their max HP. Applying burn to a burning target adds stacks up to a cap of 10. Burn has two components — a stack count and a burning status. The stack count is not fully cleansable. Cleansing removes the burning status, pausing tick damage, and only some stacks. Resume ticking when burn is reapplied. Cannot be extended by any external source. Detonation skills consume all stacks to deal burst damage scaling with stacks consumed. Cannot be resisted.
 
-**Bleed** — deals 1%HP damage each turn (ignoring def). Stackable up to 5-8 times. Detonation mechanic that deals stack count × multiplier × caster ATK
+**Bleed** — stack-based DoT associated with physical classes. Each application carries a fixed turn count and a damage value equal to a percentage of the applying character's ATK at time of application. At the start of the target's turn all active bleed stacks tick simultaneously, each dealing their individual ATK-based value, then lose one turn of duration. Applications with matching turn counts merge for display but retain individual damage values. Caps at 10 stacks across all sources. Cannot be extended by any external source. Detonation skills consume all stacks to deal burst damage equal to a percentage of the target's max HP scaling with stacks consumed.
 
 ---
 
@@ -130,27 +134,12 @@ No duration. Resolve at the moment of application. Cannot be blocked, cleansed, 
 
 ---
 
-## Light & Dark Exclusive
+## Unremovable
 
-Effects only appliable by light and dark subclasses. Standard elemental and physical classes cannot apply these under any circumstance, regardless of gear, technique tree or passive draws. This is the primary mechanical expression of LD distinctness — LD subclasses access a vocabulary of effects the rest of the roster cannot reach. The rarity of LD characters is reinforced by the rarity of these effects appearing on the battlefield.
+**Tailwind** — 100% to assist on next ally skill use, then disappears.
 
-LD effects use their own icon colour distinct from standard buffs and debuffs.
+**Brand** — If the target falls below 10% hp (5% bosses) it is executed.
 
-### Dark Exclusive
-
-**Oblivion** — suppresses the target's passive effects for the duration. Passives that are active on the target are disabled and do not trigger while oblivion is applied. Distinct from silence which blocks active skills only. Particularly relevant in PvP where passive identity is a significant part of a character's combat contribution.
-
-**Doom** — countdown debuff with a visible turn counter. Ticks down at the start of each of the target's turns. When the counter reaches zero, deals significant damage to the target and is removed. Cannot crit, damage scales with casters attack, ignore defense. If the target is already afflicted with doom and it gets reapplied, reduce the countdown by 1.
-
-**Wither** — absorb healing equal to a %. When the effect expires naturally deal true damage equal to the remaining amount.
-
-### Light Exclusive
-
-**Sanctuary** — buff. The target cannot be targeted by any skill or attack, single target or AoE, and cannot receive debuffs for the duration. A stronger and more restrictive version of conventional protection effects, balanced by long cooldown on the skills that apply it. The target can still act normally — sanctuary only blocks incoming targeting and debuff application.
-
-**Resurrection** — passive buff that triggers once per combat. When the target would be reduced to zero HP, instead they are restored to full HP and the buff is consumed. Distinct from revive — resurrection prevents the death outright rather than reversing it.
-
-not a status effect but a passive that passively grants the whole team healing, shielding or cleanses a debuff at the start of the light characters turn
 
 ---
 
@@ -163,5 +152,3 @@ Immunity does not remove existing debuffs — it only blocks new ones. A charact
 Instant effects bypass immunity, cleanse and block entirely. A character with immunity can still have their buffs stripped or stolen — these effects are not considered debuffs and do not check against immunity systems.
 
 Cleanse removes debuffs only. Buffs cannot be cleansed from a character by their own team. Strip removes them, on the enemy side.
-
-Oblivion, doom, wither and deep wither cannot be applied by any non-dark class. Sanctuary, resurrection, aegis, foresight and grace cannot be applied by any non-light class. This restriction is absolute — no gear, technique tree, passive draw or status interaction grants access to LD effects to a non-LD character.

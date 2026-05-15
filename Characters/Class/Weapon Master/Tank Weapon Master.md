@@ -18,12 +18,10 @@ buffs:
   - shield
   - DEF+
   - heal over time
-  - Crit DMG+
 debuffs:
   - taunt
   - ATK-
 recovery:
-  - heal
 effects:
   - turn meter+
 ---
@@ -41,7 +39,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 **Bloodward** — Active. Consumes a percentage of current HP. Converts that value into a shield applied to all allies and applies [Heal Over Time] to the team for the duration.
 
-**Brace** — AoE active. Decrease the duration of all debuffs on all allies by 1 turn. Apply [DEF+] to all allies. (unique)
+**Brace** — AoE active. Decrease the duration of all debuffs on all allies by 2 turn. Apply [DEF+] to all allies. (unique)
 
 **Iron Constitution** — Passive. Gain a stacking max HP buff each time an ally takes damage from an enemy action. Stacks once per enemy action regardless of how many allies are hit — AoE attacks grant one stack. Cap at 10 stacks. Stacks are lost at the end of combat. (unique)
 

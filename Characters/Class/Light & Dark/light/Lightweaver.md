@@ -64,7 +64,7 @@ Smaller refinements drawn at slots 5 and 6. Always passives.
 
 **Afterimage** — When Lightweaver triggers a follow-up attack, that follow-up has a chance to trigger one additional follow-up. Cannot chain beyond a single additional proc per turn.
 
-**Radiant Tempo** — Basic attacks apply a small [Bar Push] to all allies.
+**Radiant Tempo** — Basic attacks apply a small [Turn Meter+] to all allies.
 
 **Illuminate** — Basic attacks deal bonus damage against enemies with no active buffs. Pairs naturally with Solar Flare — stripping buffs then punishing the stripped targets on subsequent turns.
 

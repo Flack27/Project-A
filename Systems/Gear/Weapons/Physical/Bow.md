@@ -25,7 +25,7 @@ effects: []
 
 - X% damage, 1 hit
 	- X% damage to all enemies, 1 hit _(Ranger)_
-		- X% damage to all enemies, 3 hits, X% chance to apply [Pinned] and [Bleed]
+		- X% damage to all enemies, 2 hits, X% chance to apply [Pinned] and [Bleed]
 			- ATK
 			- SPD
 		- X% damage to all enemies, 1 hit, X% chance to apply [Pinned] and [ACC-] 

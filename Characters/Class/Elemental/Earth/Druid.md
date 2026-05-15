@@ -52,6 +52,6 @@ Smaller refinements drawn at slots 5 and 6. Always passives.
 
 **Living Canopy** — Allies with an active [Heal Over Time] applied by Druid take reduced damage from all sources.
 
-**Regrowth** — At the start of Druid's turn, a fixed chance to reduce one of Druid's skill cooldowns by 1 turn.
+**Regrowth** — If an ally start his turn below X% of hp, apply [Heal Over Time] to them.
 
 **Abundant Harvest** — Increase all healing done by Druid by a fixed percentage.

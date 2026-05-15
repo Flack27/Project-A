@@ -33,7 +33,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 **Spirit Drain** — Single target active. Deal damage to the target equal to a percentage of Terramancer's max HP, ignoring DEF. Apply a shield to all allies for the same amount.
 
-**Soul Circle** — Single target active. [Steal] all buffs from the target. Distribute all buffs currently on Terramancer evenly across all allies, applying each buff with its remaining duration.
+**Soul Circle** — Single target active. apply [endure] to self then [Steal] all buffs from the target. Distribute all buffs currently on Terramancer evenly across all allies, applying each buff with its remaining duration.
 
 **Earthen Grasp** — AoE active. Deal damage to all enemies. Apply [Entangle] and [CRIT Rate-] to all enemies hit.
 

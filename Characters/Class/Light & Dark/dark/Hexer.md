@@ -46,7 +46,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 Smaller refinements drawn at slots 5 and 6. Always passives.
 
-**Dark Harvest** — When any ally receives a debuff, Hexer gains a small amount of turn meter. Triggers once per turn per ally.
+**Dark Harvest** — When any ally receives a debuff, Hexer gains a small amount of [turn meter+]. Triggers once per turn per ally.
 
 **Burden of Many** — Reduce all damage taken by a fixed percentage for each unique debuff currently on enemies. Caps at a fixed number of stacks.
 

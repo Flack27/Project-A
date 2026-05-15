@@ -16,7 +16,7 @@ effects:
 	- X% damage, 2 hits, X% chance to apply [turn meter-]
 		- ATK _(Warrior, Ranger, Duelist)_
 		- SPD _(Galebreaker)_
-	- X% damage, 3 hits, X% chance to apply [Bleed]
+	- X% damage, 2 hits, X% chance to apply [Bleed]
 		- ATK _(Warrior, Ranger, Duelist)_
 		- SPD _(Galebreaker)_
 

@@ -48,7 +48,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 Smaller refinements drawn at slots 5 and 6. Always passives.
 
-**Undying Will** — The first time Revenant is hit each turn, gain a small amount of turn meter.
+**Undying Will** — The first time Revenant is hit each turn, gain a small amount of [turn meter+].
 
 **Looming Presence** — Increase effect accuracy by a fixed percentage of Revenant's max HP.
 

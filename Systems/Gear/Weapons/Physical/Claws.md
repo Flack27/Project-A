@@ -15,7 +15,7 @@ effects:
 	- X% damage, 2 hits, X% chance to apply [Vulnerable] 
 		- ATK
 		- SPD
-	- X% damage, 3 hits, X% chance to apply [Bleed] _(Berserker, Rogue, Galebreaker, Ranger)_
+	- X% damage, 2 hits, X% chance to apply [Bleed] _(Berserker, Rogue, Galebreaker, Ranger)_
 		- ATK
 		- SPD
 
@@ -36,6 +36,6 @@ effects:
 		- X% damage, 4 hits — execute target below 10% HP {5% against bosses}
 			- ATK
 			- SPD
-		- X% damage, 2 hits — detonate [Bleed] stacks on target
+		- X% damage, 2 hits — detonate bleed stacks to deal % max hp damage per [Bleed] stacks on target. 
 			- ATK
 			- SPD 

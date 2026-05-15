@@ -14,10 +14,7 @@ weapons:
   - claws
   - scythe
 buffs:
-  - ATK+
-debuffs:
-  - ACC-
-  - DEF-
+debuffs: [DEF-, block, ACC-]
 recovery:
 effects:
   - strip
