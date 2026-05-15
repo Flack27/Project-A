@@ -4,10 +4,7 @@ scaling:
   - SPD
 buffs: []
 debuffs:
-  - bleed
   - SPD-
-  - DEF-
-  - pinned
 recovery: []
 effects:
   - turn meter-
