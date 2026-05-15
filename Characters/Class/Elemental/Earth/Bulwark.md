@@ -53,7 +53,7 @@ Smaller refinements drawn at slots 5 and 6. Always passives.
 
 **Rooted** — Each time Bulwark is hit by an enemy attack, gain a small amount of turn meter.
 
-**Immovable** — Turn meter reduction effects applied to Bulwark are reduced by a fixed percentage.
+**Deeprooted** —  Take reduced damage from taunted enemies.
 
 **Ironbark** — The first hit Bulwark receives each turn heals Bulwark for a percentage of max hp
 
