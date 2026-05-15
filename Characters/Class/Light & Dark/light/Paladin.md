@@ -22,8 +22,7 @@ buffs:
   - damage reduction
 debuffs:
 recovery:
-  - self heal
-effects:
+effects: [turn meter-, steal]
 ---
 Self-sustaining frontline DPS built around Sanctuary as a personal survival tool. Damage output is the primary contribution — survival mechanics exist to keep Paladin in the fight rather than to support the team. Sanctuary applied through skills is light exclusive and unavailable to any physical class. ATK investment serves double duty, driving damage output and feeding the flat damage reduction passive. Two distinct major passive identities produce meaningfully different builds — the untouched passive rewards controlling engagements and staying out of punishment, the debuff flip rewards tanking stat debuffs and converting them into offensive fuel.
 
@@ -35,7 +34,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 **Divine Smite** — Single target active. High damage hit. Apply [Sanctuary] to self for the duration.
 
-**Nebula** — AoE active. Deal damage to all enemies. Steal one buff from all enemies. Apply [Turn Meter-] to all enemies.
+**Nebula** — AoE active. Deal damage to all enemies. [Steal] one buff from all enemies. Apply [Turn Meter-] to all enemies.
 
 **Hallowed Aegis** — AoE active. Deal damage to all enemies. Apply [Sanctuary] to an ally.
 

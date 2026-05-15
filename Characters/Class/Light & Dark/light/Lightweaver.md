@@ -21,7 +21,6 @@ recovery: []
 effects:
   - steal
   - turn meter+
-  - turn order swap
 ---
 DEF-scaling damage dealer built around basic attack cycling and follow-up attacks. Damage output, survivability and follow-up rate all draw from the same stat investment, creating a unified gearing identity. Equipping a staff transforms it into a Solar Staff with a Lightweaver-exclusive technique tree — different visuals, different abilities, DEF scaling throughout. Two distinct major passive directions produce meaningfully different builds: the stack passive is team-dependent and rewards ally skill usage, the DEF passive is fully self-contained. Both are viable. Neither is required for the kit to function.
 
