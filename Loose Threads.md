@@ -43,7 +43,7 @@ and synergy knowledge over spending but the actual design is untouched.
 **Bond-Based Reactive Combat** Characters with a strong lobby bond occasionally react to each other mid-fight — covering a debuff, following up on a kill, throwing a small shield when a partner drops below a threshold. Not scripted combos, emergent reactions based on bond strength. Needs boundary-setting so it stays a flavor layer and doesn't become a required synergy system. Ties directly into the morale and relationship systems and makes lobby attachment feel mechanical rather than just flavor. Design belongs in a combat addendum or relationship systems doc when those get written.
 
 ---
-**Loose Thread: Visual Asset Generation Pipeline Spec** Design the input spec for AI art and mesh generation alongside the character system rather than retrofitting it later. When generation tools are ready, a defined set of inputs per character - race templates, body type parameters, age reads, personality visual signals, style reference anchors - means the transition from placeholder to real assets is clean and consistent across a large roster. Mirrors the tag structure already designed for memory fragment generation. No action needed until the art and mesh pipeline is being built, but the input schema should be drafted when the character system is stable.
+**Visual Asset Generation Pipeline Spec** Design the input spec for AI art and mesh generation alongside the character system rather than retrofitting it later. When generation tools are ready, a defined set of inputs per character - race templates, body type parameters, age reads, personality visual signals, style reference anchors - means the transition from placeholder to real assets is clean and consistent across a large roster. Mirrors the tag structure already designed for memory fragment generation. No action needed until the art and mesh pipeline is being built, but the input schema should be drafted when the character system is stable.
 
 ---
 
@@ -71,6 +71,7 @@ rewards for achievements
 what happens when a character has a weapon equipped but gets a class that cant have that weapon equipped
 
 ---
+
 game mode to obtain angel / demon
 event where rare drop chance increases, gold increases etc.
 
