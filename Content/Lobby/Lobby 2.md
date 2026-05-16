@@ -1,6 +1,9 @@
-Dorms 
-Arcane workshop
-Apothecary 
-Glyphsmith
-Trials
-Dungeons
+## Available to Construct
+
+[[Quarters]] — [[Arcane Workshop]] — [[Apothecary]] — [[Glyph Smithy]] — [[Crucible]] — [[Delve]]
+
+---
+
+## Upgrades Available
+
+Tier 2 [[Smithy]] 

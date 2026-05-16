@@ -14,15 +14,15 @@ Characters are assigned to floors by default based on their current level. Highe
 
 #### Floor Unlocks
 
-| Floors | Lobby Tier | Star Cap | Weapon Tier | Glyphs             |
-| ------ | ---------- | -------- | ----------- | ------------------ |
-| 1–5    | 1          | 1-star   | Tier 1      | None               |
-| 6–15   | 2          | 2-star   | Tier 2      | Common (white)     |
-| 16–30  | 3          | 3-star   | Tier 3      | Uncommon (green)   |
-| 31–50  | 4          | 4-star   | Tier 4      | Rare (blue)        |
-| 51–70  | 5          | 5-star   | Tier 5      | Legendary (yellow) |
-| 71–90  | 6          | 6-star   | Tier 6      | Primal (red)       |
-| 91+    | 7          | 7-star   | Tier 7      | Artifacts          |
+| Floors | Lobby Tier | Star Cap | Weapon Tier | Glyphs             | Resources | **Sigils** |
+| ------ | ---------- | -------- | ----------- | ------------------ | --------- | ---------- |
+| 1–5    | 1          | 1-star   | Tier 1      | None               | Tier 1    |            |
+| 6–15   | 2          | 2-star   | Tier 2      | Common (white)     | Tier 1    | Tier 1     |
+| 16–30  | 3          | 3-star   | Tier 3      | Uncommon (green)   | Tier 1    | Tier 1     |
+| 31–50  | 4          | 4-star   | Tier 4      | Rare (blue)        | Tier 2    | Tier 2     |
+| 51–70  | 5          | 5-star   | Tier 5      | Legendary (yellow) | Tier 2    | Tier 2     |
+| 71–90  | 6          | 6-star   | Tier 6      | Primal (red)       | Tier 3    | Tier 3     |
+| 91+    | 7          | 7-star   | Tier 7      | Artifacts          | Tier 3    | Tier 3     |
 
 ---
 

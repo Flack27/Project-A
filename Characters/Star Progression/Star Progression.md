@@ -32,6 +32,13 @@ Within each star tier, levels 20, 40 and 60 — the cap of tiers 2, 4 and 6 — 
 
 Each star ascension requires specific materials alongside the level cap. Materials tier up with each ascension — 2 star materials are common and available early, 5 and 6 star materials require dedicated farming of late game content. See [[Resources]].
 
+**2 star** —  Tier 1 Ascension core, Tier 1 sigils
+**3 star** —  Tier 1 Ascension core, Tier 1 sigils
+**4 star** —  Tier 2 Ascension core, Tier 2 sigils
+**5 star** —  Tier 2 Ascension core, Tier 2 sigils
+**6 star** —  Tier 3 Ascension core, Tier 3 sigils
+**7 star** —  Tier 3 Ascension core, Tier 3 sigils + extra material
+
 ---
 
 ## Summoned Higher Stars

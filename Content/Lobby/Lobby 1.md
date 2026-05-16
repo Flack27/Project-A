@@ -1,6 +1,10 @@
-Summoning Gate 
-Dorms 
-Storage 
-Smithy 
-Expeditions 
-Sanctum
+
+## Pre-built
+
+[[Gate]]
+
+---
+
+## Available to Construct
+
+[[Quarters]] — [[Storage]] — [[Smithy]] — [[Dispatch]] — [[Sanctum]]
