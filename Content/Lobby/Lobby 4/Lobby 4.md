@@ -13,5 +13,5 @@ Tier 3 [[Delve]]
 Tier 3 [[Apothecary]] 
 Tier 2 [[Training Ground]]
 Tier 2 [[Crucible]]
-Tier 2 [[Dispatch]]
+Tier 2 [[Dispatch]] (tier 1 resources)
 Tier 2 [[Guild Hall]]

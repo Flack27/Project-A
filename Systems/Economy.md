@@ -80,7 +80,7 @@ Active content split at steady state (shifts toward dungeons in late game):
 
 ## Expedition Resource Income
 
-Expedition zones each produce two resource types — a primary and a secondary. Yield per run at base is 20 units primary, 10 units secondary.
+Expedition zones each produce two resource types — a primary and a secondary. Base yield per run is 20 units primary, 10 units secondary. All tiers yield the same unit counts — resource tier determines which recipes the materials feed, not how much drops per run.
 
 **Zone pairings**
 
@@ -88,25 +88,38 @@ Expedition zones each produce two resource types — a primary and a secondary. 
 - Mine: Stone (20) / Iron (10)
 - Crystal Cave: Crystal (20) / Aether (10)
 
-**Daily resource income**
+**Expedition slots** — start at 1, slot 2 unlocks at lobby tier 3, slot 3 at lobby tier 6. Each additional slot runs a separate zone simultaneously. Income scales directly with slots.
 
-|                    | Passive (30 runs) | Active (60 runs) | Active + T3 Harvester |
-| ------------------ | ----------------- | ---------------- | --------------------- |
-| Primary resource   | 600               | 1200             | 1800                  |
-| Secondary resource | 300               | 600              | 900                   |
+**Vocation bonuses**
 
-Harvester vocation tiers: +10% / +25% / +50% yield per resource type. Optimal expedition party runs one Scout, two Harvesters matched to the zone's two resource types, and one Prospector for rare material chance.
+- Scout (T3): 40% run time reduction — effectively increases daily runs in a fixed time window
+- Harvester (T3): +50% yield per resource type per run
+- Combined at lobby 6–7: assumed active for cost anchoring at that tier
 
-Expedition slots start at 1 and expand through research — slot 2 unlocks at lobby tier 3, slot 3 at lobby tier 6. Each additional slot allows a second or third zone to run simultaneously, covering more resource types passively.
+**Daily primary resource income by lobby tier**
+
+|                         | Passive (30 runs) | Active (60 runs) | Active + T3 Harvester / Scout |
+| ----------------------- | ----------------- | ---------------- | ----------------------------- |
+| **Lobby 1–2** (1 slot)  | 600               | 1200             | 2400                          |
+| **Lobby 3–5** (2 slots) | 1200              | 2400             | 4800                          |
+| **Lobby 6–7** (3 slots) | 1800              | 3600             | 9600                          |
+
+Secondary resource income is half the primary values throughout.
 
 ---
 
-## Building Cost Anchor
+## Building Cost Anchors
 
-Building upgrade costs are set relative to active player daily resource income. Target timescales per upgrade tier:
+Costs are set against active player income (non-optimised baseline). Vocations compress these timescales by 50–100% at peak — floor 7 at full optimisation takes roughly 3 months rather than 8. Floor 1 costs reflect the tutorial pace where buildings feel cheap and fast to repair or construct.
 
-- Tier 1 upgrade: 2–3 days of focused expedition farming
-- Tier 2 upgrade: 5–7 days
-- Tier 3 upgrade: 10–14 days
+| Lobby Floor | Timescale (base) | Active Income | Total Primary Units |
+| ----------- | ---------------- | ------------- | ------------------- |
+| 1           | ~100 min         | 1,200/day     | ~200                |
+| 2           | 1 day            | 1,200/day     | 1,200               |
+| 3           | 1 week           | 2,400/day     | 16,800              |
+| 4           | 1 month          | 2,400/day     | 72,000              |
+| 5           | 2 months         | 2,400/day     | 144,000             |
+| 6           | 4 months         | 3,600/day     | 432,000             |
+| 7           | 8 months         | 3,600/day     | 864,000             |
 
-At 1200 primary units per day (active player): Tier 1 ≈ 2400–3600 units. Tier 2 ≈ 6000–8400 units. Tier 3 ≈ 12000–16800 units. Passive player takes roughly double. All values are anchors — final numbers require simulation against the full upgrade tree. See Economy Balancing in Loose Threads.
+Total units are spread across all buildings and upgrade tiers on that floor. Individual building costs are derived by dividing the floor total across its building count and upgrade tier count. Specific values are set per building doc. All numbers are anchors pending simulation. See Economy Balancing in Loose Threads.
