@@ -14,7 +14,7 @@ Characters are assigned to floors by default based on their current level. Highe
 
 #### Floor Unlocks
 
-| Floors | Lobby Tier | Star Cap | Weapon Tier | Runes              |
+| Floors | Lobby Tier | Star Cap | Weapon Tier | Glyphs             |
 | ------ | ---------- | -------- | ----------- | ------------------ |
 | 1–5    | 1          | 1-star   | Tier 1      | None               |
 | 6–15   | 2          | 2-star   | Tier 2      | Common (white)     |

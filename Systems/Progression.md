@@ -5,7 +5,7 @@ The tower is the spine of progression. Clearing floor milestones unlocks lobby u
 
 ## Progression Gates
 
-| Floors | Lobby Tier | Star Cap | Weapon Tier | Runes              |
+| Floors | Lobby Tier | Star Cap | Weapon Tier | Glyphs             |
 | ------ | ---------- | -------- | ----------- | ------------------ |
 | 1–5    | 1          | 1-star   | Tier 1      | None               |
 | 6–15   | 2          | 2-star   | Tier 2      | Common (white)     |
@@ -43,4 +43,4 @@ Once a gate is cleared the difficulty resets cleanly. Old tier content becomes f
 
 Character levelling is an exception to this momentum. XP gain stays moderately slow throughout all tiers, even after a gate clears. Characters should never feel like they level trivially fast regardless of how efficient the farming is. The slow baseline is what makes synthesis feel meaningful and what keeps the roster management decisions real.
 
-Characters are capped on the gear they can equip by their current star level. A 2-star character cannot equip Rare runes or Tier 3 weapons regardless of availability. This ensures that gear progression and character progression are always coupled — over-investing in gear for an underdeveloped character is not possible, and the incentive to ascend characters remains constant.
+Characters are capped on the gear they can equip by their current star level. A 2-star character cannot equip Rare glyph or Tier 3 weapons regardless of availability. This ensures that gear progression and character progression are always coupled — over-investing in gear for an underdeveloped character is not possible, and the incentive to ascend characters remains constant.

@@ -46,7 +46,7 @@ Core idea: assigned to the smithy, improves output quality and variety beyond wh
 - Apprentice — reduces material cost slightly
 - Journeyman — occasionally produces higher quality gear
 - Master — chance to produce rare gear unavailable otherwise
-- Runesmith — (fused) specialises in gear with unique substats
+- Glyph smith — (fused) specialises in gear with unique substats
 
 ---
 

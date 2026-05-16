@@ -42,7 +42,7 @@ Mastery is specific to the character and weapon combination. A fully mastered st
 ---
 ## Set Bonus
 
-Each weapon carries 2 set bonus slots which cannot be of the same set. This slot contributes to the same set system as runes weapon and rune set bonuses overlap, so a weapon's set tag counts toward completing a rune set threshold.
+Each weapon carries 2 set bonus slots which cannot be of the same set. This slot contributes to the same set system as glyphs weapon and rune set bonuses overlap, so a weapon's set tag counts toward completing a rune set threshold.
 
 The set bonus on a weapon is randomly assigned and can be rerolled. The pool of possible set tags is not curated per weapon type any set tag can appear on any weapon. Rerolling is available at any time from the smithy.
 

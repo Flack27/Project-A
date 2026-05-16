@@ -2,23 +2,32 @@ Resources are the economic foundation of the game. Every system — summoning, b
 
 ---
 
-#### Currency
-
-**Gold** The universal currency. Always needed, always being spent. Used for building upgrades, gear crafting, rune upgrades, skill retraining, lobby management and most other economic actions. Becomes the primary bottleneck in mid to late game when rune upgrades and building development start demanding significant quantities. Earned through combat, expeditions, selling gear and daily play. Never purchased directly.
-
-**Crystals** The mid tier currency. Earned through normal play — tower floor clears, daily missions, events, battle pass, tower milestones. The primary decision currency of the game. Spent on either summoning or energy recharges. Both are valid uses at different points in progression. Should flow freely enough that players are making this choice regularly rather than hoarding for weeks. Never a hard pay to win purchase — if purchasable at all only in small limited quantities that don't meaningfully change the equation for a spender versus a dedicated F2P player.
-
-**Scrolls** The targeted summon currency. Genuinely rare and meaningful. Earned through tower milestones, major events, battle pass and limited direct purchase. Unlike crystals scrolls are element or race specific — a wind scroll pulls from the wind character pool, an elf scroll from the elf pool. Used when a player knows what their roster needs rather than for general discovery. Getting a scroll feels like a meaningful moment because they arrive infrequently.
-
----
-
 #### Materials
 
-**Craft materials** Used for building upgrades and lobby construction. Gathered through expeditions, tower floors and dungeons. Tiered by rarity — basic materials available everywhere from early play, uncommon materials from mid game content, rare materials gated behind later floors and dungeons. Examples: wood, stone, ore, reagents. Specific material types required for specific building upgrades, creating natural farming targets.
+**Expedition Materials** — 3 tiers each
 
-**Ascension materials** Used for star ascension. Character progression beyond each star threshold requires specific materials alongside the level requirement. Gated behind specific content — certain dungeons, tower milestones, expeditions. The primary driver of dungeon farming motivation. Tiered by ascension level — materials for 2 star ascension are common, materials for 5 and 6 star ascension are rare and require dedicated farming of late game content.
+- Wood — physical weapons, staffs, buildings
+- Herbs — potions, bows, tomes
+- Stone — buildings, glyph crafting
+- Iron — physical weapons, weapon upgrades, buildings
+- Crystal — orbs, glyph crafting, buildings
+- Aether — magic weapons, potions, buildings
 
-**Gear materials** Dropped from tower floors, dungeons and expeditions. Used in the smithy to craft and upgrade gear. Tiered by quality matching content difficulty — early floors drop basic gear materials, deep dungeons drop rare gear materials unavailable elsewhere.
+**Ascension Materials** — 3 tiers each
+
+- Fire / Earth / Wind / Light / Dark / Unbound Sigils — skill upgrades / character ascension
+
+**Rare Materials** — 3 tiers each
+
+- Ascension Core — required for character ascension (tower low drop chance)
+- Remnant — required for skill upgrades (expeditions, dungeons, trials low drop chance)
+- Glyph Echo — glyph advancement (dungeons drop chance)
+
+**Currencies**
+
+- Gold — all economic actions
+- Gems — summoning, energy recharge
+- Scrolls — targeted summoning, element and race specific
 
 ---
 

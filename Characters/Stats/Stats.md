@@ -18,7 +18,7 @@ Primary stats have a base value determined by race and a variance range determin
 
 ## Secondary Stats
 
-Secondary stats have no meaningful base value — differentiation comes entirely from gear, runes, skills and passives. All characters begin at the same baseline.
+Secondary stats have no meaningful base value — differentiation comes entirely from gear, glyphs, skills and passives. All characters begin at the same baseline.
 
 **Crit Rate** — probability of landing a critical hit. Base value is 15%. Caps at 100%. Once 100% is reached every attack crits and further crit rate investment has no value — pivot entirely to crit damage at that point.
 

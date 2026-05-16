@@ -14,13 +14,13 @@ Racial identity: high variance. Human growth and aptitude rolls have a wider dis
 
 Affinity toward earth. Higher probability of earth elemental awakening than other elements. Natural tendency toward piercing weapons.
 
-Racial identity: higher chance of gathering traits
+Racial identity: higher chance of gathering traits.
 
 ### Dwarf
 
 Affinity toward fire. Higher probability of earth fire awakening. Natural tendency toward bludgeoning weapons.
 
-Racial identity: defense related, something around DEF scaling or damage reduction thresholds. Fits the fantasy without being a passive stat wall. Specifics left open. See Loose Threads.
+Racial identity: higher chance of x traits.
 
 ### Beastman
 

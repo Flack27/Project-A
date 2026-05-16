@@ -1,6 +1,6 @@
 Dorms 
 Arcane workshop
 Apothecary 
-Runesmith
+Glyphsmith
 Trials
 Dungeons
