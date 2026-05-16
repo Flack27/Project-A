@@ -131,3 +131,6 @@ what happens when a character has a weapon equipped but gets a class that cant h
 ---
 game mode to obtain angel / demon
 event where rare drop chance increases, gold increases etc.
+
+---
+cool animations in game when you go into tower / dungeon zoom into portal

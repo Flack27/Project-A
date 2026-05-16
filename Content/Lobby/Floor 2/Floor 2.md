@@ -1,3 +1,0 @@
-research
-arcane workshop
-laboratory

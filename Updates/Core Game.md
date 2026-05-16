@@ -11,3 +11,23 @@ Characters progress through star tiers, from 1 to 6 with 7 as an endgame ceiling
 ### Combat
 
 The combat will feel familiar if you've played any turn-based idle RPG. You build a party of four characters and fight through enemy encounters, each character acting in turn order determined by their speed stat. Faster characters act more frequently and can lap slower ones entirely, making speed one of the most important things to build around. Each character has four active skills, two from their weapon tree and two locked in by their class, plus a basic attack that's always available. That's the standard stuff. Where it gets more interesting is the auto battle system. **Auto battle** lets your party fight without any input from you, which fits the background-game design goal. But it's not just "use whatever skill is off cooldown." Auto battle intelligence scales with how trained a character is. A freshly summoned character will use whatever skill is off cooldown. A well developed one reads the fight, targets intelligently, uses skills situationally rather than on cooldown. More importantly, characters who train and fight together start playing around each other. A support learns to hold a cleanse for the specific debuff that the enemy team likes to apply rather than burning it immediately. A damage dealer learns to set up after the buffer has acted rather than before. Teams that have fought together develop a chemistry that random groups of well-built characters don't have. This means two players with identical characters can have completely different results depending on how they raised them and who they raised them alongside. You can also jump into manual play at any time for full control, and nothing is locked behind playing manually. Auto battle is a ceiling you raise through investment, not a shortcut that replaces skill.
+
+---
+
+#### How you actually play
+
+The game runs at two speeds. The first is a quick check-in; open the game, Set up daily farms, dispatch a few expeditions, collect a rune dungeon run, and close it. Five minutes, no commitment. The second is an active session sitting down to push the next tower floor, optimize a team, play manually instead of trusting auto. Both are fully supported and the game doesn't push you toward either. You can play this entirely in five minute bursts for months without feeling like you're missing the real game, and you can also spent hours optimizing and building characters for the next floor.
+
+#### What runs without you
+
+Only content you've already beaten runs in the background. Previously cleared tower floors farmed for character XP, dungeons farmed for glyphs, expeditions in the lobby gathering materials. Auto-battle handles all of this on cleared content and feeds your active progression. You can leave the game running with YouTube on and come back to a stockpile.
+
+Climbing the tower is always an active endeavor. New floors are real challenges that require gear and team investment, you cannot blitz them. Auto-battle still runs the fight if you want but you've built the team running it. New dungeons unlock the same way climbing exposes them but actually clearing them stays hands on until they become farmable. The split is clean. Known content runs itself, new content takes attention.
+
+#### Energy
+
+Energy exists but it sits closer to a resource than a limiter. There is generally enough of it through normal play to keep going all day without rationing. Crystals can be spent on either summoning or topping up energy, so the choice is closer to "do I want to pull today or do I want to run more dungeons" than "is the game letting me play." Anyone playing at a normal pace has enough of both.
+
+#### The tower as the spine
+
+Tower climbing is the main activity day to day, but everything else in the game branches off it. Dungeons unlock at tower milestones and host the gear grind. Guild content opens and deepens as you climb. PvP comes later. The tower paces the rest of the game's content but once a system unlocks it lives independently.
