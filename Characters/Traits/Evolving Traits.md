@@ -85,6 +85,12 @@ Core idea: assigned to the kitchen, improves food buffs for lobby characters.
 
 Core idea: improves resource yield and discovery on expeditions.
 
+**Scout** — 10% / 20% / 40% run time reduction specific expedition type. One per party, stacks with nothing.
+
+**Harvester** — 10% / 25% / 50% yield for one specific resource type. Two harvesters in a party cover both resource types a zone produces.
+
+**Prospector** — rare resource drop chance, tiered. One per party.
+
 Base variants:
 
 - Forager — bonus common material yield

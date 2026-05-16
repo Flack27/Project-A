@@ -1,6 +1,6 @@
 ## Available to Construct
 
-[[Quarters]] — [[Guild Warfront]] — [[Guild Vanguard]] — [[Gauntlet]] — [[Gatehouse]]
+[[Quarters]] — [[Warfront]] — [[Vanguard]] — [[Gauntlet]] — [[Gatehouse]]
 
 ---
 
