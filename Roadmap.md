@@ -1,23 +1,3 @@
-#### Phase 3 — Class Depth Pass
-
-With the full class and weapon picture visible, go back through each class and write the actual S3 and S4 skill identities, class passive pools, and resolve scaling and stat interactions properly. This is where Theft.md gets mined — Endure to Guardian, dual attack to Ranger or Duelist, DoT detonation to Fire Mage, stealth to Rogue, cooldown reset chance to a chaotic class, etc.
-
-Exit criteria: every class has its two character skills defined, its class passive pool sketched with minor and major examples, and its identity clearly distinct from neighbouring classes.
-
----
-
-#### Phase 4 — Runes & Gear Parent
-
-Multiple existing docs reference runes (Stats, Gear, Weapons) but the file is empty. Gear.md parent is empty despite Weapons.md being detailed.
-
-Targets:
-
-- Runes.md — set system, substat structure, upgrade path, rarity tiers, how set bonuses combine with weapon set tags
-- Gear.md — parent doc explaining the gear layer overall, slot structure beyond weapons, how the systems fit together
-
-Exit criteria: a player could understand the full gearing loop from these two files plus the existing Weapons.md.
-
----
 
 #### Phase 5 — Content Structure
 

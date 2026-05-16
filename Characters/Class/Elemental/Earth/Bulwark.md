@@ -51,7 +51,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 Smaller refinements drawn at slots 5 and 6. Always passives.
 
-**Rooted** — Each time Bulwark is hit by an enemy attack, gain a small amount of turn meter.
+**Rooted** — If you take damage greater then x% of max HP heal x% of max hp and increase turn meter, with cd.
 
 **Deeprooted** —  Take reduced damage from taunted enemies.
 

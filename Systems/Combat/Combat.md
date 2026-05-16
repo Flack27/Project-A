@@ -20,6 +20,13 @@ Bar manipulation exists as a skill effect — certain skills push an ally's bar 
 
 ---
 
+#### Elements
+
+Fire (bludgeoning) -> Earth (piercing) -> Wind (slashing) -> Fire (bludgeoning)
+
+Light <-> Dark
+
+---
 #### Skills
 
 Every character has four skills plus a basic attack.

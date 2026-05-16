@@ -1,0 +1,6 @@
+- Trial of the Inferno
+- Trial of the Verdant
+- Trial of the Tempest
+- Trial of the Radiant
+- Trial of the Abyss
+- Trial of the Unbound

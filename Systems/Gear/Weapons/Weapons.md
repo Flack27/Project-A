@@ -4,13 +4,13 @@ Weapons are the primary gear slot. They provide ATK, upgrade over time to increa
 
 ## Weapon Types
 
-**Piercing** — dagger, spear, bow Technique trees lean toward SPD and ATK scaling branches. Natural fit for fast damage dealers and wind archetype characters.
+**Piercing** — dagger, spear, bow Technique trees lean toward SPD and ATK scaling branches.
 
-**Slashing** — claws, longsword, battleaxe, sword and shield, scythe Technique trees lean toward ATK scaling with bleed expression. Natural fit for fire archetype and aggressive physical classes. Claws are the default beastman weapon and scale with the character rather than requiring crafting — see [[Race]].
+**Slashing** — claws, longsword, battleaxe, sword and shield, scythe Technique trees lean toward ATK scaling with bleed expression. Claws are the default beastman weapon and scale with the character rather than requiring crafting — see [[Race]].
 
-**Bludgeoning** — maul, meteor hammer, mace and shield Technique trees lean toward DEF and ATK scaling branches. Natural fit for earth archetype and tank classes.
+**Bludgeoning** — maul, meteor hammer, mace and shield Technique trees lean toward DEF and ATK scaling branches.
 
-**Magic** — staff, orb, tome Technique trees are ATK scaling throughout. Staff leans offensive. Orb leans debuff and buff application. Tome leans healing and support. Natural fit for all elemental archetypes.
+**Magic** — staff, orb, tome Technique trees are ATK scaling throughout. Staff leans offensive. Orb leans debuff and buff application. Tome leans healing and support. 
 
 ---
 
@@ -42,7 +42,7 @@ Mastery is specific to the character and weapon combination. A fully mastered st
 ---
 ## Set Bonus
 
-Each weapon carries one set bonus slot. This slot contributes to the same set system as runes — weapon and rune set bonuses overlap, so a weapon's set tag counts toward completing a rune set threshold.
+Each weapon carries 2 set bonus slots which cannot be of the same set. This slot contributes to the same set system as runes weapon and rune set bonuses overlap, so a weapon's set tag counts toward completing a rune set threshold.
 
-The set bonus on a weapon is randomly assigned and can be rerolled for gold. The pool of possible set tags is not curated per weapon type — any set tag can appear on any weapon. Rerolling is available at any time from the smithy.
+The set bonus on a weapon is randomly assigned and can be rerolled. The pool of possible set tags is not curated per weapon type any set tag can appear on any weapon. Rerolling is available at any time from the smithy.
 

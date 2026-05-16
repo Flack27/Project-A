@@ -41,12 +41,12 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 Smaller refinements drawn at slots 5 and 6. Always passives.
 
-**Resolve** — HP increase
+**Determination** — HP increase
 
-**Retribution** — Bonus damage against targets currently affected by [Taunt] applied by this character.
+**Bully** — Bonus damage against targets currently affected by [Taunt] applied by this character.
 
 **Lifeblood** — Every basic attack consumes a small percentage of current HP and deals that value as additional damage on the same hit.
 
 **Vital Drain** — Heal for a fixed percentage of damage dealt by weapon skills. Does not apply to class skills.
 
-**Reprisal** — Grants a flat counter chance on incoming hits. Stacks additively with other counter sources.
+**Retaliation** — Grants a flat counter chance on incoming hits. Stacks additively with other counter sources.

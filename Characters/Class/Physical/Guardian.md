@@ -48,10 +48,10 @@ Smaller refinements drawn at slots 5 and 6. Always passives.
 
 **Provoke** — When this character takes damage, %chance to apply [Taunt] to the attacker.
 
-**Bastion** — At combat start, apply a DEF-scaling [Shield] to all allies. Triggers before the first action regardless of turn order.
+**Fortress** — At combat start, apply a DEF-scaling [Shield] to all allies. Triggers before the first action regardless of turn order.
 
 **Cover** — Passive with cooldown. When a hit that would kill an ally lands, Guardian intercepts it instead, taking the full hit. Guardian's DEF applies normally. Cooldown begins after activation.
 
-**Unyielding** — When a hit would reduce the guardian's hp below 20% gain [Invincibility].
+**Unyielding** — At the start of turn, apply a shield on self and lowest hp ally scaling with DEF. with cd
 
 **Retribution** — While Intercept is active on a target, Guardian counters with a basic attack whenever that target is attacked. Only appears in the minor draw pool if Stalwart already occupies a passive slot on this character. (Requires Intercept)

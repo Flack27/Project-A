@@ -49,7 +49,7 @@ Smaller refinements drawn at slots 5 and 6. Always passives.
 
 **Battle Rhythm** — Every 2 turns, push all allies' action bars forward by X%.
 
-**Escalation** — Each skill use grants a stacking ATK buff. Stacks up to a fixed cap and persist until combat ends.
+**Surge** — Each skill use grants a stacking ATK buff. Stacks up to a fixed cap and persist until combat ends.
 
 **Death Knell** — When any character dies, automatically trigger S1 weapon skill against the lowest HP enemy. Has an internal cooldown.
 

@@ -106,6 +106,7 @@ Full development belongs in the Story document. The Manager's story and the Arch
 ---
 
 Using actual statistics for the testing / balancing and data management?
+make sure to save A LOT of data when game is live
 
 ---
 
@@ -126,3 +127,7 @@ rewards for achievements
 ---
 
 what happens when a character has a weapon equipped but gets a class that cant have that weapon equipped
+
+---
+game mode to obtain angel / demon
+event where rare drop chance increases, gold increases etc.

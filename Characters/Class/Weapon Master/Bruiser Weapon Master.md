@@ -62,4 +62,4 @@ Smaller refinements drawn at slots 5 and 6. Always passives.
 
 **Razor's Edge** — Increase crit rate by a flat amount.
 
-**Reprisal** — Grants a flat counter chance on incoming hits. Stacks additively with other counter sources.
+**Retribution** — Grants a flat counter chance on incoming hits. Stacks additively with other counter sources.

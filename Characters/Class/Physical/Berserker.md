@@ -40,7 +40,7 @@ Class-defining skills and passives. Two are drawn across slots 3 and 4, with at 
 
 **Bloodlust** — Passive. Damage output increases for each fixed percentage of max HP missing. Scales smoothly from full HP downward with no threshold.
 
-**Defiance** — Passive. While this character would be reduced below 1 HP, [Endure] is applied instead. Once per combat, with a long internal cooldown if extended further.
+**Rage** — Passive. While this character would be reduced below 1 HP, [Endure], [ATK+] and [SPD+] is applied instead. Afterwards immediately start your turn.
 
 ---
 

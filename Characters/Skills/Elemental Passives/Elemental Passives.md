@@ -37,7 +37,7 @@ Light and dark passives are part of this pool but are defined separately given t
 
 **Crosswind** — Gain turn meter on basic attack.
 
-**Evasion** — Increase effect resistance against cc effects.
+**Evasion** — After every 3 enemy actions increase turn meter, once per round.
 
 ## Earth
 
