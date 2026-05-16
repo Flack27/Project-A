@@ -10,10 +10,26 @@ Act 1 is climbing, systems unlocking, guilds explained simply as other architect
 
 Act 2 trigger is angels and demons appearing in the tower, eventually entering the lobby. Manager is shocked because nothing has ever come out of the tower before. Pessimism gets a demon, optimism gets an angel. Faction choice locks here and splits into four. Characters start asking questions about where they came from and what synthesis actually did to the ones who are gone.
 
-**Dropped:**
+## The Tower
 
-Underworld god manager, emergent architect from collective death, frozen world, lobby as underworld domain.
+The tower is the contested climb between lobbies and guilds. The top is a throne. The throne is occupied by the floor 100 boss. The first lobby to reach the top and defeat it claims the throne and triggers what comes next.
 
-**Maybe/unresolved:**
+This is the real stake of the game and the reason the climb continues even after the synthesis question is exposed. Whatever the architect told the characters about the synthesized in act 1 becomes secondary once the throne is visible as the actual prize. Characters keep climbing because the answer to what they are and what happened to the ones who are gone is at the top, not in what the architect chose to say at the beginning.
 
-What the synthesized characters' fate actually is. What's at the top of the tower. What caused the worlds to collapse or freeze. The manager's full nature and history.
+Guilds form because no single lobby can hold the climb alone. Other architects and lobbies are allies and rivals depending on the floor and the faction. The race is real and ongoing across the player base.
+
+## Post-Throne
+
+Deliberately undefined. By the time players reach floor 100 the design context will be deep enough to choose between several directions, and locking one in now constrains the next several years of development.
+
+Candidate directions, not mutually exclusive:
+
+- Reaching the throne reveals more above, below or parallel to the tower. New structure, escalated stakes, same loop.
+- The climb triggers a cycle. Tower regrows or reshuffles, previous progress becomes foundational, the experienced architects existing elsewhere are previous winners.
+- The throne is a threshold rather than a prize. Crossing it moves the player into a different mode of play while the tower continues for others.
+
+The floor 100 boss itself is also undefined. What it is, why it sits on the throne, and what defeating it actually does are open.
+
+## Maybe / Unresolved
+
+What the synthesized characters' fate actually is. What's at the top of the tower beyond the throne and its occupant. What caused the worlds to collapse or freeze. The manager's full nature and history. What the floor 100 boss is. What happens after the throne is claimed. Whether the synthesized are recoverable and how that interacts with the throne. What the manager's stake in the climb actually is.
