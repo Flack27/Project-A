@@ -1,6 +1,6 @@
-arcane workshop
-training ground 
-Apothecary 
-Scriptorium 
 Dorms 
+Arcane workshop
+Apothecary 
+Runesmith
+Trials
 Dungeons
